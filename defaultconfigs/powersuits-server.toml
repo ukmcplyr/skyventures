@@ -1,0 +1,559 @@
+
+#General settings
+[General]
+	#Maximum flight speed (in m/s)
+	#Range: 0.0 ~ 3.4028234663852886E38
+	maximumFlyingSpeedmps = 25.0
+	#PowerFistModel2 Base Heat Cap
+	#Range: 0.0 ~ 5000.0
+	baseMaxHeatPowerFist = 5.0
+	#Power Armor Helmet Heat Cap
+	#Range: 0.0 ~ 5000.0
+	baseMaxHeatHelmet = 5.0
+	#Power Armor Chestplate Heat Cap
+	#Range: 0.0 ~ 5000.0
+	baseMaxHeatChest = 20.0
+	#Power Armor Leggings Heat Cap
+	#Range: 0.0 ~ 5000.0
+	baseMaxHeatLegs = 15.0
+	#Power Armor Boots Heat Cap
+	#Range: 0.0 ~ 5000.0
+	baseMaxHeatFeet = 5.0
+	#Ore tag list for vein miner module.
+	veinMinerOres = ["forge:ores/iron", "forge:ores/copper", "forge:ores/tin", "forge:ores/lead", "forge:ores/aluminum", "forge:ores/aluminium", "forge:ores/silver", "forge:ores/gold", "forge:ores/cinnabar", "forge:ores/zinc", "forge:ores/uranium", "forge:ores/platinum", "forge:ores/bismuth", "forge:ores/osmium", "forge:ores/coal", "forge:ores/redstone", "minecraft:glowstone", "forge:ores/diamond", "forge:ores/lapis", "forge:ores/quartz", "forge:ores/fluorite"]
+	#Block registry name whitelist for the vein miner module. 
+	#Use for blocks that don't have an ore tag or to fine tune which blocks to break
+	veinMinerBlocks = []
+
+#Model cosmetic settings
+[Cosmetic]
+	#Use legacy cosmetic configuration instead of cosmetic presets
+	useLegacyCosmeticSystem = true
+	#Allow high polly armor models instead of just skins
+	allowHighPollyArmorModuels = true
+	#Allow PowerFistModel2 model to be customized
+	allowPowerFistCustomization = true
+
+[Modules]
+
+	[Modules.Armor]
+
+		[Modules.Armor.plating_leather]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_armorPhysical = 3.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_maxHeat = 75.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_knockbackResistance = 0.25
+
+		[Modules.Armor.plating_iron]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_armorPhysical = 4.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_maxHeat = 300.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_knockbackResistance = 0.25
+
+		[Modules.Armor.plating_diamond]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_armorPhysical = 5.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_maxHeat = 400.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_knockbackResistance = 0.4000000059604645
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_armorToughness = 2.5
+
+		[Modules.Armor.plating_netherite]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_armorPhysical = 7.5
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_maxHeat = 750.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_knockbackResistance = 1.5
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_armorToughness = 3.5
+
+		[Modules.Armor.energy_shield]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			armorEnergy_fieldStrength_multiplier = 6.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			armorEnergyPerDamage_fieldStrength_multiplier = 5000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			maxHeat_fieldStrength_multiplier = 500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_knockbackResistance = 0.25
+
+	[Modules.Cosmetic]
+
+		[Modules.Cosmetic.transparent_armor]
+			isAllowed = true
+
+	[Modules.Energy_Generation]
+
+		[Modules.Energy_Generation.generator_kinetic]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyPerBlock = 2000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyPerBlock_energyGenerated_multiplier = 6000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_movementResistance = 0.009999999776482582
+			#Range: 0.0 ~ 1.7976931348623157E308
+			movementResistance_energyGenerated_multiplier = 0.49000000953674316
+
+		[Modules.Energy_Generation.generator_solar]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_daytimeEnergyGen = 15000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_nightTimeEnergyGen = 1500.0
+
+		[Modules.Energy_Generation.generator_solar_adv]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_daytimeEnergyGen = 45000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_nightTimeEnergyGen = 1500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_daytimeHeatGen = 15.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_nightTimeHeatGen = 5.0
+
+		[Modules.Energy_Generation.generator_thermal]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyPerBlock = 250.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyPerBlock_energyGenerated_multiplier = 250.0
+
+	[Modules.Environment]
+
+		[Modules.Environment.fluid_tank]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_fluidTankSize = 20000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_heatActivationPercent = 0.5
+			#Range: 0.0 ~ 1.7976931348623157E308
+			heatActivationPercent_activationPercent_multiplier = 0.5
+
+		[Modules.Environment.auto_feeder]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 100.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_autoFeederEfficiency = 50.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_efficiency_multiplier = 1000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			autoFeederEfficiency_efficiency_multiplier = 50.0
+
+		[Modules.Environment.cooling_system]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			coolingBonus_energyCon_multiplier = 1.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_energyCon_multiplier = 40.0
+
+		[Modules.Environment.water_electrolyzer]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 10000.0
+			isAllowed = true
+
+		[Modules.Environment.mob_repulsor]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 2500.0
+			isAllowed = true
+
+	[Modules.Mining_Enhancement]
+
+		[Modules.Mining_Enhancement.aoe_pick_upgrade]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_diameter_multiplier = 9500.0
+			#Range: > 0
+			aoeMiningDiameter_diameter_multiplier = 5
+
+		[Modules.Mining_Enhancement.aoe_pick_upgrade2]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_aoe2Limit = 1.0
+			#Range: > 0
+			aoe2Limit_aoe2Limit_multiplier = 59
+
+		[Modules.Mining_Enhancement.fortune]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_fortuneEnCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			fortuneEnCon_enchLevel_multiplier = 9500.0
+			#Range: > 0
+			fortuneLevel_enchLevel_multiplier = 3
+
+		[Modules.Mining_Enhancement.tunnel_bore]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_diameter_multiplier = 9500.0
+			#Range: > 0
+			aoeMiningDiameter_diameter_multiplier = 5
+
+		[Modules.Mining_Enhancement.vein_miner]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+
+		[Modules.Mining_Enhancement.silk_touch]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_silkTouchEnCon = 2500.0
+			isAllowed = true
+
+		[Modules.Mining_Enhancement.aqua_affinity]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 0.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_aquaHarvSpeed = 0.20000000298023224
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_power_multiplier = 1000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			aquaHarvSpeed_power_multiplier = 0.800000011920929
+
+	[Modules.Movement]
+
+		[Modules.Movement.jump_assist]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 0.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_power_multiplier = 250.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_multiplier = 1.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			multiplier_power_multiplier = 4.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_compensation_multiplier = 50.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_sprintExComp = 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			sprintExComp_compensation_multiplier = 1.0
+
+		[Modules.Movement.swim_assist]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_thrust_multiplier = 1000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			underwaterMovBoost_thrust_multiplier = 1.0
+
+		[Modules.Movement.parachute]
+			isAllowed = true
+
+		[Modules.Movement.dim_rift_gen]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_heatGen = 55.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 200000.0
+
+		[Modules.Movement.sprint_assist]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_sprintEnergyCon = 0.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			sprintEnergyCon_sprintAssist_multiplier = 5000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_sprintSpeedMult = 0.1
+			#Range: 0.0 ~ 1.7976931348623157E308
+			sprintSpeedMult_sprintAssist_multiplier = 2.49
+			#Range: 0.0 ~ 1.7976931348623157E308
+			sprintEnergyCon_compensation_multiplier = 2000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_sprintExComp = 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			sprintExComp_compensation_multiplier = 1.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_walkingEnergyCon = 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			walkingEnergyCon_walkingAssist_multiplier = 5000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_walkingSpeedMult = 0.01
+			#Range: 0.0 ~ 1.7976931348623157E308
+			walkingSpeedMult_walkingAssist_multiplier = 1.99
+
+		[Modules.Movement.jetpack]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 0.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_jetpackThrust = 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_thrust_multiplier = 15000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			jetpackThrust_thrust_multiplier = 0.1599999964237213
+
+		[Modules.Movement.climb_assist]
+			isAllowed = true
+
+		[Modules.Movement.shock_absorber]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 0.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_power_multiplier = 100.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_multiplier = 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			multiplier_power_multiplier = 10.0
+
+		[Modules.Movement.flight_control]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			yLookRatio_vertically_multiplier = 1.0
+			isAllowed = true
+
+		[Modules.Movement.glider]
+			isAllowed = true
+
+		[Modules.Movement.jet_boots]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 0.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_jetbootsThrust = 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_thrust_multiplier = 750.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			jetbootsThrust_thrust_multiplier = 0.07999999821186066
+
+		[Modules.Movement.blink_drive]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 10000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_blinkDriveRange = 5.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_range_multiplier = 30000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			blinkDriveRange_range_multiplier = 59.0
+
+	[Modules.Special]
+
+		[Modules.Special.piglin_pacification_module]
+			isAllowed = true
+
+		[Modules.Special.magnet]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_radius = 1.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 5.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_radius_multiplier = 2000.0
+			#Range: > 0
+			radius_radius_multiplier = 9
+
+		[Modules.Special.invisibility]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_invisibilityEnergy = 100.0
+			isAllowed = true
+
+		[Modules.Special.item_minecraft_clock]
+			isAllowed = true
+
+		[Modules.Special.item_minecraft_compass]
+			isAllowed = true
+
+	[Modules.Tool]
+
+		[Modules.Tool.block_powersuits_tinkertable]
+			isAllowed = true
+
+		[Modules.Tool.item_refinedstorage_wireless_grid]
+			isAllowed = true
+
+		[Modules.Tool.luxcapacitor_module]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 1000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.0
+			redHue_red_multiplier = 1.0
+			#Range: 0.0 ~ 1.0
+			greenHue_green_multiplier = 1.0
+			#Range: 0.0 ~ 1.0
+			blueHue_blue_multiplier = 1.0
+			#Range: 0.0 ~ 1.0
+			opacity_alpha_multiplier = 1.0
+
+		[Modules.Tool.diamond_pick_upgrade]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+
+		[Modules.Tool.pickaxe]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_harvestSpeed = 8.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_overclock_multiplier = 9500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			harvestSpeed_overclock_multiplier = 52.0
+
+		[Modules.Tool.shovel]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_harvestSpeed = 8.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_overclock_multiplier = 9500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			harvestSpeed_overclock_multiplier = 22.0
+
+		[Modules.Tool.item_appliedenergistics2_wireless_terminal]
+			isAllowed = true
+
+		[Modules.Tool.leaf_blower]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_radius_multiplier = 9500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_radius = 1.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			radius_radius_multiplier = 15.0
+
+		[Modules.Tool.item_scannable_scanner]
+			isAllowed = true
+
+		[Modules.Tool.axe]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_harvestSpeed = 8.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_overclock_multiplier = 9500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			harvestSpeed_overclock_multiplier = 22.0
+
+		[Modules.Tool.item_refinedstorage_wireless_fluid_grid]
+			isAllowed = true
+
+		[Modules.Tool.shears]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 1000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_harvestSpeed = 8.0
+
+		[Modules.Tool.block_minecraft_crafting_table]
+			isAllowed = true
+
+		[Modules.Tool.flint_and_steel]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 10000.0
+			isAllowed = true
+
+		[Modules.Tool.hoe]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_radius_multiplier = 9500.0
+			#Range: > 0
+			radius_radius_multiplier = 8
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_harvestSpeed = 8.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_overclock_multiplier = 9500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			harvestSpeed_overclock_multiplier = 22.0
+
+	[Modules.Vision]
+
+		[Modules.Vision.night_vision]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 100.0
+			isAllowed = true
+
+		[Modules.Vision.binoculars]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_fieldOfView = 0.5
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			fieldOfView_fOVMult_multiplier = 9.5
+
+	[Modules.Weapon]
+
+		[Modules.Weapon.plasma_cannon]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_plasmaEnergyPerTick = 100.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_plasmaDamage = 2.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			plasmaEnergyPerTick_amperage_multiplier = 1500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			plasmaDamage_amperage_multiplier = 38.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			plasmaEnergyPerTick_voltage_multiplier = 500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			plasmaExplosiveness_voltage_multiplier = 0.5
+
+		[Modules.Weapon.melee_assist]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 10.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_meleeDamage = 2.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_impact_multiplier = 1000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			meleeDamage_impact_multiplier = 8.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			energyCon_carryThrough_multiplier = 200.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			meleeKnockback_carryThrough_multiplier = 1.0
+
+		[Modules.Weapon.blade_launcher]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 5000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_spinBladeDam = 6.0
+
+		[Modules.Weapon.railgun]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_railgunTotalImpulse = 500.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_railgunEnergyCost = 5000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_railgunHeatEm = 2.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			railgunTotalImpulse_voltage_multiplier = 2500.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			railgunEnergyCost_voltage_multiplier = 25000.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			railgunHeatEm_voltage_multiplier = 10.0
+
+		[Modules.Weapon.lightning_summoner]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_energyCon = 4900000.0
+			isAllowed = true
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_heatEmission = 100.0
+

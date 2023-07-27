@@ -1,0 +1,24 @@
+# Wildcard
+.*.swp
+*.toml.bak
+
+# Files
+/patchouli_data.json
+/reauth.toml
+/rhino.local.properties
+/usercache.json
+/usernamecache.json
+
+# Directories
+/.mixin.out
+/backups
+/crash-reports
+/ESM
+/lightspeed-cache
+/local
+/logs
+/saves
+/skyblock_exports
+/XaeroWaypoints
+/XaeroWaypoints_BACKUP*
+/XaeroWorldMap
