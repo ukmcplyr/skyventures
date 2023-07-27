@@ -5540,209 +5540,6 @@
         }
       },
       {
-        "name": "FTB Quests (Forge)",
-        "version": "ftb-quests-forge-1902.5.1-build.250.jar",
-        "optional": true,
-        "file": "ftb-quests-forge-1902.5.1-build.250.jar",
-        "type": "mods",
-        "description": "Questing Mod by FTB",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 289412,
-        "curseForgeFileId": 4653000,
-        "curseForgeProject": {
-          "id": 289412,
-          "name": "FTB Quests (Forge)",
-          "authors": [
-            {
-              "id": 17809311,
-              "name": "FTB",
-              "url": "https://www.curseforge.com/members/17809311-ftb?username=ftb"
-            },
-            {
-              "id": 8021848,
-              "name": "ErrorMikey",
-              "url": "https://www.curseforge.com/members/8021848-error_mikey?username=error_mikey"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Questing Mod by FTB",
-          "categories": [
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "ftb-quests-forge",
-          "isFeatured": false,
-          "dateModified": "2023-07-19T10:57:56.743Z",
-          "dateCreated": "2018-03-03T15:39:17.437Z",
-          "dateReleased": "2023-07-19T10:56:04.163Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
-            "wikiUrl": "https://feedthebeast.notion.site/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168",
-            "issuesUrl": "https://github.com/FTBTeam/FTB-Quests/issues",
-            "sourceUrl": "https://github.com/FTBTeam/FTB-Quests"
-          },
-          "logo": {
-            "id": 275363,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/275/363/256/256/637261948352026071.png",
-            "title": "637261948352026071.png",
-            "url": "https://media.forgecdn.net/avatars/275/363/637261948352026071.png",
-            "modId": 289412
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4653000
-        },
-        "curseForgeFile": {
-          "id": 4653000,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "ftb-quests-forge-1902.5.1-build.250.jar",
-          "fileName": "ftb-quests-forge-1902.5.1-build.250.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-19T10:56:04.163Z",
-          "fileLength": 1095550,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 404468,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 419699,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 889915,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 309674,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 404465,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1947466986,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3829145680,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1750554593,
-              "name": "data"
-            },
-            {
-              "fingerprint": 239616976,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1874412916,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 487555687,
-              "name": "architectury_inject_FTBQuests1192_common_512c2d96b9d2435bb9ebeac2556d2b14_8c62ba452160c1d60d88955c8c651cc038d5b0b9fbdbf71ae07947b1e29ace0dftbquests190251build250devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "4e547de25338a0777ecb98db32645f74ad95ed1a",
-              "algo": 1
-            },
-            {
-              "value": "2b36736b8517b6cbd8e955bba7de40aa",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 2488216028,
-          "modId": 289412
-        }
-      },
-      {
         "name": "FTB Ultimine (Forge)",
         "version": "ftb-ultimine-forge-1902.4.1-build.90.jar",
         "optional": true,
@@ -9519,162 +9316,6 @@
           ],
           "fileFingerprint": 2475064624,
           "modId": 676136
-        }
-      },
-      {
-        "name": "ModernFix",
-        "version": "modernfix-forge-5.3.2+mc1.19.2.jar",
-        "optional": true,
-        "file": "modernfix-forge-5.3.2+mc1.19.2.jar",
-        "type": "mods",
-        "description": "Egregious, yet effective performance improvements for modern Minecraft",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 790626,
-        "curseForgeFileId": 4656737,
-        "curseForgeProject": {
-          "id": 790626,
-          "name": "ModernFix",
-          "authors": [
-            {
-              "id": 101435003,
-              "name": "embeddedt",
-              "url": "https://www.curseforge.com/members/101435003-embeddedt?username=embeddedt"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Egregious, yet effective performance improvements for modern Minecraft",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "modernfix",
-          "isFeatured": false,
-          "dateModified": "2023-07-21T15:38:32.817Z",
-          "dateCreated": "2023-01-05T01:43:12.673Z",
-          "dateReleased": "2023-07-21T15:29:40.35Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-            "wikiUrl": "https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches",
-            "issuesUrl": "https://github.com/embeddedt/ModernFix/issues",
-            "sourceUrl": "https://github.com/embeddedt/ModernFix"
-          },
-          "logo": {
-            "id": 735685,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/735/685/256/256/638084797927010967.png",
-            "title": "638084797927010967.png",
-            "url": "https://media.forgecdn.net/avatars/735/685/638084797927010967.png",
-            "modId": 790626
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4656747
-        },
-        "curseForgeFile": {
-          "id": 4656737,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "modernfix-forge-5.3.2+mc1.19.2.jar",
-          "fileName": "modernfix-forge-5.3.2+mc1.19.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-21T15:28:08.217Z",
-          "fileLength": 469097,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 652731373,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3765311227,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3683056296,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 3364512866,
-              "name": "modernfix-common.mixins.json"
-            },
-            {
-              "fingerprint": 1325599026,
-              "name": "modernfix"
-            },
-            {
-              "fingerprint": 3075548727,
-              "name": "modernfix-common-common-refmap.json"
-            },
-            {
-              "fingerprint": 88923539,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 776680705,
-              "name": "modernfix-forge.mixins.json"
-            },
-            {
-              "fingerprint": 1942877625,
-              "name": "modernfix.refmap.json"
-            },
-            {
-              "fingerprint": 2073622806,
-              "name": "org"
-            },
-            {
-              "fingerprint": 263948124,
-              "name": "architectury_inject_modernfix_common_6e0eda0e13284abc98d571c19d0b9be2_30d818ecff661c329476f7ab7416d377927fbfdb356cad0f50fb1d9f20c05194modernfixcommon532mc1192devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "2bc1bcc1392075fd2176eafba3f9d5857190d5b5",
-              "algo": 1
-            },
-            {
-              "value": "899ed097acb6917425312dcd50869033",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 843083968,
-          "modId": 790626
         }
       },
       {
@@ -25399,136 +25040,6 @@
         }
       },
       {
-        "name": "Sophisticated Core",
-        "version": "sophisticatedcore-1.19.2-0.5.81.377.jar",
-        "optional": true,
-        "file": "sophisticatedcore-1.19.2-0.5.81.377.jar",
-        "type": "mods",
-        "description": "Library mod for Sophisticated mods",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 618298,
-        "curseForgeFileId": 4643666,
-        "curseForgeProject": {
-          "id": 618298,
-          "name": "Sophisticated Core",
-          "authors": [
-            {
-              "id": 13011800,
-              "name": "P3pp3rF1y",
-              "url": "https://www.curseforge.com/members/13011800-p3pp3rf1y?username=p3pp3rf1y"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Library mod for Sophisticated mods",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "sophisticated-core",
-          "isFeatured": false,
-          "dateModified": "2023-07-14T14:14:07.573Z",
-          "dateCreated": "2022-04-26T21:05:31.44Z",
-          "dateReleased": "2023-07-14T14:08:39.597Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
-            "sourceUrl": "https://github.com/P3pp3rF1y/SophisticatedCore"
-          },
-          "logo": {
-            "id": 540438,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png",
-            "title": "637866039314801108.png",
-            "url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png",
-            "modId": 618298
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4643717
-        },
-        "curseForgeFile": {
-          "id": 4643666,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "sophisticatedcore-1.19.2-0.5.81.377.jar",
-          "fileName": "sophisticatedcore-1.19.2-0.5.81.377.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-14T13:17:53.597Z",
-          "fileLength": 993332,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2927803178,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 4035108449,
-              "name": "net"
-            },
-            {
-              "fingerprint": 2483734106,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3640101168,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1594154742,
-              "name": "assets"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "6457beb3179c6b5940f215383df9cf353061fa8c",
-              "algo": 1
-            },
-            {
-              "value": "5dfff658369bc6cfc46c718478e12967",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 285137899,
-          "modId": 618298
-        }
-      },
-      {
         "name": "Sophisticated Backpacks",
         "version": "sophisticatedbackpacks-1.19.2-3.18.55.889.jar",
         "optional": true,
@@ -27658,155 +27169,6 @@
         }
       },
       {
-        "name": "Torchmaster",
-        "version": "torchmaster-19.2.91",
-        "optional": true,
-        "file": "torchmaster-19.2.91.jar",
-        "type": "mods",
-        "description": "Adds a special torch which prevents mob spawning in a configurable radius",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 254268,
-        "curseForgeFileId": 4661484,
-        "curseForgeProject": {
-          "id": 254268,
-          "name": "Torchmaster",
-          "authors": [
-            {
-              "id": 1244183,
-              "name": "xalcon",
-              "url": "https://www.curseforge.com/members/1244183-xalcon?username=xalcon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds a special torch which prevents mob spawning in a configurable radius",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "torchmaster",
-          "isFeatured": false,
-          "dateModified": "2023-07-24T08:37:13.15Z",
-          "dateCreated": "2016-11-27T14:01:08.217Z",
-          "dateReleased": "2023-07-24T08:34:48.55Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/torchmaster",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/Xalcon/TorchMaster/issues",
-            "sourceUrl": "https://github.com/xalcon/TorchMaster"
-          },
-          "logo": {
-            "id": 65019,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/65/19/256/256/636158304682638960.png",
-            "title": "636158304682638960.png",
-            "url": "https://media.forgecdn.net/avatars/65/19/636158304682638960.png",
-            "modId": 254268
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 201574,
-              "description": "The mega torch is decently sized to easily distinguish it from normal torches :P",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/201/574/310/172/torch_size.png",
-              "title": "Mega Torch size comparison",
-              "url": "https://media.forgecdn.net/attachments/201/574/torch_size.png",
-              "modId": 254268
-            },
-            {
-              "id": 245909,
-              "description": "This image shows mob spawning still works with a mega torch nearby. So you mob farms can still run while the rest of your base is safe from those pesky zombies.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/245/909/310/172/2019-02-06_18.png",
-              "title": "Mega Torch & Artificial Spawning",
-              "url": "https://media.forgecdn.net/attachments/245/909/2019-02-06_18.png",
-              "modId": 254268
-            }
-          ],
-          "mainFileId": 4661484
-        },
-        "curseForgeFile": {
-          "id": 4661484,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "torchmaster-19.2.91",
-          "fileName": "torchmaster-19.2.91.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-24T08:34:48.55Z",
-          "fileLength": 98927,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 643885375,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1167367829,
-              "name": "net"
-            },
-            {
-              "fingerprint": 4244191094,
-              "name": "data"
-            },
-            {
-              "fingerprint": 4253522632,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1707458583,
-              "name": "assets"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "ac43c1906f828a8679d941222f20da90e2aea26e",
-              "algo": 1
-            },
-            {
-              "value": "0da89d85d2d4b369c0d14981dc4a72f0",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 1583176824,
-          "modId": 254268
-        }
-      },
-      {
         "name": "Botania",
         "version": "Botania-1.19.2-440-FORGE.jar",
         "optional": true,
@@ -29132,223 +28494,6 @@
           ],
           "fileFingerprint": 4110985374,
           "modId": 242195
-        }
-      },
-      {
-        "name": "Lootr (Forge)",
-        "version": "lootr-1.19-0.4.24.62.jar",
-        "optional": true,
-        "file": "lootr-1.19-0.4.24.62.jar",
-        "type": "mods",
-        "description": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 361276,
-        "curseForgeFileId": 4596364,
-        "curseForgeProject": {
-          "id": 361276,
-          "name": "Lootr (Forge)",
-          "authors": [
-            {
-              "id": 10343357,
-              "name": "Noobanidus",
-              "url": "https://www.curseforge.com/members/10343357-noobanidus?username=noobanidus"
-            },
-            {
-              "id": 101090122,
-              "name": "ZestyBlaze",
-              "url": "https://www.curseforge.com/members/101090122-zestyblaze?username=zestyblaze"
-            },
-            {
-              "id": 101435003,
-              "name": "embeddedt",
-              "url": "https://www.curseforge.com/members/101435003-embeddedt?username=embeddedt"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
-          "categories": [
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 435,
-          "classId": 6,
-          "slug": "lootr",
-          "isFeatured": false,
-          "dateModified": "2023-06-25T09:50:52.33Z",
-          "dateCreated": "2020-02-04T01:12:52.447Z",
-          "dateReleased": "2023-06-25T09:43:39.583Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lootr",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/noobanidus/lootr/issues",
-            "sourceUrl": "https://github.com/noobanidus/lootr"
-          },
-          "logo": {
-            "id": 337005,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/337/5/256/256/637473842688195004.png",
-            "title": "637473842688195004.png",
-            "url": "https://media.forgecdn.net/avatars/337/5/637473842688195004.png",
-            "modId": 361276
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 284586,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/586/310/172/java_81n0xdlino.png",
-              "title": "Mineshaft lootr chest!",
-              "url": "https://media.forgecdn.net/attachments/284/586/java_81n0xdlino.png",
-              "modId": 361276
-            },
-            {
-              "id": 284587,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/587/310/172/java_kve81lropd.png",
-              "title": "An underwater underwater Lootr chest!",
-              "url": "https://media.forgecdn.net/attachments/284/587/java_kve81lropd.png",
-              "modId": 361276
-            },
-            {
-              "id": 284585,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/585/310/172/java_rpffiiokvc.png",
-              "title": "Underwater lootr chest!",
-              "url": "https://media.forgecdn.net/attachments/284/585/java_rpffiiokvc.png",
-              "modId": 361276
-            },
-            {
-              "id": 410416,
-              "description": "An unopened Loot shulker near an opened Loot shulker.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/410/416/310/172/javaw_hxzelcvhp0.png",
-              "title": "Loot Shulker",
-              "url": "https://media.forgecdn.net/attachments/410/416/javaw_hxzelcvhp0.png",
-              "modId": 361276
-            },
-            {
-              "id": 284584,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/584/310/172/java_n3phaam3yo.png",
-              "title": "Lootr Chest with nearby Normal Chest",
-              "url": "https://media.forgecdn.net/attachments/284/584/java_n3phaam3yo.png",
-              "modId": 361276
-            }
-          ],
-          "mainFileId": 4608503
-        },
-        "curseForgeFile": {
-          "id": 4596364,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "lootr-1.19-0.4.24.62.jar",
-          "fileName": "lootr-1.19-0.4.24.62.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-06-19T07:22:01.16Z",
-          "fileLength": 281455,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3363712139,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1121031932,
-              "name": "noobanidus"
-            },
-            {
-              "fingerprint": 3974219426,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 542148099,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1906276444,
-              "name": "lootr.mixins.json"
-            },
-            {
-              "fingerprint": 3476635100,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1386036156,
-              "name": "lootr.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "43c7584798bbdad57847cdc9bcaa42655e9fd5f2",
-              "algo": 1
-            },
-            {
-              "value": "05b2cd8afacc951ec264b52fd2eca8e8",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000001",
-              "gameVersion": "1.19.1",
-              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
-              "gameVersionName": "1.19.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
-              "gameVersionName": "1.19"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge",
-            "1.19.1",
-            "1.19"
-          ],
-          "fileFingerprint": 4256521941,
-          "modId": 361276
         }
       },
       {
@@ -38720,243 +37865,6 @@
           ],
           "fileFingerprint": 2714249248,
           "modId": 456956
-        }
-      },
-      {
-        "name": "Reliquary Reincarnations",
-        "version": "reliquary-1.19.2-2.0.38.1194.jar",
-        "optional": true,
-        "file": "reliquary-1.19.2-2.0.38.1194.jar",
-        "type": "mods",
-        "description": "Many magical items to help you in your minecraft world",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 241319,
-        "curseForgeFileId": 4664438,
-        "curseForgeProject": {
-          "id": 241319,
-          "name": "Reliquary Reincarnations",
-          "authors": [
-            {
-              "id": 13011800,
-              "name": "P3pp3rF1y",
-              "url": "https://www.curseforge.com/members/13011800-p3pp3rf1y?username=p3pp3rf1y"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Many magical items to help you in your minecraft world",
-          "categories": [
-            {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Food",
-              "slug": "mc-food",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
-              "dateModified": "2014-05-08T17:45:26.55Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 436,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 419,
-          "classId": 6,
-          "slug": "reliquary-v1-3",
-          "isFeatured": false,
-          "dateModified": "2023-07-25T20:38:18.113Z",
-          "dateCreated": "2016-01-31T00:28:38.84Z",
-          "dateReleased": "2023-07-25T20:34:41.207Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3",
-            "wikiUrl": "https://github.com/P3pp3rF1y/Reliquary/wiki",
-            "issuesUrl": "https://github.com/P3pp3rF1y/Reliquary/issues",
-            "sourceUrl": "https://github.com/P3pp3rF1y/Reliquary"
-          },
-          "logo": {
-            "id": 506233,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png",
-            "title": "637824423557821613.png",
-            "url": "https://media.forgecdn.net/avatars/506/233/637824423557821613.png",
-            "modId": 241319
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 439254,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/254/310/172/reliquary-pedestals.png",
-              "title": "Pedestals",
-              "url": "https://media.forgecdn.net/attachments/439/254/reliquary-pedestals.png",
-              "modId": 241319
-            },
-            {
-              "id": 36855,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/36/855/310/172/reliquary_main.png",
-              "title": "Reliquary items",
-              "url": "https://media.forgecdn.net/attachments/36/855/reliquary_main.png",
-              "modId": 241319
-            },
-            {
-              "id": 63884,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/63/884/310/172/hunters_handgun.png",
-              "title": "Hunter's handgun",
-              "url": "https://media.forgecdn.net/attachments/63/884/hunters_handgun.png",
-              "modId": 241319
-            },
-            {
-              "id": 439258,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/258/310/172/reliquary-items.png",
-              "title": "Reliquary items",
-              "url": "https://media.forgecdn.net/attachments/439/258/reliquary-items.png",
-              "modId": 241319
-            },
-            {
-              "id": 36964,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/36/964/310/172/pedestal.png",
-              "title": "Pedestal",
-              "url": "https://media.forgecdn.net/attachments/36/964/pedestal.png",
-              "modId": 241319
-            },
-            {
-              "id": 32642,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/32/642/310/172/reliquary-blocks.png",
-              "title": "Reliquary blocks",
-              "url": "https://media.forgecdn.net/attachments/32/642/reliquary-blocks.png",
-              "modId": 241319
-            }
-          ],
-          "mainFileId": 4664438
-        },
-        "curseForgeFile": {
-          "id": 4664438,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "reliquary-1.19.2-2.0.38.1194.jar",
-          "fileName": "reliquary-1.19.2-2.0.38.1194.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-25T20:34:41.207Z",
-          "fileLength": 2149303,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 309927,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 324717,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 238222,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1102345615,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3961439627,
-              "name": "reliquary"
-            },
-            {
-              "fingerprint": 47635013,
-              "name": "xrlogo.png"
-            },
-            {
-              "fingerprint": 1173914585,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3574601127,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3423623689,
-              "name": "assets"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "35e88254d9cb15ac78fe05f845344f31e5f66acd",
-              "algo": 1
-            },
-            {
-              "value": "5ea07eca7077467873c1e4e4f3517aa9",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 383136490,
-          "modId": 241319
         }
       },
       {
@@ -57295,160 +56203,6 @@
         }
       },
       {
-        "name": "Savage Ender Dragon[Forge/Fabric]",
-        "version": "dragonfight-1.19.2-2.6.jar",
-        "optional": true,
-        "file": "dragonfight-1.19.2-2.6.jar",
-        "type": "mods",
-        "description": "Overhauled ender dragon fight with new mechanics",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 523327,
-        "curseForgeFileId": 4527394,
-        "curseForgeProject": {
-          "id": 523327,
-          "name": "Savage Ender Dragon[Forge/Fabric]",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Overhauled ender dragon fight with new mechanics",
-          "categories": [
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "savage-ender-dragon",
-          "isFeatured": false,
-          "dateModified": "2023-07-26T22:07:34.85Z",
-          "dateCreated": "2021-09-03T18:57:22.26Z",
-          "dateReleased": "2023-07-26T22:00:29.737Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/SavageEnderDragon/issues"
-          },
-          "logo": {
-            "id": 536577,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/536/577/256/256/637858700470473603.png",
-            "title": "637858700470473603.png",
-            "url": "https://media.forgecdn.net/avatars/536/577/637858700470473603.png",
-            "modId": 523327
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4666230
-        },
-        "curseForgeFile": {
-          "id": 4527394,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "dragonfight-1.19.2-2.6.jar",
-          "fileName": "dragonfight-1.19.2-2.6.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-05-07T22:33:07.437Z",
-          "fileLength": 32085,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1097470273,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1667730795,
-              "name": "com"
-            },
-            {
-              "fingerprint": 3333789439,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3014600539,
-              "name": "dragonfight.mixins.json"
-            },
-            {
-              "fingerprint": 1438559181,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 2145033138,
-              "name": "dragonfight.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "2556126014f32d095257002a42cb9c996a613e4a",
-              "algo": 1
-            },
-            {
-              "value": "f6e935f99744090466e409210b7f2bf5",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 3408815189,
-          "modId": 523327
-        }
-      },
-      {
         "name": "Blueprint",
         "version": "Blueprint 1.19.2 - 6.1.2",
         "optional": true,
@@ -71079,13 +69833,1414 @@
           "fileFingerprint": 552116063,
           "modId": 460341
         }
+      },
+      {
+        "name": "FTB Quests (Forge)",
+        "version": "ftb-quests-forge-1902.5.3-build.258.jar",
+        "optional": true,
+        "file": "ftb-quests-forge-1902.5.3-build.258.jar",
+        "type": "mods",
+        "description": "Questing Mod by FTB",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 289412,
+        "curseForgeFileId": 4667098,
+        "curseForgeProject": {
+          "id": 289412,
+          "name": "FTB Quests (Forge)",
+          "authors": [
+            {
+              "id": 17809311,
+              "name": "FTB",
+              "url": "https://www.curseforge.com/members/17809311-ftb?username=ftb"
+            },
+            {
+              "id": 8021848,
+              "name": "ErrorMikey",
+              "url": "https://www.curseforge.com/members/8021848-error_mikey?username=error_mikey"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Questing Mod by FTB",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "ftb-quests-forge",
+          "isFeatured": false,
+          "dateModified": "2023-07-27T11:29:24.613Z",
+          "dateCreated": "2018-03-03T15:39:17.437Z",
+          "dateReleased": "2023-07-27T11:28:24.863Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+            "wikiUrl": "https://feedthebeast.notion.site/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168",
+            "issuesUrl": "https://github.com/FTBTeam/FTB-Quests/issues",
+            "sourceUrl": "https://github.com/FTBTeam/FTB-Quests"
+          },
+          "logo": {
+            "id": 275363,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/275/363/256/256/637261948352026071.png",
+            "title": "637261948352026071.png",
+            "url": "https://media.forgecdn.net/avatars/275/363/637261948352026071.png",
+            "modId": 289412
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4667098
+        },
+        "curseForgeFile": {
+          "id": 4667098,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ftb-quests-forge-1902.5.3-build.258.jar",
+          "fileName": "ftb-quests-forge-1902.5.3-build.258.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T11:28:24.863Z",
+          "fileLength": 1095906,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 309674,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 404468,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 404465,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 889915,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1721773827,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3910575319,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1750554593,
+              "name": "data"
+            },
+            {
+              "fingerprint": 239616976,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3497006828,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 1554338834,
+              "name": "architectury_inject_FTBQuests1192_common_629c8834985242aea02786cfa0283d79_90ed43337543913f78a4ddf74464e0f38823a3c381a364f7098d94e54fb33f8aftbquests190253build258devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "8f7a6f2989c052482e4c041e8d00cd254c7a2ce5",
+              "algo": 1
+            },
+            {
+              "value": "800acf475f6c60874ac1c63ffcf1f97b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 131440925,
+          "modId": 289412
+        }
+      },
+      {
+        "name": "Lootr (Forge)",
+        "version": "lootr-1.19-0.4.24.64.jar",
+        "optional": true,
+        "file": "lootr-1.19-0.4.24.64.jar",
+        "type": "mods",
+        "description": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 361276,
+        "curseForgeFileId": 4666932,
+        "curseForgeProject": {
+          "id": 361276,
+          "name": "Lootr (Forge)",
+          "authors": [
+            {
+              "id": 10343357,
+              "name": "Noobanidus",
+              "url": "https://www.curseforge.com/members/10343357-noobanidus?username=noobanidus"
+            },
+            {
+              "id": 101090122,
+              "name": "ZestyBlaze",
+              "url": "https://www.curseforge.com/members/101090122-zestyblaze?username=zestyblaze"
+            },
+            {
+              "id": 101435003,
+              "name": "embeddedt",
+              "url": "https://www.curseforge.com/members/101435003-embeddedt?username=embeddedt"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "lootr",
+          "isFeatured": false,
+          "dateModified": "2023-07-27T09:26:55.863Z",
+          "dateCreated": "2020-02-04T01:12:52.447Z",
+          "dateReleased": "2023-07-27T09:23:47.887Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/noobanidus/lootr/issues",
+            "sourceUrl": "https://github.com/noobanidus/lootr"
+          },
+          "logo": {
+            "id": 337005,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/337/5/256/256/637473842688195004.png",
+            "title": "637473842688195004.png",
+            "url": "https://media.forgecdn.net/avatars/337/5/637473842688195004.png",
+            "modId": 361276
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 284586,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/586/310/172/java_81n0xdlino.png",
+              "title": "Mineshaft lootr chest!",
+              "url": "https://media.forgecdn.net/attachments/284/586/java_81n0xdlino.png",
+              "modId": 361276
+            },
+            {
+              "id": 284587,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/587/310/172/java_kve81lropd.png",
+              "title": "An underwater underwater Lootr chest!",
+              "url": "https://media.forgecdn.net/attachments/284/587/java_kve81lropd.png",
+              "modId": 361276
+            },
+            {
+              "id": 284585,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/585/310/172/java_rpffiiokvc.png",
+              "title": "Underwater lootr chest!",
+              "url": "https://media.forgecdn.net/attachments/284/585/java_rpffiiokvc.png",
+              "modId": 361276
+            },
+            {
+              "id": 410416,
+              "description": "An unopened Loot shulker near an opened Loot shulker.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/410/416/310/172/javaw_hxzelcvhp0.png",
+              "title": "Loot Shulker",
+              "url": "https://media.forgecdn.net/attachments/410/416/javaw_hxzelcvhp0.png",
+              "modId": 361276
+            },
+            {
+              "id": 284584,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/584/310/172/java_n3phaam3yo.png",
+              "title": "Lootr Chest with nearby Normal Chest",
+              "url": "https://media.forgecdn.net/attachments/284/584/java_n3phaam3yo.png",
+              "modId": 361276
+            }
+          ],
+          "mainFileId": 4666932
+        },
+        "curseForgeFile": {
+          "id": 4666932,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "lootr-1.19-0.4.24.64.jar",
+          "fileName": "lootr-1.19-0.4.24.64.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T09:23:47.887Z",
+          "fileLength": 283053,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 240387976,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1354637335,
+              "name": "noobanidus"
+            },
+            {
+              "fingerprint": 3974219426,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 542148099,
+              "name": "data"
+            },
+            {
+              "fingerprint": 221250436,
+              "name": "lootr.mixins.json"
+            },
+            {
+              "fingerprint": 3476635100,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3548186317,
+              "name": "lootr.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7a996448b1a67bc565979d3227d111847a92fd48",
+              "algo": 1
+            },
+            {
+              "value": "4ede34737042a7882d4888211abb50c7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 439921841,
+          "modId": 361276
+        }
+      },
+      {
+        "name": "ModernFix",
+        "version": "modernfix-forge-5.4.1+mc1.19.2.jar",
+        "optional": true,
+        "file": "modernfix-forge-5.4.1+mc1.19.2.jar",
+        "type": "mods",
+        "description": "Egregious, yet effective performance improvements for modern Minecraft",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 790626,
+        "curseForgeFileId": 4666519,
+        "curseForgeProject": {
+          "id": 790626,
+          "name": "ModernFix",
+          "authors": [
+            {
+              "id": 101435003,
+              "name": "embeddedt",
+              "url": "https://www.curseforge.com/members/101435003-embeddedt?username=embeddedt"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Egregious, yet effective performance improvements for modern Minecraft",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "modernfix",
+          "isFeatured": false,
+          "dateModified": "2023-07-27T02:21:30.153Z",
+          "dateCreated": "2023-01-05T01:43:12.673Z",
+          "dateReleased": "2023-07-27T02:16:36.823Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+            "wikiUrl": "https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches",
+            "issuesUrl": "https://github.com/embeddedt/ModernFix/issues",
+            "sourceUrl": "https://github.com/embeddedt/ModernFix"
+          },
+          "logo": {
+            "id": 735685,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/735/685/256/256/638084797927010967.png",
+            "title": "638084797927010967.png",
+            "url": "https://media.forgecdn.net/avatars/735/685/638084797927010967.png",
+            "modId": 790626
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4666530
+        },
+        "curseForgeFile": {
+          "id": 4666519,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "modernfix-forge-5.4.1+mc1.19.2.jar",
+          "fileName": "modernfix-forge-5.4.1+mc1.19.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T02:14:00.057Z",
+          "fileLength": 474319,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 830429848,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3765311227,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3683056296,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 938048707,
+              "name": "modernfix-common.mixins.json"
+            },
+            {
+              "fingerprint": 1325599026,
+              "name": "modernfix"
+            },
+            {
+              "fingerprint": 3733277516,
+              "name": "modernfix-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 88923539,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 204442873,
+              "name": "modernfix-forge.mixins.json"
+            },
+            {
+              "fingerprint": 1942877625,
+              "name": "modernfix.refmap.json"
+            },
+            {
+              "fingerprint": 2204328211,
+              "name": "org"
+            },
+            {
+              "fingerprint": 2209965366,
+              "name": "architectury_inject_modernfix_common_f5699476fd264761963f3de8dbcd345a_2d9061e4c34e781d9d2e53613d9fc4e732f5c8e43626c686a2f504c946412660modernfixcommon541mc1192devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1a985b172549bfbac448c818148bb768d36b6540",
+              "algo": 1
+            },
+            {
+              "value": "17dc1f4626531ce71bd2a50717585c85",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2636423874,
+          "modId": 790626
+        }
+      },
+      {
+        "name": "Reliquary Reincarnations",
+        "version": "reliquary-1.19.2-2.0.40.1198.jar",
+        "optional": true,
+        "file": "reliquary-1.19.2-2.0.40.1198.jar",
+        "type": "mods",
+        "description": "Many magical items to help you in your minecraft world",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 241319,
+        "curseForgeFileId": 4666081,
+        "curseForgeProject": {
+          "id": 241319,
+          "name": "Reliquary Reincarnations",
+          "authors": [
+            {
+              "id": 13011800,
+              "name": "P3pp3rF1y",
+              "url": "https://www.curseforge.com/members/13011800-p3pp3rf1y?username=p3pp3rf1y"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Many magical items to help you in your minecraft world",
+          "categories": [
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "reliquary-v1-3",
+          "isFeatured": false,
+          "dateModified": "2023-07-26T20:33:59.333Z",
+          "dateCreated": "2016-01-31T00:28:38.84Z",
+          "dateReleased": "2023-07-26T20:30:43.197Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3",
+            "wikiUrl": "https://github.com/P3pp3rF1y/Reliquary/wiki",
+            "issuesUrl": "https://github.com/P3pp3rF1y/Reliquary/issues",
+            "sourceUrl": "https://github.com/P3pp3rF1y/Reliquary"
+          },
+          "logo": {
+            "id": 506233,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/506/233/256/256/637824423557821613.png",
+            "title": "637824423557821613.png",
+            "url": "https://media.forgecdn.net/avatars/506/233/637824423557821613.png",
+            "modId": 241319
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 439254,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/254/310/172/reliquary-pedestals.png",
+              "title": "Pedestals",
+              "url": "https://media.forgecdn.net/attachments/439/254/reliquary-pedestals.png",
+              "modId": 241319
+            },
+            {
+              "id": 36855,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/36/855/310/172/reliquary_main.png",
+              "title": "Reliquary items",
+              "url": "https://media.forgecdn.net/attachments/36/855/reliquary_main.png",
+              "modId": 241319
+            },
+            {
+              "id": 63884,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/63/884/310/172/hunters_handgun.png",
+              "title": "Hunter's handgun",
+              "url": "https://media.forgecdn.net/attachments/63/884/hunters_handgun.png",
+              "modId": 241319
+            },
+            {
+              "id": 439258,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/258/310/172/reliquary-items.png",
+              "title": "Reliquary items",
+              "url": "https://media.forgecdn.net/attachments/439/258/reliquary-items.png",
+              "modId": 241319
+            },
+            {
+              "id": 36964,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/36/964/310/172/pedestal.png",
+              "title": "Pedestal",
+              "url": "https://media.forgecdn.net/attachments/36/964/pedestal.png",
+              "modId": 241319
+            },
+            {
+              "id": 32642,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/32/642/310/172/reliquary-blocks.png",
+              "title": "Reliquary blocks",
+              "url": "https://media.forgecdn.net/attachments/32/642/reliquary-blocks.png",
+              "modId": 241319
+            }
+          ],
+          "mainFileId": 4666082
+        },
+        "curseForgeFile": {
+          "id": 4666081,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "reliquary-1.19.2-2.0.40.1198.jar",
+          "fileName": "reliquary-1.19.2-2.0.40.1198.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-26T20:30:06.477Z",
+          "fileLength": 2149722,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 835081816,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2703513864,
+              "name": "reliquary"
+            },
+            {
+              "fingerprint": 47635013,
+              "name": "xrlogo.png"
+            },
+            {
+              "fingerprint": 1173914585,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3574601127,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3423623689,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "baab0d1baee5d55165061971ce7206f6e68cd48e",
+              "algo": 1
+            },
+            {
+              "value": "e35d8d6830650525b81aada23ecf31e1",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 346706503,
+          "modId": 241319
+        }
+      },
+      {
+        "name": "Cupboard",
+        "version": "cupboard-1.19.2-1.4.jar",
+        "optional": true,
+        "file": "cupboard-1.19.2-1.4.jar",
+        "type": "mods",
+        "description": "Cupboard provides code, frameworks, and utilities for minecraft mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 326652,
+        "curseForgeFileId": 4666957,
+        "curseForgeProject": {
+          "id": 326652,
+          "name": "Cupboard",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Cupboard provides code, frameworks, and utilities for minecraft mods",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "cupboard",
+          "isFeatured": false,
+          "dateModified": "2023-07-27T09:49:05.833Z",
+          "dateCreated": "2019-07-08T10:31:04.037Z",
+          "dateReleased": "2023-07-27T09:43:03.98Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/cupboard/issues",
+            "sourceUrl": "https://github.com/someaddons/cupboard"
+          },
+          "logo": {
+            "id": 852567,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
+            "title": "638255508280634753.png",
+            "url": "https://media.forgecdn.net/avatars/852/567/638255508280634753.png",
+            "modId": 326652
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4666960
+        },
+        "curseForgeFile": {
+          "id": 4666957,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "cupboard-1.19.2-1.4.jar",
+          "fileName": "cupboard-1.19.2-1.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T09:42:14.623Z",
+          "fileLength": 13695,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2364911781,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1154946729,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2751480757,
+              "name": "cupboard.mixins.json"
+            },
+            {
+              "fingerprint": 3152166936,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6afaa17172bae28bcd9ca9a9f64de36958abcca1",
+              "algo": 1
+            },
+            {
+              "value": "9f163df3f1b76e31570ab729e2840b2d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.19.2",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2989851291,
+          "modId": 326652
+        }
+      },
+      {
+        "name": "Savage Ender Dragon[Forge/Fabric]",
+        "version": "dragonfight-1.19.2-3.9.jar",
+        "optional": true,
+        "file": "dragonfight-1.19.2-3.9.jar",
+        "type": "mods",
+        "description": "Overhauled ender dragon fight with new mechanics",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 523327,
+        "curseForgeFileId": 4666992,
+        "curseForgeProject": {
+          "id": 523327,
+          "name": "Savage Ender Dragon[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Overhauled ender dragon fight with new mechanics",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "savage-ender-dragon",
+          "isFeatured": false,
+          "dateModified": "2023-07-27T14:59:33.083Z",
+          "dateCreated": "2021-09-03T18:57:22.26Z",
+          "dateReleased": "2023-07-27T10:15:48.91Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/SavageEnderDragon/issues"
+          },
+          "logo": {
+            "id": 536577,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/536/577/256/256/637858700470473603.png",
+            "title": "637858700470473603.png",
+            "url": "https://media.forgecdn.net/avatars/536/577/637858700470473603.png",
+            "modId": 523327
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4666993
+        },
+        "curseForgeFile": {
+          "id": 4666992,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "dragonfight-1.19.2-3.9.jar",
+          "fileName": "dragonfight-1.19.2-3.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T10:15:29.03Z",
+          "fileLength": 31103,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3886773333,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3695363334,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3333789439,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3014600539,
+              "name": "dragonfight.mixins.json"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2145033138,
+              "name": "dragonfight.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "01db05e4c2623d6c06d90bebb10ddd1ad2a5f2dc",
+              "algo": 1
+            },
+            {
+              "value": "9548e1e657f45f1b056b3bb35620c3eb",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.19.2",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3273400359,
+          "modId": 523327
+        }
+      },
+      {
+        "name": "Sophisticated Core",
+        "version": "sophisticatedcore-1.19.2-0.5.82.382.jar",
+        "optional": true,
+        "file": "sophisticatedcore-1.19.2-0.5.82.382.jar",
+        "type": "mods",
+        "description": "Library mod for Sophisticated mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 618298,
+        "curseForgeFileId": 4665728,
+        "curseForgeProject": {
+          "id": 618298,
+          "name": "Sophisticated Core",
+          "authors": [
+            {
+              "id": 13011800,
+              "name": "P3pp3rF1y",
+              "url": "https://www.curseforge.com/members/13011800-p3pp3rf1y?username=p3pp3rf1y"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Library mod for Sophisticated mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "sophisticated-core",
+          "isFeatured": false,
+          "dateModified": "2023-07-26T16:12:47.117Z",
+          "dateCreated": "2022-04-26T21:05:31.44Z",
+          "dateReleased": "2023-07-26T16:07:55.037Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+            "sourceUrl": "https://github.com/P3pp3rF1y/SophisticatedCore"
+          },
+          "logo": {
+            "id": 540438,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png",
+            "title": "637866039314801108.png",
+            "url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png",
+            "modId": 618298
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4665730
+        },
+        "curseForgeFile": {
+          "id": 4665728,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "sophisticatedcore-1.19.2-0.5.82.382.jar",
+          "fileName": "sophisticatedcore-1.19.2-0.5.82.382.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-26T16:07:32.387Z",
+          "fileLength": 994547,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1919650686,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2361223765,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2483734106,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3640101168,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1594154742,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "8cbd6e2eca41852e5674cb70d5b08171f0578110",
+              "algo": 1
+            },
+            {
+              "value": "247a3fb4e1ebcad18bee13214f4be51b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 3593265136,
+          "modId": 618298
+        }
+      },
+      {
+        "name": "Torchmaster",
+        "version": "torchmaster-19.2.92",
+        "optional": true,
+        "file": "torchmaster-19.2.92.jar",
+        "type": "mods",
+        "description": "Adds a special torch which prevents mob spawning in a configurable radius",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 254268,
+        "curseForgeFileId": 4666939,
+        "curseForgeProject": {
+          "id": 254268,
+          "name": "Torchmaster",
+          "authors": [
+            {
+              "id": 1244183,
+              "name": "xalcon",
+              "url": "https://www.curseforge.com/members/1244183-xalcon?username=xalcon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a special torch which prevents mob spawning in a configurable radius",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "torchmaster",
+          "isFeatured": false,
+          "dateModified": "2023-07-27T09:30:52.17Z",
+          "dateCreated": "2016-11-27T14:01:08.217Z",
+          "dateReleased": "2023-07-27T09:29:13.25Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/torchmaster",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Xalcon/TorchMaster/issues",
+            "sourceUrl": "https://github.com/xalcon/TorchMaster"
+          },
+          "logo": {
+            "id": 65019,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/65/19/256/256/636158304682638960.png",
+            "title": "636158304682638960.png",
+            "url": "https://media.forgecdn.net/avatars/65/19/636158304682638960.png",
+            "modId": 254268
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 201574,
+              "description": "The mega torch is decently sized to easily distinguish it from normal torches :P",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/201/574/310/172/torch_size.png",
+              "title": "Mega Torch size comparison",
+              "url": "https://media.forgecdn.net/attachments/201/574/torch_size.png",
+              "modId": 254268
+            },
+            {
+              "id": 245909,
+              "description": "This image shows mob spawning still works with a mega torch nearby. So you mob farms can still run while the rest of your base is safe from those pesky zombies.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/245/909/310/172/2019-02-06_18.png",
+              "title": "Mega Torch & Artificial Spawning",
+              "url": "https://media.forgecdn.net/attachments/245/909/2019-02-06_18.png",
+              "modId": 254268
+            }
+          ],
+          "mainFileId": 4666939
+        },
+        "curseForgeFile": {
+          "id": 4666939,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "torchmaster-19.2.92",
+          "fileName": "torchmaster-19.2.92.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T09:29:13.25Z",
+          "fileLength": 100288,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 766739307,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 997938996,
+              "name": "net"
+            },
+            {
+              "fingerprint": 4244191094,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4253522632,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1707458583,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a0a45aeebb96d9fdbae1b1a928d072db8af078c5",
+              "algo": 1
+            },
+            {
+              "value": "d0507171cace06aa23a57705c1688838",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 4042029444,
+          "modId": 254268
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690468248683,
-    "numPlays": 230
+    "lastPlayed": 1690472934736,
+    "numPlays": 233
   },
   "id": "1.19.2",
   "complianceLevel": 1,
