@@ -16261,167 +16261,6 @@
         }
       },
       {
-        "name": "Cyclops Core",
-        "version": "CyclopsCore-1.19.2-1.18.6.jar",
-        "optional": true,
-        "file": "CyclopsCore-1.19.2-1.18.6.jar",
-        "type": "mods",
-        "description": "Library mod for EvilCraft, Integrated Dynamics and others.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 232758,
-        "curseForgeFileId": 4578156,
-        "curseForgeProject": {
-          "id": 232758,
-          "name": "Cyclops Core",
-          "authors": [
-            {
-              "id": 13500867,
-              "name": "kroeser",
-              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Library mod for EvilCraft, Integrated Dynamics and others.",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "cyclops-core",
-          "isFeatured": false,
-          "dateModified": "2023-07-16T09:29:30.913Z",
-          "dateCreated": "2015-07-15T13:19:41.2Z",
-          "dateReleased": "2023-07-16T09:20:23.407Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cyclops-core",
-            "wikiUrl": "https://github.com/CyclopsMC/CyclopsCore/wiki",
-            "issuesUrl": "https://github.com/CyclopsMC/CyclopsCore/issues",
-            "sourceUrl": "https://github.com/CyclopsMC/CyclopsCore"
-          },
-          "logo": {
-            "id": 21299,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/21/299/256/256/635725451812161186.png",
-            "title": "635725451812161186.png",
-            "url": "https://media.forgecdn.net/avatars/21/299/635725451812161186.png",
-            "modId": 232758
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 244790,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/790/310/172/patreon_wordmark_black.png",
-              "title": "Patreon logo",
-              "url": "https://media.forgecdn.net/attachments/244/790/patreon_wordmark_black.png",
-              "modId": 232758
-            }
-          ],
-          "mainFileId": 4646983
-        },
-        "curseForgeFile": {
-          "id": 4578156,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "CyclopsCore-1.19.2-1.18.6.jar",
-          "fileName": "CyclopsCore-1.19.2-1.18.6.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-06-10T13:38:57.463Z",
-          "fileLength": 886390,
-          "dependencies": [],
-          "alternateFileId": 4578157,
-          "modules": [
-            {
-              "fingerprint": 3482532127,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1107219660,
-              "name": "org"
-            },
-            {
-              "fingerprint": 2866114932,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 273064094,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3202528997,
-              "name": "logo_small.png"
-            },
-            {
-              "fingerprint": 3181553145,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2620577581,
-              "name": "data"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "fa4ba6c5a70fa99e1226ef60a5508c3b4d6228a9",
-              "algo": 1
-            },
-            {
-              "value": "f957ef8e9ab1145041f1b3671aca3173",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 2270141253,
-          "modId": 232758
-        }
-      },
-      {
         "name": "Common Capabilities",
         "version": "CommonCapabilities-1.19.2-2.9.0.jar",
         "optional": true,
@@ -66591,13 +66430,174 @@
           "fileFingerprint": 3445270524,
           "modId": 523327
         }
+      },
+      {
+        "name": "Cyclops Core",
+        "version": "CyclopsCore-1.19.2-1.18.5.jar",
+        "optional": true,
+        "file": "CyclopsCore-1.19.2-1.18.5.jar",
+        "type": "mods",
+        "description": "Library mod for EvilCraft, Integrated Dynamics and others.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 232758,
+        "curseForgeFileId": 4566201,
+        "curseForgeProject": {
+          "id": 232758,
+          "name": "Cyclops Core",
+          "authors": [
+            {
+              "id": 13500867,
+              "name": "kroeser",
+              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Library mod for EvilCraft, Integrated Dynamics and others.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "cyclops-core",
+          "isFeatured": false,
+          "dateModified": "2023-07-16T09:29:30.913Z",
+          "dateCreated": "2015-07-15T13:19:41.2Z",
+          "dateReleased": "2023-07-16T09:20:23.407Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cyclops-core",
+            "wikiUrl": "https://github.com/CyclopsMC/CyclopsCore/wiki",
+            "issuesUrl": "https://github.com/CyclopsMC/CyclopsCore/issues",
+            "sourceUrl": "https://github.com/CyclopsMC/CyclopsCore"
+          },
+          "logo": {
+            "id": 21299,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/21/299/256/256/635725451812161186.png",
+            "title": "635725451812161186.png",
+            "url": "https://media.forgecdn.net/avatars/21/299/635725451812161186.png",
+            "modId": 232758
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 244790,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/790/310/172/patreon_wordmark_black.png",
+              "title": "Patreon logo",
+              "url": "https://media.forgecdn.net/attachments/244/790/patreon_wordmark_black.png",
+              "modId": 232758
+            }
+          ],
+          "mainFileId": 4646983
+        },
+        "curseForgeFile": {
+          "id": 4566201,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CyclopsCore-1.19.2-1.18.5.jar",
+          "fileName": "CyclopsCore-1.19.2-1.18.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-04T06:50:42.853Z",
+          "fileLength": 886246,
+          "dependencies": [],
+          "alternateFileId": 4566202,
+          "modules": [
+            {
+              "fingerprint": 403426030,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2943803219,
+              "name": "org"
+            },
+            {
+              "fingerprint": 2866114932,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 273064094,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3202528997,
+              "name": "logo_small.png"
+            },
+            {
+              "fingerprint": 3181553145,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2620577581,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1437c2d1e05f5792edc2e4ab5312121f5589f415",
+              "algo": 1
+            },
+            {
+              "value": "8818721842c4cf935508af52799d773f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 3559529637,
+          "modId": 232758
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690547809007,
-    "numPlays": 247
+    "lastPlayed": 1690548306220,
+    "numPlays": 248
   },
   "id": "1.19.2",
   "complianceLevel": 1,
