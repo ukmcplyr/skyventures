@@ -8558,220 +8558,6 @@
         }
       },
       {
-        "name": "Botarium",
-        "version": "Unknown",
-        "optional": true,
-        "file": "botarium-forge-1.19.2-1.8.2.jar",
-        "type": "mods",
-        "description": "A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 704113,
-        "curseForgeFileId": 4306551,
-        "curseForgeProject": {
-          "id": 704113,
-          "name": "Botarium",
-          "authors": [
-            {
-              "id": 102202423,
-              "name": "CodexAdrian",
-              "url": "https://www.curseforge.com/members/102202423-codexadrian?username=codexadrian"
-            },
-            {
-              "id": 103112623,
-              "name": "terrariumearth",
-              "url": "https://www.curseforge.com/members/103112623-terrariumearth?username=terrariumearth"
-            },
-            {
-              "id": 25275754,
-              "name": "ThatGravyBoat",
-              "url": "https://www.curseforge.com/members/25275754-thatgravyboat?username=thatgravyboat"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things",
-          "categories": [
-            {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "botarium",
-          "isFeatured": false,
-          "dateModified": "2023-07-14T05:10:40.347Z",
-          "dateCreated": "2022-11-16T03:42:09.593Z",
-          "dateReleased": "2023-07-14T05:07:02.597Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/botarium",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/terrarium-earth/Botarium/issues",
-            "sourceUrl": "https://github.com/terrarium-earth/Botarium"
-          },
-          "logo": {
-            "id": 796852,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/796/852/256/256/638157303891742582.png",
-            "title": "638157303891742582.png",
-            "url": "https://media.forgecdn.net/avatars/796/852/638157303891742582.png",
-            "modId": 704113
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4643197
-        },
-        "curseForgeFile": {
-          "id": 4306551,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "botarium-forge-1.19.2-1.8.2.jar",
-          "fileName": "botarium-forge-1.19.2-1.8.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-01-06T03:41:50.717Z",
-          "fileLength": 110494,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1073755975,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1613450694,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 2194770694,
-              "name": "earth"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "579df823359b79fabd2c92de53c4bce6e4fbcf01",
-              "algo": 1
-            },
-            {
-              "value": "1fe74bba345c2507f858da4a8379e35f",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 1339560589,
-          "modId": 704113
-        },
-        "modrinthProject": {
-          "id": "2u6LRnMa",
-          "slug": "botarium",
-          "project_type": "mod",
-          "team": "UfQrnW3D",
-          "title": "Botarium",
-          "description": "A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things",
-          "body": "<center>\n\n## Botarium\n\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/botarium)\n---\n\n### 📖 About 📖\n\nBotarium is a simple open source API that makes modding on Forge and Fabric easier for devs looking to make tech mods! More specifically, it should help in the creation of blocks and items that hold items, fluids and energy and has a rudimentary transfer api that allows you to interact with other forge and fabric containers.\n\nIt also has a variety of utilities, such as a fluid registration api, general registration api, and cross platform api\n\n---\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/1073717602880327761/1094750562794348585/BisectHosting_Banner_vector.svg)](http://bisecthosting.com/terrarium)\n\n---\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n### Check Out our Other Projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095049390432989365/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095049389862572062/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095049390185521172/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>",
-          "published": "2022-11-14T16:57:28.293227Z",
-          "updated": "2023-07-14T05:07:01.046754Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "library"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/2u6LRnMa/31d70002f565c2ae1b2901667f3fb9f553281594.png",
-          "issues_url": "https://github.com/terrarium-earth/Botarium/issues",
-          "source_url": "https://github.com/terrarium-earth/Botarium",
-          "discord_url": "https://discord.gg/terrarium",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "ARPkqhAA",
-          "project_id": "2u6LRnMa",
-          "author_id": "6ZoP9xY8",
-          "name": "1.8.2",
-          "version_number": "1.8.2",
-          "changelog": "> Switched to swapping fluid holders instead of modifying them to fix forge issue",
-          "date_published": "2023-01-06T03:41:49.826136Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "579df823359b79fabd2c92de53c4bce6e4fbcf01",
-                "sha512": "a1d6d920e5ad678fbd0cd762962a20b6629cf5bc0c6a3cdbcc1cc910f1d5ad4633792ff64a868c98cf111ce4e5c4b15529fff8f58055f1ac67c2e22846142718"
-              },
-              "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ARPkqhAA/botarium-forge-1.19.2-1.8.2.jar",
-              "filename": "botarium-forge-1.19.2-1.8.2.jar",
-              "primary": true,
-              "size": 110494
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.19.2"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Bad Wither No Cookie - Reloaded",
         "version": "Unknown",
         "optional": true,
@@ -10706,7 +10492,7 @@
         "file": "corail_woodcutter-1.19.2-2.5.2.jar",
         "type": "mods",
         "description": "A sawmill for wooden recipes similar to the StoneCutter, with default support for Biomes O' Plenty, Twilight Forest, Quark & The Midnight and a command to generate datapack",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -11038,7 +10824,7 @@
         "file": "createendertransmission-1.2.4.jar",
         "type": "mods",
         "description": "Energy/Item/Fluid transmission with no space limit",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -11280,7 +11066,7 @@
         "file": "create_mechanical_extruder-1.19.2-1.5.0.c-36.jar",
         "type": "mods",
         "description": "A mechanical extruder block. Can be used to generate any block or item from adjacent blocks/fluids.",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -12146,148 +11932,6 @@
         }
       },
       {
-        "name": "Cupboard",
-        "version": "Unknown",
-        "optional": true,
-        "file": "cupboard-1.19.2-1.4.jar",
-        "type": "mods",
-        "description": "Cupboard provides code, frameworks, and utilities for minecraft mods",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 326652,
-        "curseForgeFileId": 4666957,
-        "curseForgeProject": {
-          "id": 326652,
-          "name": "Cupboard",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Cupboard provides code, frameworks, and utilities for minecraft mods",
-          "categories": [
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 5191,
-          "classId": 6,
-          "slug": "cupboard",
-          "isFeatured": false,
-          "dateModified": "2023-07-28T12:59:29.08Z",
-          "dateCreated": "2019-07-08T10:31:04.037Z",
-          "dateReleased": "2023-07-27T09:43:03.98Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/cupboard/issues",
-            "sourceUrl": "https://github.com/someaddons/cupboard"
-          },
-          "logo": {
-            "id": 852567,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
-            "title": "638255508280634753.png",
-            "url": "https://media.forgecdn.net/avatars/852/567/638255508280634753.png",
-            "modId": 326652
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4666960
-        },
-        "curseForgeFile": {
-          "id": 4666957,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "cupboard-1.19.2-1.4.jar",
-          "fileName": "cupboard-1.19.2-1.4.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-27T09:42:14.623Z",
-          "fileLength": 13695,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2364911781,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1154946729,
-              "name": "com"
-            },
-            {
-              "fingerprint": 2751480757,
-              "name": "cupboard.mixins.json"
-            },
-            {
-              "fingerprint": 3152166936,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "6afaa17172bae28bcd9ca9a9f64de36958abcca1",
-              "algo": 1
-            },
-            {
-              "value": "9f163df3f1b76e31570ab729e2840b2d",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.19.2",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 2989851291,
-          "modId": 326652
-        }
-      },
-      {
         "name": "Custom Villager Trades (Forge)",
         "version": "Unknown",
         "optional": true,
@@ -12783,7 +12427,7 @@
         "file": "dragonfight-1.19.2-4.0.jar",
         "type": "mods",
         "description": "Overhauled ender dragon fight with new mechanics",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -13783,7 +13427,7 @@
         "file": "eccentrictome-1.19.2-1.10.1.jar",
         "type": "mods",
         "description": "Book of books (rewrite of Akashic Tome)",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -15241,7 +14885,7 @@
         "file": "entityculling-forge-1.6.1-mc1.19.2.jar",
         "type": "mods",
         "description": "Using async path-tracing to hide Tiles/Entities that are not visible",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -16964,7 +16608,7 @@
         "file": "flickerfix-1.19.1-3.1.0.jar",
         "type": "mods",
         "description": "Disables nightvision flickering",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -17296,297 +16940,6 @@
           ],
           "fileFingerprint": 131440925,
           "modId": 289412
-        }
-      },
-      {
-        "name": "Fusion (Connected Textures)",
-        "version": "Unknown",
-        "optional": true,
-        "file": "fusion-1.0.4-forge-mc1.19.2.jar",
-        "type": "mods",
-        "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 854949,
-        "curseForgeFileId": 4667404,
-        "curseForgeProject": {
-          "id": 854949,
-          "name": "Fusion (Connected Textures)",
-          "authors": [
-            {
-              "id": 19533279,
-              "name": "SuperMartijn642",
-              "url": "https://www.curseforge.com/members/19533279-supermartijn642?username=supermartijn642"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
-          "categories": [
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 424,
-          "classId": 6,
-          "slug": "fusion-connected-textures",
-          "isFeatured": false,
-          "dateModified": "2023-07-28T01:01:21.27Z",
-          "dateCreated": "2023-04-26T17:17:37.397Z",
-          "dateReleased": "2023-07-27T14:27:51.413Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
-            "wikiUrl": "https://github.com/SuperMartijn642/Fusion/wiki",
-            "issuesUrl": "https://github.com/SuperMartijn642/Fusion/issues",
-            "sourceUrl": "https://github.com/SuperMartijn642/Fusion"
-          },
-          "logo": {
-            "id": 835860,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/835/860/256/256/638227854854712053.png",
-            "title": "638227854854712053.png",
-            "url": "https://media.forgecdn.net/avatars/835/860/638227854854712053.png",
-            "modId": 854949
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 680721,
-              "description": "All connections in 'full' connected texture layout",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/721/310/172/full-animation-large.gif",
-              "title": "The 'full' connected texture layout",
-              "url": "https://media.forgecdn.net/attachments/680/721/full-animation-large.gif",
-              "modId": 854949
-            },
-            {
-              "id": 680716,
-              "description": "Example of the scrolling texture type used to create a conveyor",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/716/310/172/conveyor-animation-reset-large.gif",
-              "title": "The scrolling texture type",
-              "url": "https://media.forgecdn.net/attachments/680/716/conveyor-animation-reset-large.gif",
-              "modId": 854949
-            },
-            {
-              "id": 680715,
-              "description": "All connections in 'simple' connected texture layout",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/715/310/172/simple-animation-large.gif",
-              "title": "The 'simple' connected texture layout",
-              "url": "https://media.forgecdn.net/attachments/680/715/simple-animation-large.gif",
-              "modId": 854949
-            }
-          ],
-          "mainFileId": 4667457
-        },
-        "curseForgeFile": {
-          "id": 4667404,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Fusion 1.0.4 for Forge 1.19.2",
-          "fileName": "fusion-1.0.4-forge-mc1.19.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-27T14:13:13.887Z",
-          "fileLength": 178024,
-          "dependencies": [],
-          "alternateFileId": 4667406,
-          "modules": [
-            {
-              "fingerprint": 2937864399,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3858385911,
-              "name": "com"
-            },
-            {
-              "fingerprint": 1296834714,
-              "name": "fusion.mixins.json"
-            },
-            {
-              "fingerprint": 2106792421,
-              "name": "fusion.png"
-            },
-            {
-              "fingerprint": 158335349,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 846026882,
-              "name": "fusion.mixins.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "24ca57436234a3e3e1eb80c97eabe932f2c54d37",
-              "algo": 1
-            },
-            {
-              "value": "c9f92516b1f0dce9b436feeda405eee3",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000001",
-              "gameVersion": "1.19.1",
-              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
-              "gameVersionName": "1.19.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
-              "gameVersionName": "1.19"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge",
-            "1.19.1",
-            "1.19"
-          ],
-          "fileFingerprint": 2852104593,
-          "modId": 854949
-        },
-        "modrinthProject": {
-          "id": "p19vrgc2",
-          "slug": "fusion-connected-textures",
-          "project_type": "mod",
-          "team": "4ZTLcqlz",
-          "title": "Fusion (Connected Textures)",
-          "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
-          "body": "![Separator](https://imgur.com/gZDWWY6.png)\n\n# Fusion Connected Textures\n\nFusion is a library for both Forge and Fabric which adds additional texture and model types such as connected textures to be used in resource packs and which allows other mods to add additional texture and model types!\n\n## 📖 Wiki\n### For resource packs:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-resource-packs\n### For mod developers:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-mod-developers\n\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 🖼️ Texture types\n\n### Connected texture\nConnected texture are textures with a special layout which allows them to connect to other blocks when combined with the connecting model type. Fusion offers two connected texture layouts, full and simple.\nHere is an example of the simple layout:\n\n<img width='500' src='https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif' alt='Simple connected texture example'>\n\n### Scrolling texture\nScrolling textures are a type of animated texture which scrolls over an image. The scrolling can occur from any corner to any other corner of the texture, even diagonal!\nHere is an example of a conveyor belt:\n\n<img width='300' src='https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif' alt='Scrolling texture conveyor example'>\n\n \n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 🧊 Model types\n\n### Connected model\nConected models are models which will connect to other blocks when used in conjunction with the connected texture type. Connections can be specified for specific blocks and states.\nHere is an example of an oak tiles block which connects to itself and acacia tiles:\n\n<table>\n<tr><td>\n\n```json\n{\n   ...\n   \"type\": \"connecting\",\n   \"connections\": [\n      {\n         \"type\": \"is_same_block\"\n      },\n      {\n         \"type\": \"match_block\",\n         \"block\": \"acacia_tiles\"\n      }\n   ]\n   ...\n}\n```\n\n</td><td>\n<img width='500' src='https://imgur.com/AoSdjrP.gif' alt='Connected model example'>\n</td></tr>\n</table>\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## FAQ\n### Can I use Fusion in my modpack?\nYes, you are allowed use Fusion in your modpack\n### Do I need to install Fusion on the server?\nNo, Fusion is only required on the client and does nothing when installed on a server\n### Why does Fusion not work with Sodium?\nSodium ignores the Fabric rendering api. To solve this install [Indium](https://modrinth.com/mod/indium).\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n### Legal Stuff\nFusion is the property of SuperMartijn642 and is protected under copyright law and may not be altered or reuploaded without direct permission from SuperMartijn642.\n",
-          "published": "2023-04-30T16:10:10.808333Z",
-          "updated": "2023-07-27T14:27:54.834756Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": ""
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "decoration"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/p19vrgc2/04f53d5c523d78f6b73533e71aa60e60f1f99249.png",
-          "issues_url": "https://github.com/SuperMartijn642/Fusion/issues",
-          "source_url": "https://github.com/SuperMartijn642/Fusion",
-          "wiki_url": "https://github.com/SuperMartijn642/Fusion/wiki",
-          "discord_url": "https://discord.gg/QEbGyUYB2e",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/6f6ecd6740717a0a95d14df6ea18cb02cd354dc7.gif",
-              "featured": false,
-              "title": "The 'full' connected texture layout",
-              "description": "All connections in 'full' connected texture layout",
-              "created": "2023-06-19T09:18:57.553265Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif",
-              "featured": false,
-              "title": "The scrolling texture type",
-              "description": "Example of the scrolling texture type used to create a conveyor",
-              "created": "2023-06-19T09:20:11.466771Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif",
-              "featured": false,
-              "title": "The 'simple' connected texture layout",
-              "description": "All connections in 'simple' connected texture layout",
-              "created": "2023-06-19T09:19:19.824585Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "FAmFXIxt",
-          "project_id": "p19vrgc2",
-          "author_id": "3KDmigFH",
-          "name": "Fusion 1.0.4",
-          "version_number": "1.0.4-forge-mc1.19.2",
-          "changelog": "### Fusion 1.0.4\n- Fixed concurrency issue where some texture are sometimes not loaded correctly\n\n### Fusion 1.0.3\n- Added `ModelBakingContext#getModel`\n- Fixed parents for connecting models not always being resolved\n- Added bypass to load child model data for multipart models\n\n### Fusion 1.0.2\n- Fixed simple connected texture sprite coordinates for the left,up,down connection\n\n### Fusion 1.0.1\n- Fixed textures not loading correctly when ModernFix is installed\n- Fixed `SpriteCreationContext` sometimes returning the wrong atlas size\n\n### Fusion 1.0.0a\n- Fixed crash with Iris\n\n### Fusion 1.0.0\n- Initial release of Fusion\n",
-          "date_published": "2023-07-27T14:13:21.290794Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "9946090ff01b649691ecf304703a79c5c150c7df8f49e21fd1a50ec56c1bd200fb219fee2428c131bd1dfd478aa2972d203faf9cd2ca95d1b98b7964e175718f",
-                "sha1": "24ca57436234a3e3e1eb80c97eabe932f2c54d37"
-              },
-              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2.jar",
-              "filename": "fusion-1.0.4-forge-mc1.19.2.jar",
-              "primary": true,
-              "size": 178024
-            },
-            {
-              "hashes": {
-                "sha1": "99dfc1817cec152d887dbd1ce669ec4fa928c657",
-                "sha512": "0fdd04db2eb8c508dd8ecb21ad9bc0971109d9f7387437f618ee736cbe3089c6eea6586658f29f15a3300daa52402aa56f2675759df8f8b1d5c042b642d9ca8a"
-              },
-              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2-javadoc.jar",
-              "filename": "fusion-1.0.4-forge-mc1.19.2-javadoc.jar",
-              "primary": false,
-              "size": 422065
-            },
-            {
-              "hashes": {
-                "sha512": "dbb54b0a140c2d72bdb8df66b35c12c9d09a72d0da8dfd23d98abb381c30dca544a365320048f3a2602a81cf45e870dcb2af4271ae03dca976461c7a5b1e2689",
-                "sha1": "0a81566aa9f37f3163c6f1dcdefb6edb960150fa"
-              },
-              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2-sources.jar",
-              "filename": "fusion-1.0.4-forge-mc1.19.2-sources.jar",
-              "primary": false,
-              "size": 113602
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.19",
-            "1.19.1",
-            "1.19.2"
-          ],
-          "loaders": [
-            "forge"
-          ]
         }
       },
       {
@@ -27233,7 +26586,7 @@
         "file": "rechiseled-1.1.2-forge-mc1.19.2.jar",
         "type": "mods",
         "description": "Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -28928,7 +28281,7 @@
         "file": "spirit-forge-1.19.2-2.2.6.jar",
         "type": "mods",
         "description": "Spirit - a Soul Shards inspired mod - Spawn your own mobs with an enhanced mob spawner",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -30270,7 +29623,7 @@
         "file": "Torcherino-forge-1.19.2-17.0.4.jar",
         "type": "mods",
         "description": "Torch that speeds up tile entities.",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -31623,7 +30976,7 @@
         "file": "vitalize-forge-1.19.2-1.1.1.jar",
         "type": "mods",
         "description": "An addon for Spirit that simulates the killing of mobs and their drops",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -78517,13 +77870,660 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Fusion (Connected Textures)",
+        "version": "Unknown",
+        "optional": true,
+        "file": "fusion-1.0.4-forge-mc1.19.2.jar",
+        "type": "mods",
+        "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 854949,
+        "curseForgeFileId": 4667404,
+        "curseForgeProject": {
+          "id": 854949,
+          "name": "Fusion (Connected Textures)",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/19533279-supermartijn642?username=supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "fusion-connected-textures",
+          "isFeatured": false,
+          "dateModified": "2023-07-28T01:01:21.27Z",
+          "dateCreated": "2023-04-26T17:17:37.397Z",
+          "dateReleased": "2023-07-27T14:27:51.413Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+            "wikiUrl": "https://github.com/SuperMartijn642/Fusion/wiki",
+            "issuesUrl": "https://github.com/SuperMartijn642/Fusion/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/Fusion"
+          },
+          "logo": {
+            "id": 835860,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/835/860/256/256/638227854854712053.png",
+            "title": "638227854854712053.png",
+            "url": "https://media.forgecdn.net/avatars/835/860/638227854854712053.png",
+            "modId": 854949
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 680721,
+              "description": "All connections in 'full' connected texture layout",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/721/310/172/full-animation-large.gif",
+              "title": "The 'full' connected texture layout",
+              "url": "https://media.forgecdn.net/attachments/680/721/full-animation-large.gif",
+              "modId": 854949
+            },
+            {
+              "id": 680716,
+              "description": "Example of the scrolling texture type used to create a conveyor",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/716/310/172/conveyor-animation-reset-large.gif",
+              "title": "The scrolling texture type",
+              "url": "https://media.forgecdn.net/attachments/680/716/conveyor-animation-reset-large.gif",
+              "modId": 854949
+            },
+            {
+              "id": 680715,
+              "description": "All connections in 'simple' connected texture layout",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/680/715/310/172/simple-animation-large.gif",
+              "title": "The 'simple' connected texture layout",
+              "url": "https://media.forgecdn.net/attachments/680/715/simple-animation-large.gif",
+              "modId": 854949
+            }
+          ],
+          "mainFileId": 4667457
+        },
+        "curseForgeFile": {
+          "id": 4667404,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fusion 1.0.4 for Forge 1.19.2",
+          "fileName": "fusion-1.0.4-forge-mc1.19.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T14:13:13.887Z",
+          "fileLength": 178024,
+          "dependencies": [],
+          "alternateFileId": 4667406,
+          "modules": [
+            {
+              "fingerprint": 2937864399,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3858385911,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1296834714,
+              "name": "fusion.mixins.json"
+            },
+            {
+              "fingerprint": 2106792421,
+              "name": "fusion.png"
+            },
+            {
+              "fingerprint": 158335349,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 846026882,
+              "name": "fusion.mixins.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "24ca57436234a3e3e1eb80c97eabe932f2c54d37",
+              "algo": 1
+            },
+            {
+              "value": "c9f92516b1f0dce9b436feeda405eee3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2852104593,
+          "modId": 854949
+        },
+        "modrinthProject": {
+          "id": "p19vrgc2",
+          "slug": "fusion-connected-textures",
+          "project_type": "mod",
+          "team": "4ZTLcqlz",
+          "title": "Fusion (Connected Textures)",
+          "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+          "body": "![Separator](https://imgur.com/gZDWWY6.png)\n\n# Fusion Connected Textures\n\nFusion is a library for both Forge and Fabric which adds additional texture and model types such as connected textures to be used in resource packs and which allows other mods to add additional texture and model types!\n\n## 📖 Wiki\n### For resource packs:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-resource-packs\n### For mod developers:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-mod-developers\n\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 🖼️ Texture types\n\n### Connected texture\nConnected texture are textures with a special layout which allows them to connect to other blocks when combined with the connecting model type. Fusion offers two connected texture layouts, full and simple.\nHere is an example of the simple layout:\n\n<img width='500' src='https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif' alt='Simple connected texture example'>\n\n### Scrolling texture\nScrolling textures are a type of animated texture which scrolls over an image. The scrolling can occur from any corner to any other corner of the texture, even diagonal!\nHere is an example of a conveyor belt:\n\n<img width='300' src='https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif' alt='Scrolling texture conveyor example'>\n\n \n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 🧊 Model types\n\n### Connected model\nConected models are models which will connect to other blocks when used in conjunction with the connected texture type. Connections can be specified for specific blocks and states.\nHere is an example of an oak tiles block which connects to itself and acacia tiles:\n\n<table>\n<tr><td>\n\n```json\n{\n   ...\n   \"type\": \"connecting\",\n   \"connections\": [\n      {\n         \"type\": \"is_same_block\"\n      },\n      {\n         \"type\": \"match_block\",\n         \"block\": \"acacia_tiles\"\n      }\n   ]\n   ...\n}\n```\n\n</td><td>\n<img width='500' src='https://imgur.com/AoSdjrP.gif' alt='Connected model example'>\n</td></tr>\n</table>\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## FAQ\n### Can I use Fusion in my modpack?\nYes, you are allowed use Fusion in your modpack\n### Do I need to install Fusion on the server?\nNo, Fusion is only required on the client and does nothing when installed on a server\n### Why does Fusion not work with Sodium?\nSodium ignores the Fabric rendering api. To solve this install [Indium](https://modrinth.com/mod/indium).\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n### Legal Stuff\nFusion is the property of SuperMartijn642 and is protected under copyright law and may not be altered or reuploaded without direct permission from SuperMartijn642.\n",
+          "published": "2023-04-30T16:10:10.808333Z",
+          "updated": "2023-07-27T14:27:54.834756Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/p19vrgc2/04f53d5c523d78f6b73533e71aa60e60f1f99249.png",
+          "issues_url": "https://github.com/SuperMartijn642/Fusion/issues",
+          "source_url": "https://github.com/SuperMartijn642/Fusion",
+          "wiki_url": "https://github.com/SuperMartijn642/Fusion/wiki",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/6f6ecd6740717a0a95d14df6ea18cb02cd354dc7.gif",
+              "featured": false,
+              "title": "The 'full' connected texture layout",
+              "description": "All connections in 'full' connected texture layout",
+              "created": "2023-06-19T09:18:57.553265Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif",
+              "featured": false,
+              "title": "The scrolling texture type",
+              "description": "Example of the scrolling texture type used to create a conveyor",
+              "created": "2023-06-19T09:20:11.466771Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif",
+              "featured": false,
+              "title": "The 'simple' connected texture layout",
+              "description": "All connections in 'simple' connected texture layout",
+              "created": "2023-06-19T09:19:19.824585Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "FAmFXIxt",
+          "project_id": "p19vrgc2",
+          "author_id": "3KDmigFH",
+          "name": "Fusion 1.0.4",
+          "version_number": "1.0.4-forge-mc1.19.2",
+          "changelog": "### Fusion 1.0.4\n- Fixed concurrency issue where some texture are sometimes not loaded correctly\n\n### Fusion 1.0.3\n- Added `ModelBakingContext#getModel`\n- Fixed parents for connecting models not always being resolved\n- Added bypass to load child model data for multipart models\n\n### Fusion 1.0.2\n- Fixed simple connected texture sprite coordinates for the left,up,down connection\n\n### Fusion 1.0.1\n- Fixed textures not loading correctly when ModernFix is installed\n- Fixed `SpriteCreationContext` sometimes returning the wrong atlas size\n\n### Fusion 1.0.0a\n- Fixed crash with Iris\n\n### Fusion 1.0.0\n- Initial release of Fusion\n",
+          "date_published": "2023-07-27T14:13:21.290794Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9946090ff01b649691ecf304703a79c5c150c7df8f49e21fd1a50ec56c1bd200fb219fee2428c131bd1dfd478aa2972d203faf9cd2ca95d1b98b7964e175718f",
+                "sha1": "24ca57436234a3e3e1eb80c97eabe932f2c54d37"
+              },
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2.jar",
+              "filename": "fusion-1.0.4-forge-mc1.19.2.jar",
+              "primary": true,
+              "size": 178024
+            },
+            {
+              "hashes": {
+                "sha512": "0fdd04db2eb8c508dd8ecb21ad9bc0971109d9f7387437f618ee736cbe3089c6eea6586658f29f15a3300daa52402aa56f2675759df8f8b1d5c042b642d9ca8a",
+                "sha1": "99dfc1817cec152d887dbd1ce669ec4fa928c657"
+              },
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2-javadoc.jar",
+              "filename": "fusion-1.0.4-forge-mc1.19.2-javadoc.jar",
+              "primary": false,
+              "size": 422065
+            },
+            {
+              "hashes": {
+                "sha512": "dbb54b0a140c2d72bdb8df66b35c12c9d09a72d0da8dfd23d98abb381c30dca544a365320048f3a2602a81cf45e870dcb2af4271ae03dca976461c7a5b1e2689",
+                "sha1": "0a81566aa9f37f3163c6f1dcdefb6edb960150fa"
+              },
+              "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2-sources.jar",
+              "filename": "fusion-1.0.4-forge-mc1.19.2-sources.jar",
+              "primary": false,
+              "size": 113602
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Botarium",
+        "version": "Unknown",
+        "optional": true,
+        "file": "botarium-forge-1.19.2-1.8.2.jar",
+        "type": "mods",
+        "description": "A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 704113,
+        "curseForgeFileId": 4306551,
+        "curseForgeProject": {
+          "id": 704113,
+          "name": "Botarium",
+          "authors": [
+            {
+              "id": 102202423,
+              "name": "CodexAdrian",
+              "url": "https://www.curseforge.com/members/102202423-codexadrian?username=codexadrian"
+            },
+            {
+              "id": 103112623,
+              "name": "terrariumearth",
+              "url": "https://www.curseforge.com/members/103112623-terrariumearth?username=terrariumearth"
+            },
+            {
+              "id": 25275754,
+              "name": "ThatGravyBoat",
+              "url": "https://www.curseforge.com/members/25275754-thatgravyboat?username=thatgravyboat"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things",
+          "categories": [
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "botarium",
+          "isFeatured": false,
+          "dateModified": "2023-07-14T05:10:40.347Z",
+          "dateCreated": "2022-11-16T03:42:09.593Z",
+          "dateReleased": "2023-07-14T05:07:02.597Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/botarium",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/terrarium-earth/Botarium/issues",
+            "sourceUrl": "https://github.com/terrarium-earth/Botarium"
+          },
+          "logo": {
+            "id": 796852,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/796/852/256/256/638157303891742582.png",
+            "title": "638157303891742582.png",
+            "url": "https://media.forgecdn.net/avatars/796/852/638157303891742582.png",
+            "modId": 704113
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4643197
+        },
+        "curseForgeFile": {
+          "id": 4306551,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "botarium-forge-1.19.2-1.8.2.jar",
+          "fileName": "botarium-forge-1.19.2-1.8.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-01-06T03:41:50.717Z",
+          "fileLength": 110494,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1073755975,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1613450694,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2194770694,
+              "name": "earth"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "579df823359b79fabd2c92de53c4bce6e4fbcf01",
+              "algo": 1
+            },
+            {
+              "value": "1fe74bba345c2507f858da4a8379e35f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 1339560589,
+          "modId": 704113
+        },
+        "modrinthProject": {
+          "id": "2u6LRnMa",
+          "slug": "botarium",
+          "project_type": "mod",
+          "team": "UfQrnW3D",
+          "title": "Botarium",
+          "description": "A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things",
+          "body": "<center>\n\n## Botarium\n\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/botarium)\n---\n\n### 📖 About 📖\n\nBotarium is a simple open source API that makes modding on Forge and Fabric easier for devs looking to make tech mods! More specifically, it should help in the creation of blocks and items that hold items, fluids and energy and has a rudimentary transfer api that allows you to interact with other forge and fabric containers.\n\nIt also has a variety of utilities, such as a fluid registration api, general registration api, and cross platform api\n\n---\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/1073717602880327761/1094750562794348585/BisectHosting_Banner_vector.svg)](http://bisecthosting.com/terrarium)\n\n---\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n### Check Out our Other Projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095049390432989365/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095049389862572062/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095049390185521172/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>",
+          "published": "2022-11-14T16:57:28.293227Z",
+          "updated": "2023-07-14T05:07:01.046754Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/2u6LRnMa/31d70002f565c2ae1b2901667f3fb9f553281594.png",
+          "issues_url": "https://github.com/terrarium-earth/Botarium/issues",
+          "source_url": "https://github.com/terrarium-earth/Botarium",
+          "discord_url": "https://discord.gg/terrarium",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ARPkqhAA",
+          "project_id": "2u6LRnMa",
+          "author_id": "6ZoP9xY8",
+          "name": "1.8.2",
+          "version_number": "1.8.2",
+          "changelog": "> Switched to swapping fluid holders instead of modifying them to fix forge issue",
+          "date_published": "2023-01-06T03:41:49.826136Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "579df823359b79fabd2c92de53c4bce6e4fbcf01",
+                "sha512": "a1d6d920e5ad678fbd0cd762962a20b6629cf5bc0c6a3cdbcc1cc910f1d5ad4633792ff64a868c98cf111ce4e5c4b15529fff8f58055f1ac67c2e22846142718"
+              },
+              "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ARPkqhAA/botarium-forge-1.19.2-1.8.2.jar",
+              "filename": "botarium-forge-1.19.2-1.8.2.jar",
+              "primary": true,
+              "size": 110494
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Cupboard",
+        "version": "Unknown",
+        "optional": true,
+        "file": "cupboard-1.19.2-1.4.jar",
+        "type": "mods",
+        "description": "Cupboard provides code, frameworks, and utilities for minecraft mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 326652,
+        "curseForgeFileId": 4666957,
+        "curseForgeProject": {
+          "id": 326652,
+          "name": "Cupboard",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Cupboard provides code, frameworks, and utilities for minecraft mods",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "cupboard",
+          "isFeatured": false,
+          "dateModified": "2023-07-28T19:03:52.127Z",
+          "dateCreated": "2019-07-08T10:31:04.037Z",
+          "dateReleased": "2023-07-28T12:58:55.817Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/cupboard/issues",
+            "sourceUrl": "https://github.com/someaddons/cupboard"
+          },
+          "logo": {
+            "id": 852567,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
+            "title": "638255508280634753.png",
+            "url": "https://media.forgecdn.net/avatars/852/567/638255508280634753.png",
+            "modId": 326652
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4669193
+        },
+        "curseForgeFile": {
+          "id": 4666957,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "cupboard-1.19.2-1.4.jar",
+          "fileName": "cupboard-1.19.2-1.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T09:42:14.623Z",
+          "fileLength": 13695,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2364911781,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1154946729,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2751480757,
+              "name": "cupboard.mixins.json"
+            },
+            {
+              "fingerprint": 3152166936,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6afaa17172bae28bcd9ca9a9f64de36958abcca1",
+              "algo": 1
+            },
+            {
+              "value": "9f163df3f1b76e31570ab729e2840b2d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.19.2",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2989851291,
+          "modId": 326652
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690578087393,
-    "numPlays": 276
+    "lastPlayed": 1690581633187,
+    "numPlays": 285
   },
   "id": "1.19.2",
   "complianceLevel": 1,
