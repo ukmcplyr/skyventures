@@ -50117,7 +50117,7 @@
         "file": "blueprint-1.19.2-6.1.2.jar",
         "type": "mods",
         "description": "Library for all Abnormals mods",
-        "disabled": false,
+        "disabled": true,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -50279,7 +50279,7 @@
         "file": "clayworks-1.19.2-2.0.1.jar",
         "type": "mods",
         "description": "Introduces a new furnace type and several building blocks!",
-        "disabled": false,
+        "disabled": true,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -63058,7 +63058,7 @@
         "file": "ExNihiloSequentia-1.19.2-4.2.0.55.jar",
         "type": "mods",
         "description": "Create resources from thin air! Well, kind of...you need a tree first.",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -63238,7 +63238,7 @@
         "file": "ExNaturae-1.19.2-3.0.0.jar",
         "type": "mods",
         "description": "An addon to combine Ex Nihilo: Sequentia and Botania",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -65858,13 +65858,172 @@
           "fileFingerprint": 726809187,
           "modId": 380998
         }
+      },
+      {
+        "name": "JAMD",
+        "version": "JAMD-Forge-2.1.2+mc1.19.2.jar",
+        "optional": true,
+        "file": "JAMD-Forge-2.1.2+mc1.19.2.jar",
+        "type": "mods",
+        "description": "Just Another Mining Dimension ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 422981,
+        "curseForgeFileId": 4656812,
+        "curseForgeProject": {
+          "id": 422981,
+          "name": "JAMD",
+          "authors": [
+            {
+              "id": 17288714,
+              "name": "UnRealDinnerbone",
+              "url": "https://www.curseforge.com/members/17288714-unrealdinnerbone?username=unrealdinnerbone"
+            },
+            {
+              "id": 102603829,
+              "name": "nanitedev",
+              "url": "https://www.curseforge.com/members/102603829-nanitedev?username=nanitedev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Just Another Mining Dimension ",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "jamd",
+          "isFeatured": false,
+          "dateModified": "2023-07-21T16:14:33.163Z",
+          "dateCreated": "2020-11-27T15:45:53.63Z",
+          "dateReleased": "2023-07-21T16:03:20.613Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jamd",
+            "issuesUrl": "https://github.com/Nanite/JAMD/issues"
+          },
+          "logo": {
+            "id": 317123,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/317/123/256/256/637420887536708523.png",
+            "title": "637420887536708523.png",
+            "url": "https://media.forgecdn.net/avatars/317/123/637420887536708523.png",
+            "modId": 422981
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4656812
+        },
+        "curseForgeFile": {
+          "id": 4656812,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "JAMD-Forge-2.1.2+mc1.19.2.jar",
+          "fileName": "JAMD-Forge-2.1.2+mc1.19.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-21T16:03:20.613Z",
+          "fileLength": 45291,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 270932529,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 623641547,
+              "name": "jamd-common.mixins.json"
+            },
+            {
+              "fingerprint": 4201487575,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1252212747,
+              "name": "jamd.mixins.json"
+            },
+            {
+              "fingerprint": 3443218255,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3678645448,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3301124533,
+              "name": "com"
+            },
+            {
+              "fingerprint": 903593859,
+              "name": "architectury_inject_JAMD_common_4d268c68de524416bab50e9b747571d6_10c3d85cef8a0b1b56824a8bdecdfbecffd368ed953028135ad59e6ff4fb2dc9jamd212mc1192devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c97e7ec5857573ee8f525c50523f90dda08694bf",
+              "algo": 1
+            },
+            {
+              "value": "60a6d14c02b1c5606c5596810b7f73ba",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 505502707,
+          "modId": 422981
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690550238154,
-    "numPlays": 253
+    "lastPlayed": 1690552792354,
+    "numPlays": 257
   },
   "id": "1.19.2",
   "complianceLevel": 1,
