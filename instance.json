@@ -16419,1357 +16419,6 @@
         }
       },
       {
-        "name": "Integrated Dynamics",
-        "version": "IntegratedDynamics-1.19.2-1.16.9.jar",
-        "optional": true,
-        "file": "IntegratedDynamics-1.19.2-1.16.9.jar",
-        "type": "mods",
-        "description": "A mod to take full and automated control of your appliances.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 236307,
-        "curseForgeFileId": 4646711,
-        "curseForgeProject": {
-          "id": 236307,
-          "name": "Integrated Dynamics",
-          "authors": [
-            {
-              "id": 13500867,
-              "name": "kroeser",
-              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A mod to take full and automated control of your appliances.",
-          "categories": [
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Processing",
-              "slug": "technology-processing",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
-              "dateModified": "2014-05-08T17:38:41.96Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 413,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 412,
-          "classId": 6,
-          "slug": "integrated-dynamics",
-          "isFeatured": false,
-          "dateModified": "2023-07-16T05:12:20.64Z",
-          "dateCreated": "2015-09-22T18:14:10.63Z",
-          "dateReleased": "2023-07-16T05:01:26.493Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
-            "wikiUrl": "https://github.com/CyclopsMC/IntegratedDynamics/wiki",
-            "issuesUrl": "https://github.com/CyclopsMC/IntegratedDynamics/issues",
-            "sourceUrl": "https://github.com/CyclopsMC/IntegratedDynamics"
-          },
-          "logo": {
-            "id": 49396,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/49/396/256/256/636077266568975656.png",
-            "title": "636077266568975656.png",
-            "url": "https://media.forgecdn.net/avatars/49/396/636077266568975656.png",
-            "modId": 236307
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 70851,
-              "description": "With more complex logic networks, visual feedback is essential",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/851/310/172/2016-08-24_20.png",
-              "title": "Visual Feedback",
-              "url": "https://media.forgecdn.net/attachments/70/851/2016-08-24_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 33437,
-              "description": "The focus of this mod is to integrate well with other mods",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/437/310/172/2016-03-14_20.png",
-              "title": "Mod Integration",
-              "url": "https://media.forgecdn.net/attachments/33/437/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70841,
-              "description": "Display variable values in live displays",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/841/310/172/2016-08-24_19.png",
-              "title": "Displays",
-              "url": "https://media.forgecdn.net/attachments/70/841/2016-08-24_19.png",
-              "modId": 236307
-            },
-            {
-              "id": 70843,
-              "description": "Build vast networks for complex automation.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/843/310/172/2016-08-24_19.png",
-              "title": "Complex automation",
-              "url": "https://media.forgecdn.net/attachments/70/843/2016-08-24_19.png",
-              "modId": 236307
-            },
-            {
-              "id": 244695,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/695/310/172/2019-01-17_16.png",
-              "title": "Recipes",
-              "url": "https://media.forgecdn.net/attachments/244/695/2019-01-17_16.png",
-              "modId": 236307
-            },
-            {
-              "id": 33433,
-              "description": "All writers that are currently available",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/433/310/172/2016-03-14_20.png",
-              "title": "Writers",
-              "url": "https://media.forgecdn.net/attachments/33/433/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 209541,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/209/541/310/172/2017-05-19_20.png",
-              "title": "On the Dynamics of Integration",
-              "url": "https://media.forgecdn.net/attachments/209/541/2017-05-19_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70844,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/844/310/172/logo.png",
-              "title": "Integrated Dynamics logo",
-              "url": "https://media.forgecdn.net/attachments/70/844/logo.png",
-              "modId": 236307
-            },
-            {
-              "id": 33435,
-              "description": "Everything in this mod is created in its own unique way",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/435/310/172/2016-03-14_20.png",
-              "title": "Immersive Crafting System",
-              "url": "https://media.forgecdn.net/attachments/33/435/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70854,
-              "description": "All writers that are currently available",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/854/310/172/2016-08-24_19.png",
-              "title": "Writers",
-              "url": "https://media.forgecdn.net/attachments/70/854/2016-08-24_19.png",
-              "modId": 236307
-            },
-            {
-              "id": 70845,
-              "description": "Many aspects are available per reader",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/845/310/172/schermafbeelding-2016-08-24-om-19.png",
-              "title": "Aspect",
-              "url": "https://media.forgecdn.net/attachments/70/845/schermafbeelding-2016-08-24-om-19.png",
-              "modId": 236307
-            },
-            {
-              "id": 70848,
-              "description": "An energy system compatible with RF and Tesla, which is disabled by default.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/848/310/172/2016-08-24_20.png",
-              "title": "Energy System",
-              "url": "https://media.forgecdn.net/attachments/70/848/2016-08-24_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70847,
-              "description": "Store your variables inside an attached Variable Store to make your dependent variables available in the network.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/847/310/172/schermafbeelding-2016-08-24-om-20.png",
-              "title": "Variable Store",
-              "url": "https://media.forgecdn.net/attachments/70/847/schermafbeelding-2016-08-24-om-20.png",
-              "modId": 236307
-            },
-            {
-              "id": 33434,
-              "description": "An energy system compatible with RF, which is disabled by default.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/434/310/172/2016-03-14_20.png",
-              "title": "Energy System",
-              "url": "https://media.forgecdn.net/attachments/33/434/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 33438,
-              "description": "With more complex logic networks, visual feedback is essential",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/438/310/172/2016-03-14_20.png",
-              "title": "Visual Feedback",
-              "url": "https://media.forgecdn.net/attachments/33/438/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 244696,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/696/310/172/screen-recording-2018-12-30-at-03.gif",
-              "title": "Dynamic Recipe Lookup",
-              "url": "https://media.forgecdn.net/attachments/244/696/screen-recording-2018-12-30-at-03.gif",
-              "modId": 236307
-            },
-            {
-              "id": 27066,
-              "description": "Build vast networks for complex automation",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/66/310/172/2015-09-22_20.png",
-              "title": "Complex automation",
-              "url": "https://media.forgecdn.net/attachments/27/66/2015-09-22_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27068,
-              "description": "Many aspects are available per reader.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/68/310/172/schermafbeelding-2015-09-22-om-20.png",
-              "title": "Aspect",
-              "url": "https://media.forgecdn.net/attachments/27/68/schermafbeelding-2015-09-22-om-20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27070,
-              "description": "Store your variables inside an attached Variable Store to make your dependent variables available in the network.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/70/310/172/schermafbeelding-2015-09-22-om-20.png",
-              "title": "Variable Store",
-              "url": "https://media.forgecdn.net/attachments/27/70/schermafbeelding-2015-09-22-om-20.png",
-              "modId": 236307
-            },
-            {
-              "id": 634479,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/634/479/310/172/2023-03-14_16.png",
-              "title": "Offsets",
-              "url": "https://media.forgecdn.net/attachments/634/479/2023-03-14_16.png",
-              "modId": 236307
-            },
-            {
-              "id": 70842,
-              "description": "Use facades to hide your cables",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/842/310/172/2016-08-24_20.png",
-              "title": "Facades",
-              "url": "https://media.forgecdn.net/attachments/70/842/2016-08-24_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70846,
-              "description": "Use the Logic Programmer to perform complex operations on your variables.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/846/310/172/schermafbeelding-2016-08-24-om-20.png",
-              "title": "Logic Programmer",
-              "url": "https://media.forgecdn.net/attachments/70/846/schermafbeelding-2016-08-24-om-20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27067,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/67/310/172/logo.png",
-              "title": "Integrated Dynamics logo",
-              "url": "https://media.forgecdn.net/attachments/27/67/logo.png",
-              "modId": 236307
-            },
-            {
-              "id": 70852,
-              "description": "All readers that are currently available",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/852/310/172/2016-08-24_19.png",
-              "title": "Readers",
-              "url": "https://media.forgecdn.net/attachments/70/852/2016-08-24_19.png",
-              "modId": 236307
-            },
-            {
-              "id": 33431,
-              "description": "All readers that are currently available",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/431/310/172/2016-03-14_20.png",
-              "title": "Readers",
-              "url": "https://media.forgecdn.net/attachments/33/431/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27063,
-              "description": "Read many aspects in various readers",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/63/310/172/2015-09-22_20.png",
-              "title": "Readers",
-              "url": "https://media.forgecdn.net/attachments/27/63/2015-09-22_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27065,
-              "description": "Use facades to let cables blend in with your base.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/65/310/172/2015-09-22_20.png",
-              "title": "Facades",
-              "url": "https://media.forgecdn.net/attachments/27/65/2015-09-22_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70853,
-              "description": "Fully compatible with MCMultiPart",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/853/310/172/2016-08-24_20.png",
-              "title": "MCMultiPart",
-              "url": "https://media.forgecdn.net/attachments/70/853/2016-08-24_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 33432,
-              "description": "Fully compatible with MCMultiPart",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/432/310/172/2016-03-14_20.png",
-              "title": "MCMultiPart",
-              "url": "https://media.forgecdn.net/attachments/33/432/2016-03-14_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27062,
-              "description": "Read and write from and to different variables.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/62/310/172/2015-09-22_20.png",
-              "title": "Read and write",
-              "url": "https://media.forgecdn.net/attachments/27/62/2015-09-22_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 27069,
-              "description": "Use the Logic Programmer to perform complex operations on your variables.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/69/310/172/schermafbeelding-2015-09-22-om-20.png",
-              "title": "Logic Programmer",
-              "url": "https://media.forgecdn.net/attachments/27/69/schermafbeelding-2015-09-22-om-20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70840,
-              "description": "Read and write from and to different variables",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/840/310/172/2016-08-24_19.png",
-              "title": "Read and write",
-              "url": "https://media.forgecdn.net/attachments/70/840/2016-08-24_19.png",
-              "modId": 236307
-            },
-            {
-              "id": 70849,
-              "description": "Everything in this mod is created in its own unique way",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/849/310/172/2016-08-24_20.png",
-              "title": "Immersive Crafting System",
-              "url": "https://media.forgecdn.net/attachments/70/849/2016-08-24_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 64307,
-              "description": "Operators can be stored as values. This makes it possible to (partially) evaluate operators, and use as predicates in list mappings, filters, reductions, ...",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/64/307/310/172/2016-07-03_19.png",
-              "title": "Functional Logic",
-              "url": "https://media.forgecdn.net/attachments/64/307/2016-07-03_19.png",
-              "modId": 236307
-            },
-            {
-              "id": 27064,
-              "description": "Display variable values in live displays",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/64/310/172/2015-09-22_20.png",
-              "title": "Displays",
-              "url": "https://media.forgecdn.net/attachments/27/64/2015-09-22_20.png",
-              "modId": 236307
-            },
-            {
-              "id": 70850,
-              "description": "The focus of this mod is to integrate well with other mods.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/850/310/172/2016-08-24_20.png",
-              "title": "Mod Integration",
-              "url": "https://media.forgecdn.net/attachments/70/850/2016-08-24_20.png",
-              "modId": 236307
-            }
-          ],
-          "mainFileId": 4646715
-        },
-        "curseForgeFile": {
-          "id": 4646711,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "IntegratedDynamics-1.19.2-1.16.9.jar",
-          "fileName": "IntegratedDynamics-1.19.2-1.16.9.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-16T05:00:05.5Z",
-          "fileLength": 4010342,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 247007,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 232758,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 4646712,
-          "modules": [
-            {
-              "fingerprint": 4033035016,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 846804360,
-              "name": "org"
-            },
-            {
-              "fingerprint": 711418639,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 882622944,
-              "name": "data"
-            },
-            {
-              "fingerprint": 66756537,
-              "name": "LICENSE-re2j.txt"
-            },
-            {
-              "fingerprint": 1175609446,
-              "name": "mixins.integrateddynamics.json"
-            },
-            {
-              "fingerprint": 2118832145,
-              "name": "logo_small.png"
-            },
-            {
-              "fingerprint": 2089879315,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1616493962,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2647331148,
-              "name": "LICENSE-netty.txt"
-            },
-            {
-              "fingerprint": 1036984855,
-              "name": "vendors"
-            },
-            {
-              "fingerprint": 1224679297,
-              "name": "mixins.integrateddynamics.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "b6a7813b527eb6e25013b520e186700958f15f55",
-              "algo": 1
-            },
-            {
-              "value": "84afcc1e6082bb35c04bc8b216e43edc",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 1771560228,
-          "modId": 236307
-        }
-      },
-      {
-        "name": "Integrated Tunnels",
-        "version": "IntegratedTunnels-1.19.2-1.8.20.jar",
-        "optional": true,
-        "file": "IntegratedTunnels-1.19.2-1.8.20.jar",
-        "type": "mods",
-        "description": "Transfer other stuff over Integrated Dynamics networks",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 251389,
-        "curseForgeFileId": 4631552,
-        "curseForgeProject": {
-          "id": 251389,
-          "name": "Integrated Tunnels",
-          "authors": [
-            {
-              "id": 13500867,
-              "name": "kroeser",
-              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Transfer other stuff over Integrated Dynamics networks",
-          "categories": [
-            {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 415,
-          "classId": 6,
-          "slug": "integrated-tunnels",
-          "isFeatured": false,
-          "dateModified": "2023-07-08T13:02:05.6Z",
-          "dateCreated": "2016-09-24T09:11:14.517Z",
-          "dateReleased": "2023-07-08T12:46:44.41Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/CyclopsMC/IntegratedTunnels/issues",
-            "sourceUrl": "https://github.com/CyclopsMC/IntegratedTunnels"
-          },
-          "logo": {
-            "id": 52401,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/52/401/256/256/636114555761053412.png",
-            "title": "636114555761053412.png",
-            "url": "https://media.forgecdn.net/avatars/52/401/636114555761053412.png",
-            "modId": 251389
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 215890,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/890/310/172/2017-08-21_19.png",
-              "title": "World Item Importer/Exporter",
-              "url": "https://media.forgecdn.net/attachments/215/890/2017-08-21_19.png",
-              "modId": 251389
-            },
-            {
-              "id": 74522,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/522/310/172/2016-10-07_23.png",
-              "title": "Inactive, active, error",
-              "url": "https://media.forgecdn.net/attachments/74/522/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 74551,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/551/310/172/logo.png",
-              "title": "Integrated Tunnels",
-              "url": "https://media.forgecdn.net/attachments/74/551/logo.png",
-              "modId": 251389
-            },
-            {
-              "id": 74519,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/519/310/172/2016-10-07_23.png",
-              "title": "Multiple Importers and Exporters",
-              "url": "https://media.forgecdn.net/attachments/74/519/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 74513,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/513/310/172/2016-10-07_23.png",
-              "title": "Importer",
-              "url": "https://media.forgecdn.net/attachments/74/513/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 74518,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/518/310/172/2016-10-07_23.png",
-              "title": "Multiple interfaces",
-              "url": "https://media.forgecdn.net/attachments/74/518/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 74521,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/521/310/172/2016-10-07_23.png",
-              "title": "Items, Fluids and Energy",
-              "url": "https://media.forgecdn.net/attachments/74/521/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 215891,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/891/310/172/2017-08-21_19.png",
-              "title": "World Block Importer/Exporter",
-              "url": "https://media.forgecdn.net/attachments/215/891/2017-08-21_19.png",
-              "modId": 251389
-            },
-            {
-              "id": 74517,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/517/310/172/2016-10-07_23.png",
-              "title": "IO",
-              "url": "https://media.forgecdn.net/attachments/74/517/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 74520,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/520/310/172/2016-10-07_23.png",
-              "title": "Expressive configuration options",
-              "url": "https://media.forgecdn.net/attachments/74/520/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 215892,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/892/310/172/2017-08-21_19.png",
-              "title": "World Energy Importer/Exporter",
-              "url": "https://media.forgecdn.net/attachments/215/892/2017-08-21_19.png",
-              "modId": 251389
-            },
-            {
-              "id": 215893,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/893/310/172/2017-08-21_19.png",
-              "title": "Player Simulation",
-              "url": "https://media.forgecdn.net/attachments/215/893/2017-08-21_19.png",
-              "modId": 251389
-            },
-            {
-              "id": 74514,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/514/310/172/2016-10-07_23.png",
-              "title": "Exporter",
-              "url": "https://media.forgecdn.net/attachments/74/514/2016-10-07_23.png",
-              "modId": 251389
-            },
-            {
-              "id": 74515,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/515/310/172/2016-10-07_23.png",
-              "title": "Importer+Exporter",
-              "url": "https://media.forgecdn.net/attachments/74/515/2016-10-07_23.png",
-              "modId": 251389
-            }
-          ],
-          "mainFileId": 4631557
-        },
-        "curseForgeFile": {
-          "id": 4631552,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "IntegratedTunnels-1.19.2-1.8.20.jar",
-          "fileName": "IntegratedTunnels-1.19.2-1.8.20.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-08T12:46:11.743Z",
-          "fileLength": 609791,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 232758,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 236307,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 4631553,
-          "modules": [
-            {
-              "fingerprint": 1907923743,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 484059067,
-              "name": "org"
-            },
-            {
-              "fingerprint": 152818033,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 711562211,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3667489292,
-              "name": "logo_small.png"
-            },
-            {
-              "fingerprint": 1753869829,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1197441969,
-              "name": "assets"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "34f9c656b9a99dcd9222fa87f3275c7c3d781531",
-              "algo": 1
-            },
-            {
-              "value": "eea1638abc9daaee7ef502724fe0d038",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 721637038,
-          "modId": 251389
-        }
-      },
-      {
-        "name": "Integrated Terminals",
-        "version": "IntegratedTerminals-1.19.2-1.4.8.jar",
-        "optional": true,
-        "file": "IntegratedTerminals-1.19.2-1.4.8.jar",
-        "type": "mods",
-        "description": "Terminals for managing and overviewing Integrated Dynamics networks",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 295910,
-        "curseForgeFileId": 4645062,
-        "curseForgeProject": {
-          "id": 295910,
-          "name": "Integrated Terminals",
-          "authors": [
-            {
-              "id": 13500867,
-              "name": "kroeser",
-              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Terminals for managing and overviewing Integrated Dynamics networks",
-          "categories": [
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Energy, Fluid, and Item Transport",
-              "slug": "technology-item-fluid-energy-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
-              "dateModified": "2014-05-08T17:39:07.873Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 415,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Energy",
-              "slug": "technology-energy",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
-              "dateModified": "2014-05-08T17:39:33.79Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 417,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 412,
-          "classId": 6,
-          "slug": "integrated-terminals",
-          "isFeatured": false,
-          "dateModified": "2023-07-15T08:53:39.99Z",
-          "dateCreated": "2018-06-13T14:51:23.957Z",
-          "dateReleased": "2023-07-15T08:43:25.263Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/CyclopsMC/IntegratedTerminals/issues",
-            "sourceUrl": "https://github.com/CyclopsMC/IntegratedTerminals"
-          },
-          "logo": {
-            "id": 165801,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/165/801/256/256/636694374476455275.png",
-            "title": "636694374476455275.png",
-            "url": "https://media.forgecdn.net/avatars/165/801/636694374476455275.png",
-            "modId": 295910
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 244685,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/685/310/172/2019-01-17_16.png",
-              "title": "Storage Terminal",
-              "url": "https://media.forgecdn.net/attachments/244/685/2019-01-17_16.png",
-              "modId": 295910
-            },
-            {
-              "id": 244686,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/686/310/172/2019-01-17_17.png",
-              "title": "Storage Terminal GUI",
-              "url": "https://media.forgecdn.net/attachments/244/686/2019-01-17_17.png",
-              "modId": 295910
-            },
-            {
-              "id": 244689,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/689/310/172/2019-01-17_16.png",
-              "title": "Storage Terminal Crafting Options",
-              "url": "https://media.forgecdn.net/attachments/244/689/2019-01-17_16.png",
-              "modId": 295910
-            },
-            {
-              "id": 244693,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/693/310/172/2019-01-17_16.png",
-              "title": "Crafting plan status",
-              "url": "https://media.forgecdn.net/attachments/244/693/2019-01-17_16.png",
-              "modId": 295910
-            },
-            {
-              "id": 244692,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/692/310/172/2019-01-17_16.png",
-              "title": "Crafting Job Terminal jobs",
-              "url": "https://media.forgecdn.net/attachments/244/692/2019-01-17_16.png",
-              "modId": 295910
-            },
-            {
-              "id": 244690,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/690/310/172/2019-01-17_16.png",
-              "title": "Storage Terminal Crafting Job",
-              "url": "https://media.forgecdn.net/attachments/244/690/2019-01-17_16.png",
-              "modId": 295910
-            },
-            {
-              "id": 244687,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/687/310/172/2019-01-17_17.png",
-              "title": "Storage Terminal Filtering",
-              "url": "https://media.forgecdn.net/attachments/244/687/2019-01-17_17.png",
-              "modId": 295910
-            },
-            {
-              "id": 244684,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/684/310/172/2019-01-17_17.png",
-              "title": "Terminals",
-              "url": "https://media.forgecdn.net/attachments/244/684/2019-01-17_17.png",
-              "modId": 295910
-            },
-            {
-              "id": 244626,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/626/310/172/logo.png",
-              "title": "Logo",
-              "url": "https://media.forgecdn.net/attachments/244/626/logo.png",
-              "modId": 295910
-            },
-            {
-              "id": 244691,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/691/310/172/2019-01-17_17.png",
-              "title": "Crafting Job Terminal",
-              "url": "https://media.forgecdn.net/attachments/244/691/2019-01-17_17.png",
-              "modId": 295910
-            },
-            {
-              "id": 244688,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/688/310/172/screen-recording-2019-01-12-at-03.gif",
-              "title": "Storage Terminal Fluid Interaction",
-              "url": "https://media.forgecdn.net/attachments/244/688/screen-recording-2019-01-12-at-03.gif",
-              "modId": 295910
-            },
-            {
-              "id": 505590,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/505/590/310/172/screenshot-2022-10-10-at-19.png",
-              "title": "Responsive GUI",
-              "url": "https://media.forgecdn.net/attachments/505/590/screenshot-2022-10-10-at-19.png",
-              "modId": 295910
-            }
-          ],
-          "mainFileId": 4645067
-        },
-        "curseForgeFile": {
-          "id": 4645062,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "IntegratedTerminals-1.19.2-1.4.8.jar",
-          "fileName": "IntegratedTerminals-1.19.2-1.4.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-15T08:38:22.323Z",
-          "fileLength": 518534,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 236307,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 287357,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 251389,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 232758,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 4645063,
-          "modules": [
-            {
-              "fingerprint": 2245150880,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 173011477,
-              "name": "org"
-            },
-            {
-              "fingerprint": 2877892280,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 1474660651,
-              "name": "data"
-            },
-            {
-              "fingerprint": 18908756,
-              "name": "logo_small.png"
-            },
-            {
-              "fingerprint": 3023767659,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3820402778,
-              "name": "assets"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "b5324343619b50ecc7bc50e5e143b87bd0f0ec03",
-              "algo": 1
-            },
-            {
-              "value": "5743e1d6a7fa7e7b08577c6a13927f55",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 538693121,
-          "modId": 295910
-        }
-      },
-      {
-        "name": "Integrated Crafting",
-        "version": "IntegratedCrafting-1.19.2-1.1.2.jar",
-        "optional": true,
-        "file": "IntegratedCrafting-1.19.2-1.1.2.jar",
-        "type": "mods",
-        "description": "Craft stuff in Integrated Dynamics networks",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 287357,
-        "curseForgeFileId": 4535250,
-        "curseForgeProject": {
-          "id": 287357,
-          "name": "Integrated Crafting",
-          "authors": [
-            {
-              "id": 13500867,
-              "name": "kroeser",
-              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Craft stuff in Integrated Dynamics networks",
-          "categories": [
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Processing",
-              "slug": "technology-processing",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
-              "dateModified": "2014-05-08T17:38:41.96Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 413,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 412,
-          "classId": 6,
-          "slug": "integrated-crafting",
-          "isFeatured": false,
-          "dateModified": "2023-07-02T06:30:20.533Z",
-          "dateCreated": "2018-02-13T11:46:18.077Z",
-          "dateReleased": "2023-07-02T06:19:20.413Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/CyclopsMC/IntegratedCrafting/issues",
-            "sourceUrl": "https://github.com/CyclopsMC/IntegratedCrafting"
-          },
-          "logo": {
-            "id": 186281,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/186/281/256/256/636832627134915093.png",
-            "title": "636832627134915093.png",
-            "url": "https://media.forgecdn.net/avatars/186/281/636832627134915093.png",
-            "modId": 287357
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 244676,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/676/310/172/2019-01-17_16.png",
-              "title": "Parts",
-              "url": "https://media.forgecdn.net/attachments/244/676/2019-01-17_16.png",
-              "modId": 287357
-            },
-            {
-              "id": 244677,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/677/310/172/2019-01-16_19.png",
-              "title": "Storage",
-              "url": "https://media.forgecdn.net/attachments/244/677/2019-01-16_19.png",
-              "modId": 287357
-            },
-            {
-              "id": 244678,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/678/310/172/2019-01-17_16.png",
-              "title": "Crafting Interfaces bind to machines",
-              "url": "https://media.forgecdn.net/attachments/244/678/2019-01-17_16.png",
-              "modId": 287357
-            },
-            {
-              "id": 244625,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/625/310/172/logo.png",
-              "title": "Logo",
-              "url": "https://media.forgecdn.net/attachments/244/625/logo.png",
-              "modId": 287357
-            },
-            {
-              "id": 244681,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/681/310/172/2019-01-17_16.png",
-              "title": "Crafting Writer",
-              "url": "https://media.forgecdn.net/attachments/244/681/2019-01-17_16.png",
-              "modId": 287357
-            },
-            {
-              "id": 244683,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/683/310/172/2019-01-17_16.png",
-              "title": "Integrated Terminals",
-              "url": "https://media.forgecdn.net/attachments/244/683/2019-01-17_16.png",
-              "modId": 287357
-            },
-            {
-              "id": 244694,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/694/310/172/screen-recording-2018-12-22-at-04.gif",
-              "title": "Autocrafting Overview",
-              "url": "https://media.forgecdn.net/attachments/244/694/screen-recording-2018-12-22-at-04.gif",
-              "modId": 287357
-            },
-            {
-              "id": 244679,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/679/310/172/2019-01-17_16.png",
-              "title": "Crafting Interfaces accept Variable Cards",
-              "url": "https://media.forgecdn.net/attachments/244/679/2019-01-17_16.png",
-              "modId": 287357
-            },
-            {
-              "id": 244682,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/682/310/172/2019-01-17_16.png",
-              "title": "Crafting Writer aspects",
-              "url": "https://media.forgecdn.net/attachments/244/682/2019-01-17_16.png",
-              "modId": 287357
-            },
-            {
-              "id": 244680,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/680/310/172/2019-01-17_16.png",
-              "title": "Recipes are created in the Logic Programmer",
-              "url": "https://media.forgecdn.net/attachments/244/680/2019-01-17_16.png",
-              "modId": 287357
-            }
-          ],
-          "mainFileId": 4620511
-        },
-        "curseForgeFile": {
-          "id": 4535250,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "IntegratedCrafting-1.19.2-1.1.2.jar",
-          "fileName": "IntegratedCrafting-1.19.2-1.1.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-05-13T08:27:51.98Z",
-          "fileLength": 280257,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 251389,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 232758,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 236307,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 4535251,
-          "modules": [
-            {
-              "fingerprint": 273255355,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3980787428,
-              "name": "org"
-            },
-            {
-              "fingerprint": 3823842308,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3950789569,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 1376710925,
-              "name": "logo_small.png"
-            },
-            {
-              "fingerprint": 581461894,
-              "name": "data"
-            },
-            {
-              "fingerprint": 718214743,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "f65ed531be196edb7dcd2e6da130ac6026aae8f7",
-              "algo": 1
-            },
-            {
-              "value": "34481f634fce9ef1707f36f3a728e921",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 1135823710,
-          "modId": 287357
-        }
-      },
-      {
         "name": "Integrated NBT",
         "version": "integratednbt-1.19.2-1.6.0.jar",
         "optional": true,
@@ -64572,162 +63221,6 @@
         }
       },
       {
-        "name": "ModernFix",
-        "version": "modernfix-forge-5.4.1+mc1.19.2.jar",
-        "optional": true,
-        "file": "modernfix-forge-5.4.1+mc1.19.2.jar",
-        "type": "mods",
-        "description": "Egregious, yet effective performance improvements for modern Minecraft",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 790626,
-        "curseForgeFileId": 4666519,
-        "curseForgeProject": {
-          "id": 790626,
-          "name": "ModernFix",
-          "authors": [
-            {
-              "id": 101435003,
-              "name": "embeddedt",
-              "url": "https://www.curseforge.com/members/101435003-embeddedt?username=embeddedt"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Egregious, yet effective performance improvements for modern Minecraft",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "modernfix",
-          "isFeatured": false,
-          "dateModified": "2023-07-27T02:21:30.153Z",
-          "dateCreated": "2023-01-05T01:43:12.673Z",
-          "dateReleased": "2023-07-27T02:16:36.823Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-            "wikiUrl": "https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches",
-            "issuesUrl": "https://github.com/embeddedt/ModernFix/issues",
-            "sourceUrl": "https://github.com/embeddedt/ModernFix"
-          },
-          "logo": {
-            "id": 735685,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/735/685/256/256/638084797927010967.png",
-            "title": "638084797927010967.png",
-            "url": "https://media.forgecdn.net/avatars/735/685/638084797927010967.png",
-            "modId": 790626
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4666530
-        },
-        "curseForgeFile": {
-          "id": 4666519,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "modernfix-forge-5.4.1+mc1.19.2.jar",
-          "fileName": "modernfix-forge-5.4.1+mc1.19.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-27T02:14:00.057Z",
-          "fileLength": 474319,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 830429848,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3765311227,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3683056296,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 938048707,
-              "name": "modernfix-common.mixins.json"
-            },
-            {
-              "fingerprint": 1325599026,
-              "name": "modernfix"
-            },
-            {
-              "fingerprint": 3733277516,
-              "name": "modernfix-common-common-refmap.json"
-            },
-            {
-              "fingerprint": 88923539,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 204442873,
-              "name": "modernfix-forge.mixins.json"
-            },
-            {
-              "fingerprint": 1942877625,
-              "name": "modernfix.refmap.json"
-            },
-            {
-              "fingerprint": 2204328211,
-              "name": "org"
-            },
-            {
-              "fingerprint": 2209965366,
-              "name": "architectury_inject_modernfix_common_f5699476fd264761963f3de8dbcd345a_2d9061e4c34e781d9d2e53613d9fc4e732f5c8e43626c686a2f504c946412660modernfixcommon541mc1192devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "1a985b172549bfbac448c818148bb768d36b6540",
-              "algo": 1
-            },
-            {
-              "value": "17dc1f4626531ce71bd2a50717585c85",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 2636423874,
-          "modId": 790626
-        }
-      },
-      {
         "name": "Reliquary Reincarnations",
         "version": "reliquary-1.19.2-2.0.40.1198.jar",
         "optional": true,
@@ -66432,10 +64925,1596 @@
         }
       },
       {
-        "name": "Cyclops Core",
-        "version": "CyclopsCore-1.19.2-1.18.5.jar",
+        "name": "ModernFix",
+        "version": "Unknown",
         "optional": true,
-        "file": "CyclopsCore-1.19.2-1.18.5.jar",
+        "file": "modernfix-forge-5.4.1+mc1.19.2.jar",
+        "type": "mods",
+        "description": "Egregious, yet effective performance improvements for modern Minecraft",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 790626,
+        "curseForgeFileId": 4666519,
+        "curseForgeProject": {
+          "id": 790626,
+          "name": "ModernFix",
+          "authors": [
+            {
+              "id": 101435003,
+              "name": "embeddedt",
+              "url": "https://www.curseforge.com/members/101435003-embeddedt?username=embeddedt"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Egregious, yet effective performance improvements for modern Minecraft",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "modernfix",
+          "isFeatured": false,
+          "dateModified": "2023-07-28T11:04:45.403Z",
+          "dateCreated": "2023-01-05T01:43:12.673Z",
+          "dateReleased": "2023-07-27T20:30:35.133Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+            "wikiUrl": "https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches",
+            "issuesUrl": "https://github.com/embeddedt/ModernFix/issues",
+            "sourceUrl": "https://github.com/embeddedt/ModernFix"
+          },
+          "logo": {
+            "id": 735685,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/735/685/256/256/638084797927010967.png",
+            "title": "638084797927010967.png",
+            "url": "https://media.forgecdn.net/avatars/735/685/638084797927010967.png",
+            "modId": 790626
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4668104
+        },
+        "curseForgeFile": {
+          "id": 4666519,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "modernfix-forge-5.4.1+mc1.19.2.jar",
+          "fileName": "modernfix-forge-5.4.1+mc1.19.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-27T02:14:00.057Z",
+          "fileLength": 474319,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 830429848,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3765311227,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3683056296,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 938048707,
+              "name": "modernfix-common.mixins.json"
+            },
+            {
+              "fingerprint": 1325599026,
+              "name": "modernfix"
+            },
+            {
+              "fingerprint": 3733277516,
+              "name": "modernfix-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 88923539,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 204442873,
+              "name": "modernfix-forge.mixins.json"
+            },
+            {
+              "fingerprint": 1942877625,
+              "name": "modernfix.refmap.json"
+            },
+            {
+              "fingerprint": 2204328211,
+              "name": "org"
+            },
+            {
+              "fingerprint": 2209965366,
+              "name": "architectury_inject_modernfix_common_f5699476fd264761963f3de8dbcd345a_2d9061e4c34e781d9d2e53613d9fc4e732f5c8e43626c686a2f504c946412660modernfixcommon541mc1192devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1a985b172549bfbac448c818148bb768d36b6540",
+              "algo": 1
+            },
+            {
+              "value": "17dc1f4626531ce71bd2a50717585c85",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2636423874,
+          "modId": 790626
+        },
+        "modrinthProject": {
+          "id": "nmDcB62a",
+          "slug": "modernfix",
+          "project_type": "mod",
+          "team": "xw684WUq",
+          "title": "ModernFix",
+          "description": "Egregious, yet effective performance improvements for modern Minecraft",
+          "body": "![Banner image](https://cdn-raw.modrinth.com/data/nmDcB62a/images/3c7be090404ebfed497b04aec8b4cd7cc1aac7ca.png)\n\n[![Donate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg)](https://ko-fi.com/embeddedt)\n[![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://modrinth.com/mod/modernfix/versions?l=fabric)\n[![Available for Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)](https://modrinth.com/mod/modernfix/versions?l=forge)\n[![Join the Discprd](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/vFhf7acgMK)\n\nModernFix is an all-in-one mod that **improves performance, reduces memory usage, and fixes many bugs** in modern Minecraft versions (most versions including and above 1.16 are supported)\nwithout majorly compromising the game experience. Most Forge 1.16-1.19.2 modpacks will launch **roughly twice as fast** with ModernFix installed.\nIf some non-default options are enabled, it can even allow large modpacks like All The Mods 8 to run with **3GB or less of allocated memory**.\n\nModernFix is free, open-source software. All of the code available on [the GitHub repository](https://github.com/embeddedt/ModernFix).\n\n## ⚙️ Technical summary\n\nWhat exactly does ModernFix do for your game? There are a lot of tweaks being made - too many to summarize here. However, here is a\nbrief summary of the general types of improvements being made:\n\n* Backports of bugfixes from newer versions of Minecraft and/or Forge, e.g. fixing\n[worlds breaking when you remove a dimension mod in 1.18](https://github.com/MinecraftForge/MinecraftForge/issues/8800).\n* Patches to mods that are no longer supported on a given Minecraft version, to improve the gameplay experience instead of requiring\nplayers to update.\n* Many optimizations & improvements to the game's launch process to significantly improve speed and reduce random concurrency crashes.\n* Additional debug tools to help modders and players determine the cause of some rare game crashes/freezes, instead of relying on a painful\nmod bisection process.\n* It's not enabled by default due to compatibility issues, but ModernFix includes functionality to [completely redesign the game's model loading system](https://github.com/embeddedt/ModernFix/wiki/Dynamic-Resources-FAQ), replacing it with a new,\ndynamic version that loads models on the fly. Model loading is one of the major performance regressions to modded Minecraft that\nhas been present since 1.8, and this new system alleviates nearly all of the downsides, bringing memory usage and loading times\nmore in line with how they were in 1.7.10.\n* Need to play the game with very little RAM allocated (e.g. 512MB or less)? [Now you can do that.](https://github.com/embeddedt/ModernFix/wiki/Ultra%E2%80%90Low-Memory-Footprint)\n\nIf you are technically savvy and looking for more details on each patch, I recommend reading the [Summary of Patches](https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches) wiki page.\n\n## 🐛 Where to go when something doesn't work\n\nPlease either report an issue on [GitHub](https://github.com/embeddedt/ModernFix), or join the [Discord](https://discord.gg/vFhf7acgMK) and ask in the `#modernfix-discussion` channel.\nBe sure to mention the Minecraft version, modloader, and ModernFix version you are using, as well as what other mods you have installed.\n\n## 🎁 How can I support this project?\n\nThere are two main ways you can help support the development of ModernFix:\n\n* Spread the word! Test ModernFix in modpacks and encourage them to include it.\n* If you feel generous, I do accept donations via [Ko-fi](https://ko-fi.com/embeddedt). Donating is not required (as ModernFix is free),\nbut every little bit helps. I work on ModernFix in my spare time, so any compensation I receive helps to sustain development.\n\n## ❓ What other mods should I use?\n\nThere are many performance mods available for Minecraft and I can't list them all here, but here are some essential mods, in my opinion:\n\n- On any version before 1.19.4 you should always have LazyDFU installed, as it eliminates the incredible lag caused by the DFU system.\n- On any version before 1.20 you should generally use Starlight unless it has a compatibility issue with your mods (which is quite rare).\nIt offers vastly improved lighting performance and can also fix FPS stutters when moving between chunks.\n- Always have FerriteCore installed, as Mojang's implementation of blockstates/models is laughably inefficient, and quickly\nconsumes RAM as soon as more content is added beyond what vanilla offers.\n- Install a mod like Shutup Experimental settings (before 1.19) or Yeetus Experimentus (1.19+). These mods will suppress the\npop-up screen about experimental game features, which otherwise causes the game to reload its resources twice.\n\nOn a related note: I do **not** recommend use of OptiFine in any modded scenario. It is closed-source, patches the game in a way that easily breaks\nForge and other mods, and significantly slows down game launching, often on the order of minutes. While Rubidium (the unofficial port of Sodium to Forge) does have compatibility\nissues of its own, these tend to be rarer, less severe, and are usually feasible for modders to fix.\nUsing OptiFine with ModernFix is not officially supported, and may cause issues.\n\n## 🖥️ Need a server? Check out BisectHosting!\n\n\n[![Bisect Hosting banner](https://www.bisecthosting.com/partners/custom-banners/6b02ce11-5cf6-4e67-9a75-06474a46308a.webp)](https://bisecthosting.com/embeddedt)",
+          "published": "2023-04-16T20:56:18.092938Z",
+          "updated": "2023-07-27T20:30:38.102489Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "optimization",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/nmDcB62a/492a90c16873e02c4af87a81030cbb55a2193f78.png",
+          "issues_url": "https://github.com/embeddedt/ModernFix/issues",
+          "source_url": "https://github.com/embeddedt/ModernFix",
+          "wiki_url": "https://github.com/embeddedt/ModernFix/wiki",
+          "discord_url": "https://discord.gg/vFhf7acgMK",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/embeddedt"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/nmDcB62a/images/3c7be090404ebfed497b04aec8b4cd7cc1aac7ca.png",
+              "featured": true,
+              "created": "2023-07-14T02:11:55.058630Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nmDcB62a/images/e9e46236d19c109f147bee72cededf4176c8a657.png",
+              "featured": false,
+              "title": "Lower memory usage",
+              "description": "Forge 1.16.5 running (just!) with only 200MB of RAM allocated",
+              "created": "2023-04-16T21:01:34.623057Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "UxFGc28X",
+          "project_id": "nmDcB62a",
+          "author_id": "6bGskxLV",
+          "name": "5.4.1+mc1.19.2",
+          "version_number": "5.4.1+mc1.19.2",
+          "changelog": "## Changes since 5.4.0+1.19.2\n  * [Fix getResource(\"\") failing to return valid resource](https://github.com/embeddedt/ModernFix/commit/213bcd1b2ace5c2124508e10084552f8fb572e74) - embeddedt\n  * [Hotfix for CoFH crash](https://github.com/embeddedt/ModernFix/commit/33e437f8653e68aa1ac4fb679fc95871794a34bf) - embeddedt\n",
+          "date_published": "2023-07-27T02:14:03.867405Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "e566c8234d0111356a79826cb2603e0d61e0b9a4aff8cef0c3937f64f948a84cb6ea1d33aeb5be0c17f61220e6291f305ff44b66b0dbdac040d015a7bd913462",
+                "sha1": "1a985b172549bfbac448c818148bb768d36b6540"
+              },
+              "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/UxFGc28X/modernfix-forge-5.4.1%2Bmc1.19.2.jar",
+              "filename": "modernfix-forge-5.4.1+mc1.19.2.jar",
+              "primary": true,
+              "size": 474319
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Integrated Crafting",
+        "version": "Unknown",
+        "optional": true,
+        "file": "IntegratedCrafting-1.19.2-1.1.2.jar",
+        "type": "mods",
+        "description": "Craft stuff in Integrated Dynamics networks",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 287357,
+        "curseForgeFileId": 4535250,
+        "curseForgeProject": {
+          "id": 287357,
+          "name": "Integrated Crafting",
+          "authors": [
+            {
+              "id": 13500867,
+              "name": "kroeser",
+              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Craft stuff in Integrated Dynamics networks",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "integrated-crafting",
+          "isFeatured": false,
+          "dateModified": "2023-07-02T06:30:20.533Z",
+          "dateCreated": "2018-02-13T11:46:18.077Z",
+          "dateReleased": "2023-07-02T06:19:20.413Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CyclopsMC/IntegratedCrafting/issues",
+            "sourceUrl": "https://github.com/CyclopsMC/IntegratedCrafting"
+          },
+          "logo": {
+            "id": 186281,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/186/281/256/256/636832627134915093.png",
+            "title": "636832627134915093.png",
+            "url": "https://media.forgecdn.net/avatars/186/281/636832627134915093.png",
+            "modId": 287357
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 244676,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/676/310/172/2019-01-17_16.png",
+              "title": "Parts",
+              "url": "https://media.forgecdn.net/attachments/244/676/2019-01-17_16.png",
+              "modId": 287357
+            },
+            {
+              "id": 244677,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/677/310/172/2019-01-16_19.png",
+              "title": "Storage",
+              "url": "https://media.forgecdn.net/attachments/244/677/2019-01-16_19.png",
+              "modId": 287357
+            },
+            {
+              "id": 244678,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/678/310/172/2019-01-17_16.png",
+              "title": "Crafting Interfaces bind to machines",
+              "url": "https://media.forgecdn.net/attachments/244/678/2019-01-17_16.png",
+              "modId": 287357
+            },
+            {
+              "id": 244625,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/625/310/172/logo.png",
+              "title": "Logo",
+              "url": "https://media.forgecdn.net/attachments/244/625/logo.png",
+              "modId": 287357
+            },
+            {
+              "id": 244681,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/681/310/172/2019-01-17_16.png",
+              "title": "Crafting Writer",
+              "url": "https://media.forgecdn.net/attachments/244/681/2019-01-17_16.png",
+              "modId": 287357
+            },
+            {
+              "id": 244683,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/683/310/172/2019-01-17_16.png",
+              "title": "Integrated Terminals",
+              "url": "https://media.forgecdn.net/attachments/244/683/2019-01-17_16.png",
+              "modId": 287357
+            },
+            {
+              "id": 244694,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/694/310/172/screen-recording-2018-12-22-at-04.gif",
+              "title": "Autocrafting Overview",
+              "url": "https://media.forgecdn.net/attachments/244/694/screen-recording-2018-12-22-at-04.gif",
+              "modId": 287357
+            },
+            {
+              "id": 244679,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/679/310/172/2019-01-17_16.png",
+              "title": "Crafting Interfaces accept Variable Cards",
+              "url": "https://media.forgecdn.net/attachments/244/679/2019-01-17_16.png",
+              "modId": 287357
+            },
+            {
+              "id": 244682,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/682/310/172/2019-01-17_16.png",
+              "title": "Crafting Writer aspects",
+              "url": "https://media.forgecdn.net/attachments/244/682/2019-01-17_16.png",
+              "modId": 287357
+            },
+            {
+              "id": 244680,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/680/310/172/2019-01-17_16.png",
+              "title": "Recipes are created in the Logic Programmer",
+              "url": "https://media.forgecdn.net/attachments/244/680/2019-01-17_16.png",
+              "modId": 287357
+            }
+          ],
+          "mainFileId": 4620511
+        },
+        "curseForgeFile": {
+          "id": 4535250,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "IntegratedCrafting-1.19.2-1.1.2.jar",
+          "fileName": "IntegratedCrafting-1.19.2-1.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-13T08:27:51.98Z",
+          "fileLength": 280257,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 251389,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 232758,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 236307,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 4535251,
+          "modules": [
+            {
+              "fingerprint": 273255355,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3980787428,
+              "name": "org"
+            },
+            {
+              "fingerprint": 3823842308,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3950789569,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1376710925,
+              "name": "logo_small.png"
+            },
+            {
+              "fingerprint": 581461894,
+              "name": "data"
+            },
+            {
+              "fingerprint": 718214743,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f65ed531be196edb7dcd2e6da130ac6026aae8f7",
+              "algo": 1
+            },
+            {
+              "value": "34481f634fce9ef1707f36f3a728e921",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 1135823710,
+          "modId": 287357
+        }
+      },
+      {
+        "name": "Integrated Dynamics",
+        "version": "Unknown",
+        "optional": true,
+        "file": "IntegratedDynamics-1.19.2-1.16.9.jar",
+        "type": "mods",
+        "description": "A mod to take full and automated control of your appliances.",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 236307,
+        "curseForgeFileId": 4646711,
+        "curseForgeProject": {
+          "id": 236307,
+          "name": "Integrated Dynamics",
+          "authors": [
+            {
+              "id": 13500867,
+              "name": "kroeser",
+              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A mod to take full and automated control of your appliances.",
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "integrated-dynamics",
+          "isFeatured": false,
+          "dateModified": "2023-07-16T05:12:20.64Z",
+          "dateCreated": "2015-09-22T18:14:10.63Z",
+          "dateReleased": "2023-07-16T05:01:26.493Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics",
+            "wikiUrl": "https://github.com/CyclopsMC/IntegratedDynamics/wiki",
+            "issuesUrl": "https://github.com/CyclopsMC/IntegratedDynamics/issues",
+            "sourceUrl": "https://github.com/CyclopsMC/IntegratedDynamics"
+          },
+          "logo": {
+            "id": 49396,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/49/396/256/256/636077266568975656.png",
+            "title": "636077266568975656.png",
+            "url": "https://media.forgecdn.net/avatars/49/396/636077266568975656.png",
+            "modId": 236307
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 70851,
+              "description": "With more complex logic networks, visual feedback is essential",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/851/310/172/2016-08-24_20.png",
+              "title": "Visual Feedback",
+              "url": "https://media.forgecdn.net/attachments/70/851/2016-08-24_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 33437,
+              "description": "The focus of this mod is to integrate well with other mods",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/437/310/172/2016-03-14_20.png",
+              "title": "Mod Integration",
+              "url": "https://media.forgecdn.net/attachments/33/437/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70841,
+              "description": "Display variable values in live displays",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/841/310/172/2016-08-24_19.png",
+              "title": "Displays",
+              "url": "https://media.forgecdn.net/attachments/70/841/2016-08-24_19.png",
+              "modId": 236307
+            },
+            {
+              "id": 70843,
+              "description": "Build vast networks for complex automation.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/843/310/172/2016-08-24_19.png",
+              "title": "Complex automation",
+              "url": "https://media.forgecdn.net/attachments/70/843/2016-08-24_19.png",
+              "modId": 236307
+            },
+            {
+              "id": 244695,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/695/310/172/2019-01-17_16.png",
+              "title": "Recipes",
+              "url": "https://media.forgecdn.net/attachments/244/695/2019-01-17_16.png",
+              "modId": 236307
+            },
+            {
+              "id": 33433,
+              "description": "All writers that are currently available",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/433/310/172/2016-03-14_20.png",
+              "title": "Writers",
+              "url": "https://media.forgecdn.net/attachments/33/433/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 209541,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/209/541/310/172/2017-05-19_20.png",
+              "title": "On the Dynamics of Integration",
+              "url": "https://media.forgecdn.net/attachments/209/541/2017-05-19_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70844,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/844/310/172/logo.png",
+              "title": "Integrated Dynamics logo",
+              "url": "https://media.forgecdn.net/attachments/70/844/logo.png",
+              "modId": 236307
+            },
+            {
+              "id": 33435,
+              "description": "Everything in this mod is created in its own unique way",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/435/310/172/2016-03-14_20.png",
+              "title": "Immersive Crafting System",
+              "url": "https://media.forgecdn.net/attachments/33/435/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70854,
+              "description": "All writers that are currently available",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/854/310/172/2016-08-24_19.png",
+              "title": "Writers",
+              "url": "https://media.forgecdn.net/attachments/70/854/2016-08-24_19.png",
+              "modId": 236307
+            },
+            {
+              "id": 70845,
+              "description": "Many aspects are available per reader",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/845/310/172/schermafbeelding-2016-08-24-om-19.png",
+              "title": "Aspect",
+              "url": "https://media.forgecdn.net/attachments/70/845/schermafbeelding-2016-08-24-om-19.png",
+              "modId": 236307
+            },
+            {
+              "id": 70848,
+              "description": "An energy system compatible with RF and Tesla, which is disabled by default.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/848/310/172/2016-08-24_20.png",
+              "title": "Energy System",
+              "url": "https://media.forgecdn.net/attachments/70/848/2016-08-24_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70847,
+              "description": "Store your variables inside an attached Variable Store to make your dependent variables available in the network.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/847/310/172/schermafbeelding-2016-08-24-om-20.png",
+              "title": "Variable Store",
+              "url": "https://media.forgecdn.net/attachments/70/847/schermafbeelding-2016-08-24-om-20.png",
+              "modId": 236307
+            },
+            {
+              "id": 33434,
+              "description": "An energy system compatible with RF, which is disabled by default.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/434/310/172/2016-03-14_20.png",
+              "title": "Energy System",
+              "url": "https://media.forgecdn.net/attachments/33/434/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 33438,
+              "description": "With more complex logic networks, visual feedback is essential",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/438/310/172/2016-03-14_20.png",
+              "title": "Visual Feedback",
+              "url": "https://media.forgecdn.net/attachments/33/438/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 244696,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/696/310/172/screen-recording-2018-12-30-at-03.gif",
+              "title": "Dynamic Recipe Lookup",
+              "url": "https://media.forgecdn.net/attachments/244/696/screen-recording-2018-12-30-at-03.gif",
+              "modId": 236307
+            },
+            {
+              "id": 27066,
+              "description": "Build vast networks for complex automation",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/66/310/172/2015-09-22_20.png",
+              "title": "Complex automation",
+              "url": "https://media.forgecdn.net/attachments/27/66/2015-09-22_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27068,
+              "description": "Many aspects are available per reader.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/68/310/172/schermafbeelding-2015-09-22-om-20.png",
+              "title": "Aspect",
+              "url": "https://media.forgecdn.net/attachments/27/68/schermafbeelding-2015-09-22-om-20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27070,
+              "description": "Store your variables inside an attached Variable Store to make your dependent variables available in the network.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/70/310/172/schermafbeelding-2015-09-22-om-20.png",
+              "title": "Variable Store",
+              "url": "https://media.forgecdn.net/attachments/27/70/schermafbeelding-2015-09-22-om-20.png",
+              "modId": 236307
+            },
+            {
+              "id": 634479,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/634/479/310/172/2023-03-14_16.png",
+              "title": "Offsets",
+              "url": "https://media.forgecdn.net/attachments/634/479/2023-03-14_16.png",
+              "modId": 236307
+            },
+            {
+              "id": 70842,
+              "description": "Use facades to hide your cables",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/842/310/172/2016-08-24_20.png",
+              "title": "Facades",
+              "url": "https://media.forgecdn.net/attachments/70/842/2016-08-24_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70846,
+              "description": "Use the Logic Programmer to perform complex operations on your variables.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/846/310/172/schermafbeelding-2016-08-24-om-20.png",
+              "title": "Logic Programmer",
+              "url": "https://media.forgecdn.net/attachments/70/846/schermafbeelding-2016-08-24-om-20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27067,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/67/310/172/logo.png",
+              "title": "Integrated Dynamics logo",
+              "url": "https://media.forgecdn.net/attachments/27/67/logo.png",
+              "modId": 236307
+            },
+            {
+              "id": 70852,
+              "description": "All readers that are currently available",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/852/310/172/2016-08-24_19.png",
+              "title": "Readers",
+              "url": "https://media.forgecdn.net/attachments/70/852/2016-08-24_19.png",
+              "modId": 236307
+            },
+            {
+              "id": 33431,
+              "description": "All readers that are currently available",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/431/310/172/2016-03-14_20.png",
+              "title": "Readers",
+              "url": "https://media.forgecdn.net/attachments/33/431/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27063,
+              "description": "Read many aspects in various readers",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/63/310/172/2015-09-22_20.png",
+              "title": "Readers",
+              "url": "https://media.forgecdn.net/attachments/27/63/2015-09-22_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27065,
+              "description": "Use facades to let cables blend in with your base.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/65/310/172/2015-09-22_20.png",
+              "title": "Facades",
+              "url": "https://media.forgecdn.net/attachments/27/65/2015-09-22_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70853,
+              "description": "Fully compatible with MCMultiPart",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/853/310/172/2016-08-24_20.png",
+              "title": "MCMultiPart",
+              "url": "https://media.forgecdn.net/attachments/70/853/2016-08-24_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 33432,
+              "description": "Fully compatible with MCMultiPart",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/432/310/172/2016-03-14_20.png",
+              "title": "MCMultiPart",
+              "url": "https://media.forgecdn.net/attachments/33/432/2016-03-14_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27062,
+              "description": "Read and write from and to different variables.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/62/310/172/2015-09-22_20.png",
+              "title": "Read and write",
+              "url": "https://media.forgecdn.net/attachments/27/62/2015-09-22_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 27069,
+              "description": "Use the Logic Programmer to perform complex operations on your variables.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/69/310/172/schermafbeelding-2015-09-22-om-20.png",
+              "title": "Logic Programmer",
+              "url": "https://media.forgecdn.net/attachments/27/69/schermafbeelding-2015-09-22-om-20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70840,
+              "description": "Read and write from and to different variables",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/840/310/172/2016-08-24_19.png",
+              "title": "Read and write",
+              "url": "https://media.forgecdn.net/attachments/70/840/2016-08-24_19.png",
+              "modId": 236307
+            },
+            {
+              "id": 70849,
+              "description": "Everything in this mod is created in its own unique way",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/849/310/172/2016-08-24_20.png",
+              "title": "Immersive Crafting System",
+              "url": "https://media.forgecdn.net/attachments/70/849/2016-08-24_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 64307,
+              "description": "Operators can be stored as values. This makes it possible to (partially) evaluate operators, and use as predicates in list mappings, filters, reductions, ...",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/64/307/310/172/2016-07-03_19.png",
+              "title": "Functional Logic",
+              "url": "https://media.forgecdn.net/attachments/64/307/2016-07-03_19.png",
+              "modId": 236307
+            },
+            {
+              "id": 27064,
+              "description": "Display variable values in live displays",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/64/310/172/2015-09-22_20.png",
+              "title": "Displays",
+              "url": "https://media.forgecdn.net/attachments/27/64/2015-09-22_20.png",
+              "modId": 236307
+            },
+            {
+              "id": 70850,
+              "description": "The focus of this mod is to integrate well with other mods.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/70/850/310/172/2016-08-24_20.png",
+              "title": "Mod Integration",
+              "url": "https://media.forgecdn.net/attachments/70/850/2016-08-24_20.png",
+              "modId": 236307
+            }
+          ],
+          "mainFileId": 4646715
+        },
+        "curseForgeFile": {
+          "id": 4646711,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "IntegratedDynamics-1.19.2-1.16.9.jar",
+          "fileName": "IntegratedDynamics-1.19.2-1.16.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-16T05:00:05.5Z",
+          "fileLength": 4010342,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 247007,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 232758,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 4646712,
+          "modules": [
+            {
+              "fingerprint": 4033035016,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 846804360,
+              "name": "org"
+            },
+            {
+              "fingerprint": 711418639,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 882622944,
+              "name": "data"
+            },
+            {
+              "fingerprint": 66756537,
+              "name": "LICENSE-re2j.txt"
+            },
+            {
+              "fingerprint": 1175609446,
+              "name": "mixins.integrateddynamics.json"
+            },
+            {
+              "fingerprint": 2118832145,
+              "name": "logo_small.png"
+            },
+            {
+              "fingerprint": 2089879315,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1616493962,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2647331148,
+              "name": "LICENSE-netty.txt"
+            },
+            {
+              "fingerprint": 1036984855,
+              "name": "vendors"
+            },
+            {
+              "fingerprint": 1224679297,
+              "name": "mixins.integrateddynamics.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b6a7813b527eb6e25013b520e186700958f15f55",
+              "algo": 1
+            },
+            {
+              "value": "84afcc1e6082bb35c04bc8b216e43edc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 1771560228,
+          "modId": 236307
+        }
+      },
+      {
+        "name": "Integrated Terminals",
+        "version": "Unknown",
+        "optional": true,
+        "file": "IntegratedTerminals-1.19.2-1.4.8.jar",
+        "type": "mods",
+        "description": "Terminals for managing and overviewing Integrated Dynamics networks",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 295910,
+        "curseForgeFileId": 4645062,
+        "curseForgeProject": {
+          "id": 295910,
+          "name": "Integrated Terminals",
+          "authors": [
+            {
+              "id": 13500867,
+              "name": "kroeser",
+              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Terminals for managing and overviewing Integrated Dynamics networks",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "integrated-terminals",
+          "isFeatured": false,
+          "dateModified": "2023-07-15T08:53:39.99Z",
+          "dateCreated": "2018-06-13T14:51:23.957Z",
+          "dateReleased": "2023-07-15T08:43:25.263Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-terminals",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CyclopsMC/IntegratedTerminals/issues",
+            "sourceUrl": "https://github.com/CyclopsMC/IntegratedTerminals"
+          },
+          "logo": {
+            "id": 165801,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/165/801/256/256/636694374476455275.png",
+            "title": "636694374476455275.png",
+            "url": "https://media.forgecdn.net/avatars/165/801/636694374476455275.png",
+            "modId": 295910
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 244685,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/685/310/172/2019-01-17_16.png",
+              "title": "Storage Terminal",
+              "url": "https://media.forgecdn.net/attachments/244/685/2019-01-17_16.png",
+              "modId": 295910
+            },
+            {
+              "id": 244686,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/686/310/172/2019-01-17_17.png",
+              "title": "Storage Terminal GUI",
+              "url": "https://media.forgecdn.net/attachments/244/686/2019-01-17_17.png",
+              "modId": 295910
+            },
+            {
+              "id": 244689,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/689/310/172/2019-01-17_16.png",
+              "title": "Storage Terminal Crafting Options",
+              "url": "https://media.forgecdn.net/attachments/244/689/2019-01-17_16.png",
+              "modId": 295910
+            },
+            {
+              "id": 244693,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/693/310/172/2019-01-17_16.png",
+              "title": "Crafting plan status",
+              "url": "https://media.forgecdn.net/attachments/244/693/2019-01-17_16.png",
+              "modId": 295910
+            },
+            {
+              "id": 244692,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/692/310/172/2019-01-17_16.png",
+              "title": "Crafting Job Terminal jobs",
+              "url": "https://media.forgecdn.net/attachments/244/692/2019-01-17_16.png",
+              "modId": 295910
+            },
+            {
+              "id": 244690,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/690/310/172/2019-01-17_16.png",
+              "title": "Storage Terminal Crafting Job",
+              "url": "https://media.forgecdn.net/attachments/244/690/2019-01-17_16.png",
+              "modId": 295910
+            },
+            {
+              "id": 244687,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/687/310/172/2019-01-17_17.png",
+              "title": "Storage Terminal Filtering",
+              "url": "https://media.forgecdn.net/attachments/244/687/2019-01-17_17.png",
+              "modId": 295910
+            },
+            {
+              "id": 244684,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/684/310/172/2019-01-17_17.png",
+              "title": "Terminals",
+              "url": "https://media.forgecdn.net/attachments/244/684/2019-01-17_17.png",
+              "modId": 295910
+            },
+            {
+              "id": 244626,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/626/310/172/logo.png",
+              "title": "Logo",
+              "url": "https://media.forgecdn.net/attachments/244/626/logo.png",
+              "modId": 295910
+            },
+            {
+              "id": 244691,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/691/310/172/2019-01-17_17.png",
+              "title": "Crafting Job Terminal",
+              "url": "https://media.forgecdn.net/attachments/244/691/2019-01-17_17.png",
+              "modId": 295910
+            },
+            {
+              "id": 244688,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/244/688/310/172/screen-recording-2019-01-12-at-03.gif",
+              "title": "Storage Terminal Fluid Interaction",
+              "url": "https://media.forgecdn.net/attachments/244/688/screen-recording-2019-01-12-at-03.gif",
+              "modId": 295910
+            },
+            {
+              "id": 505590,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/505/590/310/172/screenshot-2022-10-10-at-19.png",
+              "title": "Responsive GUI",
+              "url": "https://media.forgecdn.net/attachments/505/590/screenshot-2022-10-10-at-19.png",
+              "modId": 295910
+            }
+          ],
+          "mainFileId": 4645067
+        },
+        "curseForgeFile": {
+          "id": 4645062,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "IntegratedTerminals-1.19.2-1.4.8.jar",
+          "fileName": "IntegratedTerminals-1.19.2-1.4.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-15T08:38:22.323Z",
+          "fileLength": 518534,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 236307,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 287357,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 251389,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 232758,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 4645063,
+          "modules": [
+            {
+              "fingerprint": 2245150880,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 173011477,
+              "name": "org"
+            },
+            {
+              "fingerprint": 2877892280,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1474660651,
+              "name": "data"
+            },
+            {
+              "fingerprint": 18908756,
+              "name": "logo_small.png"
+            },
+            {
+              "fingerprint": 3023767659,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3820402778,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b5324343619b50ecc7bc50e5e143b87bd0f0ec03",
+              "algo": 1
+            },
+            {
+              "value": "5743e1d6a7fa7e7b08577c6a13927f55",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 538693121,
+          "modId": 295910
+        }
+      },
+      {
+        "name": "Integrated Tunnels",
+        "version": "Unknown",
+        "optional": true,
+        "file": "IntegratedTunnels-1.19.2-1.8.20.jar",
+        "type": "mods",
+        "description": "Transfer other stuff over Integrated Dynamics networks",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 251389,
+        "curseForgeFileId": 4631552,
+        "curseForgeProject": {
+          "id": 251389,
+          "name": "Integrated Tunnels",
+          "authors": [
+            {
+              "id": 13500867,
+              "name": "kroeser",
+              "url": "https://www.curseforge.com/members/13500867-kroeser?username=kroeser"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Transfer other stuff over Integrated Dynamics networks",
+          "categories": [
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 415,
+          "classId": 6,
+          "slug": "integrated-tunnels",
+          "isFeatured": false,
+          "dateModified": "2023-07-08T13:02:05.6Z",
+          "dateCreated": "2016-09-24T09:11:14.517Z",
+          "dateReleased": "2023-07-08T12:46:44.41Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CyclopsMC/IntegratedTunnels/issues",
+            "sourceUrl": "https://github.com/CyclopsMC/IntegratedTunnels"
+          },
+          "logo": {
+            "id": 52401,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/52/401/256/256/636114555761053412.png",
+            "title": "636114555761053412.png",
+            "url": "https://media.forgecdn.net/avatars/52/401/636114555761053412.png",
+            "modId": 251389
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 215890,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/890/310/172/2017-08-21_19.png",
+              "title": "World Item Importer/Exporter",
+              "url": "https://media.forgecdn.net/attachments/215/890/2017-08-21_19.png",
+              "modId": 251389
+            },
+            {
+              "id": 74522,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/522/310/172/2016-10-07_23.png",
+              "title": "Inactive, active, error",
+              "url": "https://media.forgecdn.net/attachments/74/522/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 74551,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/551/310/172/logo.png",
+              "title": "Integrated Tunnels",
+              "url": "https://media.forgecdn.net/attachments/74/551/logo.png",
+              "modId": 251389
+            },
+            {
+              "id": 74519,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/519/310/172/2016-10-07_23.png",
+              "title": "Multiple Importers and Exporters",
+              "url": "https://media.forgecdn.net/attachments/74/519/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 74513,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/513/310/172/2016-10-07_23.png",
+              "title": "Importer",
+              "url": "https://media.forgecdn.net/attachments/74/513/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 74518,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/518/310/172/2016-10-07_23.png",
+              "title": "Multiple interfaces",
+              "url": "https://media.forgecdn.net/attachments/74/518/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 74521,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/521/310/172/2016-10-07_23.png",
+              "title": "Items, Fluids and Energy",
+              "url": "https://media.forgecdn.net/attachments/74/521/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 215891,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/891/310/172/2017-08-21_19.png",
+              "title": "World Block Importer/Exporter",
+              "url": "https://media.forgecdn.net/attachments/215/891/2017-08-21_19.png",
+              "modId": 251389
+            },
+            {
+              "id": 74517,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/517/310/172/2016-10-07_23.png",
+              "title": "IO",
+              "url": "https://media.forgecdn.net/attachments/74/517/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 74520,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/520/310/172/2016-10-07_23.png",
+              "title": "Expressive configuration options",
+              "url": "https://media.forgecdn.net/attachments/74/520/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 215892,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/892/310/172/2017-08-21_19.png",
+              "title": "World Energy Importer/Exporter",
+              "url": "https://media.forgecdn.net/attachments/215/892/2017-08-21_19.png",
+              "modId": 251389
+            },
+            {
+              "id": 215893,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/893/310/172/2017-08-21_19.png",
+              "title": "Player Simulation",
+              "url": "https://media.forgecdn.net/attachments/215/893/2017-08-21_19.png",
+              "modId": 251389
+            },
+            {
+              "id": 74514,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/514/310/172/2016-10-07_23.png",
+              "title": "Exporter",
+              "url": "https://media.forgecdn.net/attachments/74/514/2016-10-07_23.png",
+              "modId": 251389
+            },
+            {
+              "id": 74515,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/515/310/172/2016-10-07_23.png",
+              "title": "Importer+Exporter",
+              "url": "https://media.forgecdn.net/attachments/74/515/2016-10-07_23.png",
+              "modId": 251389
+            }
+          ],
+          "mainFileId": 4631557
+        },
+        "curseForgeFile": {
+          "id": 4631552,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "IntegratedTunnels-1.19.2-1.8.20.jar",
+          "fileName": "IntegratedTunnels-1.19.2-1.8.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-08T12:46:11.743Z",
+          "fileLength": 609791,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 232758,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 236307,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 4631553,
+          "modules": [
+            {
+              "fingerprint": 1907923743,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 484059067,
+              "name": "org"
+            },
+            {
+              "fingerprint": 152818033,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 711562211,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3667489292,
+              "name": "logo_small.png"
+            },
+            {
+              "fingerprint": 1753869829,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1197441969,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "34f9c656b9a99dcd9222fa87f3275c7c3d781531",
+              "algo": 1
+            },
+            {
+              "value": "eea1638abc9daaee7ef502724fe0d038",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 721637038,
+          "modId": 251389
+        }
+      },
+      {
+        "name": "Cyclops Core",
+        "version": "CyclopsCore-1.19.2-1.18.6.jar",
+        "optional": true,
+        "file": "CyclopsCore-1.19.2-1.18.6.jar",
         "type": "mods",
         "description": "Library mod for EvilCraft, Integrated Dynamics and others.",
         "disabled": false,
@@ -66443,7 +66522,7 @@
         "wasSelected": true,
         "skipped": false,
         "curseForgeProjectId": 232758,
-        "curseForgeFileId": 4566201,
+        "curseForgeFileId": 4578156,
         "curseForgeProject": {
           "id": 232758,
           "name": "Cyclops Core",
@@ -66518,24 +66597,24 @@
           "mainFileId": 4646983
         },
         "curseForgeFile": {
-          "id": 4566201,
+          "id": 4578156,
           "gameId": 432,
           "isAvailable": true,
-          "displayName": "CyclopsCore-1.19.2-1.18.5.jar",
-          "fileName": "CyclopsCore-1.19.2-1.18.5.jar",
+          "displayName": "CyclopsCore-1.19.2-1.18.6.jar",
+          "fileName": "CyclopsCore-1.19.2-1.18.6.jar",
           "releaseType": 1,
           "fileStatus": 4,
-          "fileDate": "2023-06-04T06:50:42.853Z",
-          "fileLength": 886246,
+          "fileDate": "2023-06-10T13:38:57.463Z",
+          "fileLength": 886390,
           "dependencies": [],
-          "alternateFileId": 4566202,
+          "alternateFileId": 4578157,
           "modules": [
             {
-              "fingerprint": 403426030,
+              "fingerprint": 3482532127,
               "name": "META-INF"
             },
             {
-              "fingerprint": 2943803219,
+              "fingerprint": 1107219660,
               "name": "org"
             },
             {
@@ -66562,11 +66641,11 @@
           "isServerPack": false,
           "hashes": [
             {
-              "value": "1437c2d1e05f5792edc2e4ab5312121f5589f415",
+              "value": "fa4ba6c5a70fa99e1226ef60a5508c3b4d6228a9",
               "algo": 1
             },
             {
-              "value": "8818721842c4cf935508af52799d773f",
+              "value": "f957ef8e9ab1145041f1b3671aca3173",
               "algo": 2
             }
           ],
@@ -66588,7 +66667,7 @@
             "1.19.2",
             "Forge"
           ],
-          "fileFingerprint": 3559529637,
+          "fileFingerprint": 2270141253,
           "modId": 232758
         }
       }
@@ -66596,8 +66675,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690548306220,
-    "numPlays": 248
+    "lastPlayed": 1690549120729,
+    "numPlays": 250
   },
   "id": "1.19.2",
   "complianceLevel": 1,
