@@ -6,9 +6,9 @@
   "forge:ingots/platinum": "null",
   "forge:ingots/mithril": "null",
   "forge:ingots/iridium": "null",
-  "forge:ingots/graphite": "biggerreactors:graphite_ingot",
+  "forge:ingots/graphite": "null",
   "forge:ingots/tungsten": "null",
-  "forge:silicon": "ae2:silicon",
+  "forge:silicon": "null",
   "forge:rubber": "null",
   "forge:dusts/saltpeter": "null"
 }
