@@ -16419,155 +16419,6 @@
         }
       },
       {
-        "name": "Integrated NBT",
-        "version": "integratednbt-1.19.2-1.6.0.jar",
-        "optional": true,
-        "file": "integratednbt-1.19.2-1.6.0.jar",
-        "type": "mods",
-        "description": "An addon for Integrated Dynamics to help extract values from complex NBT data",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 380998,
-        "curseForgeFileId": 3983269,
-        "curseForgeProject": {
-          "id": 380998,
-          "name": "Integrated NBT",
-          "authors": [
-            {
-              "id": 26676462,
-              "name": "scleox",
-              "url": "https://www.curseforge.com/members/26676462-scleox?username=scleox"
-            }
-          ],
-          "gameId": 432,
-          "summary": "An addon for Integrated Dynamics to help extract values from complex NBT data",
-          "categories": [
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 412,
-          "classId": 6,
-          "slug": "integrated-nbt",
-          "isFeatured": false,
-          "dateModified": "2022-09-11T06:26:27.633Z",
-          "dateCreated": "2020-05-04T17:35:07.053Z",
-          "dateReleased": "2022-09-11T06:11:47.397Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-nbt",
-            "issuesUrl": "https://github.com/SCLeoX/IntegratedNBT/issues",
-            "sourceUrl": "https://github.com/SCLeoX/IntegratedNBT"
-          },
-          "logo": {
-            "id": 269514,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/269/514/256/256/637242105070993417.png",
-            "title": "637242105070993417.png",
-            "url": "https://media.forgecdn.net/avatars/269/514/637242105070993417.png",
-            "modId": 380998
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 3983269
-        },
-        "curseForgeFile": {
-          "id": 3983269,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "integratednbt-1.19.2-1.6.0.jar",
-          "fileName": "integratednbt-1.19.2-1.6.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-09-11T06:11:47.397Z",
-          "fileLength": 139020,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 236307,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 284492491,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1683298692,
-              "name": "me"
-            },
-            {
-              "fingerprint": 1362099752,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 619273959,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3273911401,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "26b7d99b7f4606dc477ab5169378e5eedc418251",
-              "algo": 1
-            },
-            {
-              "value": "569bba87fe836b5d31b91f7bd977f178",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 726809187,
-          "modId": 380998
-        }
-      },
-      {
         "name": "Mekanism",
         "version": "Mekanism-1.19.2-10.3.9.13.jar",
         "optional": true,
@@ -66670,13 +66521,162 @@
           "fileFingerprint": 2270141253,
           "modId": 232758
         }
+      },
+      {
+        "name": "Integrated NBT",
+        "version": "Unknown",
+        "optional": true,
+        "file": "integratednbt-1.19.2-1.6.0.jar",
+        "type": "mods",
+        "description": "An addon for Integrated Dynamics to help extract values from complex NBT data",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 380998,
+        "curseForgeFileId": 3983269,
+        "curseForgeProject": {
+          "id": 380998,
+          "name": "Integrated NBT",
+          "authors": [
+            {
+              "id": 26676462,
+              "name": "scleox",
+              "url": "https://www.curseforge.com/members/26676462-scleox?username=scleox"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon for Integrated Dynamics to help extract values from complex NBT data",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "integrated-nbt",
+          "isFeatured": false,
+          "dateModified": "2022-09-11T06:26:27.633Z",
+          "dateCreated": "2020-05-04T17:35:07.053Z",
+          "dateReleased": "2022-09-11T06:11:47.397Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/integrated-nbt",
+            "issuesUrl": "https://github.com/SCLeoX/IntegratedNBT/issues",
+            "sourceUrl": "https://github.com/SCLeoX/IntegratedNBT"
+          },
+          "logo": {
+            "id": 269514,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/269/514/256/256/637242105070993417.png",
+            "title": "637242105070993417.png",
+            "url": "https://media.forgecdn.net/avatars/269/514/637242105070993417.png",
+            "modId": 380998
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3983269
+        },
+        "curseForgeFile": {
+          "id": 3983269,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "integratednbt-1.19.2-1.6.0.jar",
+          "fileName": "integratednbt-1.19.2-1.6.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-09-11T06:11:47.397Z",
+          "fileLength": 139020,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 236307,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 284492491,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1683298692,
+              "name": "me"
+            },
+            {
+              "fingerprint": 1362099752,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 619273959,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3273911401,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "26b7d99b7f4606dc477ab5169378e5eedc418251",
+              "algo": 1
+            },
+            {
+              "value": "569bba87fe836b5d31b91f7bd977f178",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 726809187,
+          "modId": 380998
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690549120729,
-    "numPlays": 250
+    "lastPlayed": 1690549689799,
+    "numPlays": 251
   },
   "id": "1.19.2",
   "complianceLevel": 1,
