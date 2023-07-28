@@ -16043,7 +16043,7 @@
         "file": "ImmersiveEngineering-1.19.2-9.2.2-165.jar",
         "type": "mods",
         "description": "A retro-futuristic tech mod!",
-        "disabled": false,
+        "disabled": true,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -66596,8 +66596,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690546796079,
-    "numPlays": 245
+    "lastPlayed": 1690547809007,
+    "numPlays": 247
   },
   "id": "1.19.2",
   "complianceLevel": 1,
