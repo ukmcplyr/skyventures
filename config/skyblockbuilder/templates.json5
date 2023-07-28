@@ -16,7 +16,7 @@
   
   "spawns": {
     "simple": [
-      [ 7, 1, 7 ]
+      [ 2, 1, 5 ]
     ]
   },
   
@@ -31,7 +31,7 @@
       "name": "simple",
       "file": "simple.nbt",
       "spawns": "simple",
-      "direction": "west",
+      "direction": "east",
       "surroundingBlocks": "default"
     }
   ]
