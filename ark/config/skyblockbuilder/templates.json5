@@ -15,8 +15,8 @@
   "spawn": null,
   
   "spawns": {
-    "simple": [
-      [ 7, 1, 7 ]
+    "island-01": [
+      [ 11, 1, 9 ]
     ]
   },
   
@@ -28,9 +28,9 @@
   // The list of templates being available. The first entry is the default template.
   "templates": [
     {
-      "name": "simple",
-      "file": "simple.nbt",
-      "spawns": "simple",
+      "name": "island-01",
+      "file": "island-01.nbt",
+      "spawns": "island-01",
       "direction": "west",
       "surroundingBlocks": "default"
     }
