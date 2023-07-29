@@ -19,6 +19,10 @@
     {
       "item": "thermal:flax_seeds",
       "chance": 3.125
+    },
+    {
+      "item": "farmersdelight:rice_panicle",
+      "chance": 1.125
     }
   ]
 }
