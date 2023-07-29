@@ -1,5 +1,24 @@
 {
   "recipes": [
-    "cyclic:crafting/chest"
-  ]
+    "ae2:charger/meteorite_compass",
+    "createendertransmission:chunk_loader",
+    "cyclic:crafter",
+    "cyclic:crafting_stick",
+    "cyclic:crafting/chest",
+    "cyclic:glass_connected",
+    "cyclic:hopper",
+    "cyclic:uncrafter"
+  ],
+  "jei": {
+    "hidden_items": [
+      "ae2:meteorite_compass",
+      "compactmachines:chunkloader",
+      "createendertransmission:chunk_loader",
+      "cyclic:crafter",
+      "cyclic:crafting_stick",
+      "cyclic:hopper_fluid",
+      "cyclic:hopper",
+      "cyclic:uncrafter"
+    ]
+  }
 }
