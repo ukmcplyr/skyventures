@@ -14,9 +14,9 @@
 <add> <strainer>strainer_survivalist</strainer> <chance>30</chance> <item>minecraft:sand</item> </add>
 <add> <strainer>strainer_survivalist</strainer> <chance>30</chance> <item>minecraft:gravel</item> </add>
 <add> <strainer>strainer_survivalist</strainer> <chance>25</chance> <item>minecraft:clay_ball</item> </add>
-<add> <strainer>strainer_survivalist</strainer> <chance>3</chance> <item>thermal:copper_nugget</item> </add>
-<add> <strainer>strainer_survivalist</strainer> <chance>2</chance> <item>create:zinc_nugget</item> </add>
-<add> <strainer>strainer_survivalist</strainer> <chance>1</chance> <item>minecraft:iron_nugget</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>6</chance> <item>thermal:copper_nugget</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>6</chance> <item>create:zinc_nugget</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>5</chance> <item>minecraft:iron_nugget</item> </add>
 <add> <strainer>strainer_survivalist</strainer> <chance>1</chance> <item>minecraft:gold_nugget</item> </add>
 
 <copy> <child>strainer_survivalist_solid</child> <parent>strainer_survivalist</parent> </copy>
