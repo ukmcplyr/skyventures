@@ -78517,13 +78517,151 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Deepslate Tweaks (Forge / Fabric)",
+        "version": "(Forge) Deepslate Tweaks 1.2-1.19.2",
+        "optional": true,
+        "file": "deepslatetweaks-1.2-1.19.2.jar",
+        "type": "mods",
+        "description": "changes the speed at which Deepslate is mined to that of regular stone",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 632466,
+        "curseForgeFileId": 4511630,
+        "curseForgeProject": {
+          "id": 632466,
+          "name": "Deepslate Tweaks (Forge / Fabric)",
+          "authors": [
+            {
+              "id": 103285877,
+              "name": "SYCO_3",
+              "url": "https://www.curseforge.com/members/103285877-syco_3?username=syco_3"
+            }
+          ],
+          "gameId": 432,
+          "summary": "changes the speed at which Deepslate is mined to that of regular stone",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "deepslate-tweaks",
+          "isFeatured": false,
+          "dateModified": "2023-07-16T03:03:57.26Z",
+          "dateCreated": "2022-06-11T02:24:57.6Z",
+          "dateReleased": "2023-07-16T02:53:09.147Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/deepslate-tweaks",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 557822,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/557/822/256/256/637905121821860302.png",
+            "title": "637905121821860302.png",
+            "url": "https://media.forgecdn.net/avatars/557/822/637905121821860302.png",
+            "modId": 632466
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 4646585
+        },
+        "curseForgeFile": {
+          "id": 4511630,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "(Forge) Deepslate Tweaks 1.2-1.19.2",
+          "fileName": "deepslatetweaks-1.2-1.19.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-04-29T04:18:25.177Z",
+          "fileLength": 106006,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2262752374,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2697798146,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1198173420,
+              "name": "DeepslateTweaksLogo.png"
+            },
+            {
+              "fingerprint": 1311167847,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ac5cad5b4fbc72f58c51baca806c875599f70548",
+              "algo": 1
+            },
+            {
+              "value": "75a10cf84427e28a7bdbf83013178150",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 4213263287,
+          "modId": 632466
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690634201578,
-    "numPlays": 291
+    "lastPlayed": 1690639613013,
+    "numPlays": 294
   },
   "id": "1.19.2",
   "complianceLevel": 1,
