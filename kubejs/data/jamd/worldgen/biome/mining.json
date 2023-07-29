@@ -1,0 +1,89 @@
+{
+  "downfall": 0.4,
+  "temperature": 1.0,
+  "precipitation": "none",
+  "effects": {
+    "sky_color": 6815743,
+    "fog_color": 12648447,
+    "water_color": 5235681,
+    "water_fog_color": 5235681,
+    "grass_color": 8053541,
+    "foliage_color": 4833320
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [
+      "minecraft:amethyst_geode"
+    ],
+    [],
+    [],
+    [],
+    [
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel",
+      "minecraft:ore_clay",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite_upper",
+      "minecraft:ore_granite_lower",
+      "minecraft:ore_diorite_upper",
+      "minecraft:ore_diorite_lower",
+      "minecraft:ore_andesite_upper",
+      "minecraft:ore_andesite_lower",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma",
+      "minecraft:ore_emerald",
+      "minecraft:ore_tuff",
+      "powah:uraninite_ore_poor",
+      "powah:uraninite_ore",
+      "powah:uraninite_ore_dense",
+      "mekanism:ore_osmium_upper",
+      "mekanism:ore_osmium_middle",
+      "mekanism:ore_osmium_small",
+      "mekanism:ore_uranium_small",
+      "mekanism:ore_uranium_buried",
+      "mekanism:ore_fluorite_normal",
+      "mekanism:ore_fluorite_buried",
+      "create:striated_ores_overworld",
+      "create:zinc_ore",
+      "rftoolsbase:dimshard_dimensions"
+    ],
+    [
+      "minecraft:spring_water",
+      "minecraft:spring_lava"
+    ],
+    [
+	    "minecraft:glow_lichen",
+	    "minecraft:trees_plains",
+	    "minecraft:flower_plains",
+	    "minecraft:patch_grass_plain",
+	    "minecraft:patch_tall_grass_2"
+    ]
+  ]
+}
