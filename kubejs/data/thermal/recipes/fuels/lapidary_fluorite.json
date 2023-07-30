@@ -1,0 +1,8 @@
+{
+  "type": "thermal:lapidary_fuel",
+  "ingredient":
+  {
+    "tag": "forge:gems/fluorite"
+  },
+  "energy": 40000
+}
