@@ -9,6 +9,20 @@
     "cyclic:hopper",
     "cyclic:uncrafter"
   ],
+  "amadron_default_recipes": [
+    "pneumaticcraft:amadron/assembly_program_drill",
+    "pneumaticcraft:amadron/assembly_program_drill_laser",
+    "pneumaticcraft:amadron/assembly_program_laser",
+    "pneumaticcraft:amadron/diesel_to_emerald",
+    "pneumaticcraft:amadron/emerald_to_lubricant",
+    "pneumaticcraft:amadron/emerald_to_oil",
+    "pneumaticcraft:amadron/gasoline_to_emerald",
+    "pneumaticcraft:amadron/kerosene_to_emerald",
+    "pneumaticcraft:amadron/lpg_to_emerald",
+    "pneumaticcraft:amadron/lubricant_to_emerald",
+    "pneumaticcraft:amadron/oil_to_emerald",
+    "pneumaticcraft:amadron/pcb_blueprint"
+  ],
   "jei": {
     "hidden_items": [
       "ae2:meteorite_compass",
