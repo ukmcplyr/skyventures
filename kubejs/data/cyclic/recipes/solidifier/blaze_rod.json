@@ -12,8 +12,8 @@
 		}
 	],
 	"energy": {
-		"rfpertick": 150,
-		"ticks": 100
+		"rfpertick": 250,
+		"ticks": 300
 	},
 	"mix": {
 		"fluid": "cyclic:magma",
