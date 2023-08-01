@@ -18630,395 +18630,6 @@
         }
       },
       {
-        "name": "Inventory HUD+",
-        "version": "Unknown",
-        "optional": true,
-        "file": "invhud.forge.1.19-3.4.7.jar",
-        "type": "mods",
-        "description": "Adds your main inventory, potion effects and your equipments to your HUD. And few other features.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 357540,
-        "curseForgeFileId": 4153724,
-        "curseForgeProject": {
-          "id": 357540,
-          "name": "Inventory HUD+",
-          "authors": [
-            {
-              "id": 100748378,
-              "name": "dmitrylovin",
-              "url": "https://www.curseforge.com/members/100748378-dmitrylovin?username=dmitrylovin"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds your main inventory, potion effects and your equipments to your HUD. And few other features.",
-          "categories": [
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "inventory-hud-forge",
-          "isFeatured": false,
-          "dateModified": "2023-07-26T16:03:37.433Z",
-          "dateCreated": "2020-01-06T14:00:24.837Z",
-          "dateReleased": "2023-07-26T15:59:14.477Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
-            "wikiUrl": ""
-          },
-          "logo": {
-            "id": 245612,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/245/612/256/256/637152714912784543.png",
-            "title": "637152714912784543.png",
-            "url": "https://media.forgecdn.net/avatars/245/612/637152714912784543.png",
-            "modId": 357540
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 314022,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/22/310/172/1144.png",
-              "title": "1144",
-              "url": "https://media.forgecdn.net/attachments/314/22/1144.png",
-              "modId": 357540
-            },
-            {
-              "id": 370468,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/370/468/310/172/117.png",
-              "title": "117button",
-              "url": "https://media.forgecdn.net/attachments/370/468/117.png",
-              "modId": 357540
-            },
-            {
-              "id": 674828,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/674/828/310/172/120.png",
-              "title": "v120",
-              "url": "https://media.forgecdn.net/attachments/674/828/120.png",
-              "modId": 357540
-            },
-            {
-              "id": 360808,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/808/310/172/potions.png",
-              "title": "POTIONSNEW",
-              "url": "https://media.forgecdn.net/attachments/360/808/potions.png",
-              "modId": 357540
-            },
-            {
-              "id": 316530,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/316/530/310/172/189.png",
-              "title": "version189",
-              "url": "https://media.forgecdn.net/attachments/316/530/189.png",
-              "modId": 357540
-            },
-            {
-              "id": 360807,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/807/310/172/inventory.png",
-              "title": "INVENTORYNEW",
-              "url": "https://media.forgecdn.net/attachments/360/807/inventory.png",
-              "modId": 357540
-            },
-            {
-              "id": 389361,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/389/361/310/172/1171.png",
-              "title": "1171",
-              "url": "https://media.forgecdn.net/attachments/389/361/1171.png",
-              "modId": 357540
-            },
-            {
-              "id": 638102,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/638/102/310/172/v1182.png",
-              "title": "minecraft 1.18.2",
-              "url": "https://media.forgecdn.net/attachments/638/102/v1182.png",
-              "modId": 357540
-            },
-            {
-              "id": 314029,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/29/310/172/twitter.png",
-              "title": "twitter",
-              "url": "https://media.forgecdn.net/attachments/314/29/twitter.png",
-              "modId": 357540
-            },
-            {
-              "id": 276382,
-              "description": "Full view with all features!",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/276/382/310/172/2020-01-22_16.png",
-              "title": "Full view",
-              "url": "https://media.forgecdn.net/attachments/276/382/2020-01-22_16.png",
-              "modId": 357540
-            },
-            {
-              "id": 284994,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/994/310/172/armor.png",
-              "title": "ArmorNew",
-              "url": "https://media.forgecdn.net/attachments/284/994/armor.png",
-              "modId": 357540
-            },
-            {
-              "id": 314021,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/21/310/172/1122.png",
-              "title": "1122",
-              "url": "https://media.forgecdn.net/attachments/314/21/1122.png",
-              "modId": 357540
-            },
-            {
-              "id": 314898,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/898/310/172/115x.png",
-              "title": "115x",
-              "url": "https://media.forgecdn.net/attachments/314/898/115x.png",
-              "modId": 357540
-            },
-            {
-              "id": 360792,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/792/310/172/main.png",
-              "title": "titleimage",
-              "url": "https://media.forgecdn.net/attachments/360/792/main.png",
-              "modId": 357540
-            },
-            {
-              "id": 411775,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/411/775/310/172/118.png",
-              "title": "118",
-              "url": "https://media.forgecdn.net/attachments/411/775/118.png",
-              "modId": 357540
-            },
-            {
-              "id": 414000,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/414/0/310/172/118x.png",
-              "title": "118x",
-              "url": "https://media.forgecdn.net/attachments/414/0/118x.png",
-              "modId": 357540
-            },
-            {
-              "id": 314023,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/23/310/172/1152.png",
-              "title": "1152",
-              "url": "https://media.forgecdn.net/attachments/314/23/1152.png",
-              "modId": 357540
-            },
-            {
-              "id": 314025,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/25/310/172/1163.png",
-              "title": "1163",
-              "url": "https://media.forgecdn.net/attachments/314/25/1163.png",
-              "modId": 357540
-            },
-            {
-              "id": 314026,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/26/310/172/fabric.png",
-              "title": "fabric",
-              "url": "https://media.forgecdn.net/attachments/314/26/fabric.png",
-              "modId": 357540
-            },
-            {
-              "id": 360805,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/805/310/172/config.png",
-              "title": "CONFIGNEW",
-              "url": "https://media.forgecdn.net/attachments/360/805/config.png",
-              "modId": 357540
-            },
-            {
-              "id": 467622,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/622/310/172/119.png",
-              "title": "v119",
-              "url": "https://media.forgecdn.net/attachments/467/622/119.png",
-              "modId": 357540
-            },
-            {
-              "id": 638103,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/638/103/310/172/v1194.png",
-              "title": "minecraft 1.19.4",
-              "url": "https://media.forgecdn.net/attachments/638/103/v1194.png",
-              "modId": 357540
-            },
-            {
-              "id": 314027,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/27/310/172/forge.png",
-              "title": "forge",
-              "url": "https://media.forgecdn.net/attachments/314/27/forge.png",
-              "modId": 357540
-            },
-            {
-              "id": 360806,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/806/310/172/armor.png",
-              "title": "ARMORNEW",
-              "url": "https://media.forgecdn.net/attachments/360/806/armor.png",
-              "modId": 357540
-            },
-            {
-              "id": 314024,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/24/310/172/116x.png",
-              "title": "116x",
-              "url": "https://media.forgecdn.net/attachments/314/24/116x.png",
-              "modId": 357540
-            },
-            {
-              "id": 389362,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/389/362/310/172/117x.png",
-              "title": "117x",
-              "url": "https://media.forgecdn.net/attachments/389/362/117x.png",
-              "modId": 357540
-            }
-          ],
-          "mainFileId": 4645739
-        },
-        "curseForgeFile": {
-          "id": 4153724,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[Forge][1.19.2-3]InventoryHud(v3.4.7)",
-          "fileName": "invhud.forge.1.19-3.4.7.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-12-09T13:49:58.713Z",
-          "fileLength": 210503,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3518078193,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1517029364,
-              "name": "dlovin"
-            },
-            {
-              "fingerprint": 2496424231,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 1631895083,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1735266188,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "57fec1bd929cc2b53fdd047a0a0c6ac988a3376a",
-              "algo": 1
-            },
-            {
-              "value": "3e231c23ed8ffdb8fcd01d30cc90ae52",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000003",
-              "gameVersion": "1.19.3",
-              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
-              "gameVersionName": "1.19.3"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.3",
-            "Client",
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 2916294183,
-          "modId": 357540
-        }
-      },
-      {
         "name": "Item Filters",
         "version": "Unknown",
         "optional": true,
@@ -62937,211 +62548,6 @@
         }
       },
       {
-        "name": "Torchmaster",
-        "version": "Unknown",
-        "optional": true,
-        "file": "torchmaster-19.2.92.jar",
-        "type": "mods",
-        "description": "Adds a special torch which prevents mob spawning in a configurable radius",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 254268,
-        "curseForgeFileId": 4666939,
-        "curseForgeProject": {
-          "id": 254268,
-          "name": "Torchmaster",
-          "authors": [
-            {
-              "id": 1244183,
-              "name": "xalcon",
-              "url": "https://www.curseforge.com/members/1244183-xalcon?username=xalcon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds a special torch which prevents mob spawning in a configurable radius",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "torchmaster",
-          "isFeatured": false,
-          "dateModified": "2023-07-27T09:30:52.17Z",
-          "dateCreated": "2016-11-27T14:01:08.217Z",
-          "dateReleased": "2023-07-27T09:29:13.25Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/torchmaster",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/Xalcon/TorchMaster/issues",
-            "sourceUrl": "https://github.com/xalcon/TorchMaster"
-          },
-          "logo": {
-            "id": 65019,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/65/19/256/256/636158304682638960.png",
-            "title": "636158304682638960.png",
-            "url": "https://media.forgecdn.net/avatars/65/19/636158304682638960.png",
-            "modId": 254268
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 201574,
-              "description": "The mega torch is decently sized to easily distinguish it from normal torches :P",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/201/574/310/172/torch_size.png",
-              "title": "Mega Torch size comparison",
-              "url": "https://media.forgecdn.net/attachments/201/574/torch_size.png",
-              "modId": 254268
-            },
-            {
-              "id": 245909,
-              "description": "This image shows mob spawning still works with a mega torch nearby. So you mob farms can still run while the rest of your base is safe from those pesky zombies.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/245/909/310/172/2019-02-06_18.png",
-              "title": "Mega Torch & Artificial Spawning",
-              "url": "https://media.forgecdn.net/attachments/245/909/2019-02-06_18.png",
-              "modId": 254268
-            }
-          ],
-          "mainFileId": 4666939
-        },
-        "curseForgeFile": {
-          "id": 4666939,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "torchmaster-19.2.92",
-          "fileName": "torchmaster-19.2.92.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-27T09:29:13.25Z",
-          "fileLength": 100288,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 766739307,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 997938996,
-              "name": "net"
-            },
-            {
-              "fingerprint": 4244191094,
-              "name": "data"
-            },
-            {
-              "fingerprint": 4253522632,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1707458583,
-              "name": "assets"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "a0a45aeebb96d9fdbae1b1a928d072db8af078c5",
-              "algo": 1
-            },
-            {
-              "value": "d0507171cace06aa23a57705c1688838",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 4042029444,
-          "modId": 254268
-        },
-        "modrinthProject": {
-          "id": "Tl8ESrhX",
-          "slug": "torchmaster",
-          "project_type": "mod",
-          "team": "FMtV6fBF",
-          "title": "TorchMaster",
-          "description": "Control Mob Spawning with simple to use Blocks like the Mega Torch or the Dread Lamp",
-          "body": "Adds a special torch which prevents mob spawning in a configurable radius.\n\nOriginal idea by RWTema (Extra Utilities 1)\n\nNote: The torch is supposed to only block \"natural\" spawning from low light levels. Mob Spawners should still work. I've added special handling for vanilla mob spawners. Spawners from other mods should work as well! If you find a mod that is not working with the mega torch, please open a ticket on my github repo.",
-          "published": "2022-05-21T07:45:48.771019Z",
-          "updated": "2023-07-27T09:29:10.221826Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "decoration",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/Tl8ESrhX/icon.png",
-          "issues_url": "https://github.com/Xalcon/TorchMaster/issues",
-          "source_url": "https://github.com/Xalcon/TorchMaster",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "cznarxo0",
-          "project_id": "Tl8ESrhX",
-          "author_id": "GJDFVgRR",
-          "name": "torchmaster-19.2.92",
-          "version_number": "19.2.92",
-          "changelog": "## v19.2.92\n- Improve blocking behavior for Mega Torch and Dread Lamp. Intentional Spawns (like Spawn Eggs, bucket placements, breeding) should no longer be blocked\n\n## v19.2.91\n- Improve village siege handling\n\n## v19.2.90\n- Limit MC Version to 1.19.2 for the Torchmaster 19.2.x version line. Use 19.4.x+ for MC 1.19.4+\n- Backport chunk loading bugfix from 1.19.3 Version of Torchmaster\n- Improve Invisible Light removal when Feral Flare Lantern is removed without player interaction\n\n## v19.2.0\n- Upgrade to MC 1.19.2\n\n## v19.0.2-beta\n- fix crash on startup with more recent versions of forge\n\n## v19.0.1-beta\n- Fix crash when placing Feral Flare Lantern\n\n## v19.0.0-alpha\n- Initial port to MC 1.19\n\n## v18.1.0\n- Allow the Mega Torch to block Village Sieges. This feature will be moved to a dedicated block in a future release.\n- Upgrade to Minecraft 1.18.2\n\n## v18.0.5\n- Fix a typo in the axe harvesting tags file\n\n## v18.0.4\n- Promote Mod to Release\n- Adjust block sounds to reflect their materials more closely\n- Add harvest tool for each block (Axe: Megatorch, Pickaxe: Feral Flare Lantern, Dread Lamp)\n- Fix breaking particales for Feral Flare Lantern\n- Added locations for:\n  - PT_BR, PT_PT by vimino@github\n  - FR_FR by dracnis@github\n\n## v18.0.3-beta\n- Fix feral flare lantern not being able to remove light blocks after the chunk unloaded (i.e. world restart)\n\n## v18.0.2-beta\n- Feral Flare Lantern can now place light blocks at y < 0 in non-superflat worlds (this one slipped through, sorry!)\n\n## v18.0.1-beta\n- Feral Flare Lantern can now place light blocks at y < 0\n- Add support for the DoSpecialSpawn event\n- Piglins spawning from Nether Portals should now be blocked\n\n## v18.0.0-beta\ninitial release for Minecraft 1.18\n",
-          "date_published": "2023-07-27T09:29:10.864869Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "a0a45aeebb96d9fdbae1b1a928d072db8af078c5",
-                "sha512": "1c9d2099581b61d66c4c621151e26b67ead40adc32fdf14a45ca2c0a8f8d632c4e0a5f5f010da05d72c5d4653f070bedb320e04d8ebd1bda9a4f71b0c8a9f347"
-              },
-              "url": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/cznarxo0/torchmaster-19.2.92.jar",
-              "filename": "torchmaster-19.2.92.jar",
-              "primary": true,
-              "size": 100288
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.19.2"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Trample Stopper",
         "version": "Unknown",
         "optional": true,
@@ -78655,13 +78061,162 @@
           "fileFingerprint": 1156797404,
           "modId": 620784
         }
+      },
+      {
+        "name": "Torchmaster",
+        "version": "torchmaster-19.2.93",
+        "optional": true,
+        "file": "torchmaster-19.2.93.jar",
+        "type": "mods",
+        "description": "Adds a special torch which prevents mob spawning in a configurable radius",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 254268,
+        "curseForgeFileId": 4669791,
+        "curseForgeProject": {
+          "id": 254268,
+          "name": "Torchmaster",
+          "authors": [
+            {
+              "id": 1244183,
+              "name": "xalcon",
+              "url": "https://www.curseforge.com/members/1244183-xalcon?username=xalcon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a special torch which prevents mob spawning in a configurable radius",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "torchmaster",
+          "isFeatured": false,
+          "dateModified": "2023-07-30T20:55:27.853Z",
+          "dateCreated": "2016-11-27T14:01:08.217Z",
+          "dateReleased": "2023-07-30T20:44:12.27Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/torchmaster",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Xalcon/TorchMaster/issues",
+            "sourceUrl": "https://github.com/xalcon/TorchMaster"
+          },
+          "logo": {
+            "id": 65019,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/65/19/256/256/636158304682638960.png",
+            "title": "636158304682638960.png",
+            "url": "https://media.forgecdn.net/avatars/65/19/636158304682638960.png",
+            "modId": 254268
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 201574,
+              "description": "The mega torch is decently sized to easily distinguish it from normal torches :P",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/201/574/310/172/torch_size.png",
+              "title": "Mega Torch size comparison",
+              "url": "https://media.forgecdn.net/attachments/201/574/torch_size.png",
+              "modId": 254268
+            },
+            {
+              "id": 245909,
+              "description": "This image shows mob spawning still works with a mega torch nearby. So you mob farms can still run while the rest of your base is safe from those pesky zombies.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/245/909/310/172/2019-02-06_18.png",
+              "title": "Mega Torch & Artificial Spawning",
+              "url": "https://media.forgecdn.net/attachments/245/909/2019-02-06_18.png",
+              "modId": 254268
+            }
+          ],
+          "mainFileId": 4673249
+        },
+        "curseForgeFile": {
+          "id": 4669791,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "torchmaster-19.2.93",
+          "fileName": "torchmaster-19.2.93.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-28T20:04:23.53Z",
+          "fileLength": 100289,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1401426522,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1917017632,
+              "name": "net"
+            },
+            {
+              "fingerprint": 4244191094,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4253522632,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1707458583,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "678890ce4af28f05004a2097b83a96b401331bd8",
+              "algo": 1
+            },
+            {
+              "value": "82d35b5feda3782d84c9f8c1998637f5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 1349937435,
+          "modId": 254268
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690827140510,
-    "numPlays": 307
+    "lastPlayed": 1690848118814,
+    "numPlays": 312
   },
   "id": "1.19.2",
   "complianceLevel": 1,
