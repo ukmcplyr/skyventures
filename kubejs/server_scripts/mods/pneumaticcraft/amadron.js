@@ -1,4 +1,5 @@
 // priority: 0
+// requires: pneumaticcraft
 
 function AmadronDefaultRecipes()
 {
@@ -47,6 +48,38 @@ ServerEvents.recipes(event =>
   event.custom(AmadronSimpleRecipe(
     true,
     'easy_villagers:piglin',
+    1,
+    'minecraft:emerald',
+    8
+  ))
+
+  event.custom(AmadronSimpleRecipe(
+    true,
+    'enderstorage:ender_chest',
+    1,
+    'minecraft:emerald',
+    8
+  ))
+
+  event.custom(AmadronSimpleRecipe(
+    true,
+    'enderstorage:ender_tank',
+    1,
+    'minecraft:emerald',
+    8
+  ))
+
+  event.custom(AmadronSimpleRecipe(
+    true,
+    'mob_grinding_utils:golden_egg',
+    1,
+    'minecraft:emerald',
+    8
+  ))
+
+  event.custom(AmadronSimpleRecipe(
+    true,
+    'mob_grinding_utils:rotten_egg',
     1,
     'minecraft:emerald',
     8
