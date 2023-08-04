@@ -1,4 +1,5 @@
 // priority: 0
+// requires: botania
 
 const ALCHEMY_CATALYST = 'botania:alchemy_catalyst'
 
@@ -22,6 +23,20 @@ function BotaniaManaInfusedAlchemyRecipe(catalyst, input, output, cost)
 
 ServerEvents.recipes(event =>
 {
+  event.custom(BotaniaManaInfusedAlchemyRecipe(
+    ALCHEMY_CATALYST,
+    'resourcechickens:duck_feather',
+    'minecraft:feather',
+    500
+  ))
+
+  event.custom(BotaniaManaInfusedAlchemyRecipe(
+    ALCHEMY_CATALYST,
+    'resourcechickens:duck_egg',
+    'minecraft:egg',
+    500
+  ))
+
   event.remove({id: 'botania:mana_infusion/quartz_deconstruct'})
   event.remove({id: 'botania:mana_infusion/glowstone_deconstruct'})
 
