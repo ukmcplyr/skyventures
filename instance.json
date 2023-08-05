@@ -27,6 +27,7 @@
     "requiredMemory": 0,
     "requiredPermGen": 0,
     "maximumMemory": 6144,
+    "useJavaProvidedByMinecraft": false,
     "isDev": false,
     "isPlayable": true,
     "assetsMapToResources": false,
@@ -78383,13 +78384,181 @@
           "fileFingerprint": 803451773,
           "modId": 541466
         }
+      },
+      {
+        "name": "spark",
+        "version": "1.10.37 (Forge 1.19.4)",
+        "optional": true,
+        "file": "spark-1.10.37-forge.jar",
+        "type": "mods",
+        "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 361579,
+        "curseForgeFileId": 4505309,
+        "curseForgeProject": {
+          "id": 361579,
+          "name": "spark",
+          "authors": [
+            {
+              "id": 54676657,
+              "name": "Iucko",
+              "url": "https://www.curseforge.com/members/54676657-iucko?username=iucko"
+            }
+          ],
+          "gameId": 432,
+          "summary": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "spark",
+          "isFeatured": false,
+          "dateModified": "2023-06-14T20:59:40.777Z",
+          "dateCreated": "2020-02-06T14:59:56.383Z",
+          "dateReleased": "2023-06-14T20:56:56.03Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spark",
+            "wikiUrl": "https://spark.lucko.me/docs",
+            "issuesUrl": "https://github.com/lucko/spark/issues",
+            "sourceUrl": "https://github.com/lucko/spark"
+          },
+          "logo": {
+            "id": 495151,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/495/151/256/256/637808085409071880.png",
+            "title": "637808085409071880.png",
+            "url": "https://media.forgecdn.net/avatars/495/151/637808085409071880.png",
+            "modId": 361579
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4587309
+        },
+        "curseForgeFile": {
+          "id": 4505309,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.10.37 (Forge 1.19.4)",
+          "fileName": "spark-1.10.37-forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-04-24T16:11:53.493Z",
+          "fileLength": 2976410,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1357619548,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1794495269,
+              "name": "me"
+            },
+            {
+              "fingerprint": 875227375,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3177227841,
+              "name": "spark"
+            },
+            {
+              "fingerprint": 2158727245,
+              "name": "win32-x86-64"
+            },
+            {
+              "fingerprint": 2564852001,
+              "name": "win32-x86"
+            },
+            {
+              "fingerprint": 2763759627,
+              "name": "google"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "74b6892e6df6f764c4b8833ad0547bfa46457be0",
+              "algo": 1
+            },
+            {
+              "value": "571b1510bd5f6d37f7fbfd2bede7f46f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.4",
+            "1.19.2",
+            "Forge",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2977095777,
+          "modId": 361579
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690920301201,
-    "numPlays": 318
+    "lastPlayed": 1691263758243,
+    "numPlays": 330
   },
   "id": "1.19.2",
   "complianceLevel": 1,
