@@ -24824,243 +24824,6 @@
         }
       },
       {
-        "name": "Torcherino",
-        "version": "Unknown",
-        "optional": true,
-        "file": "Torcherino-forge-1.19.2-17.0.4.jar",
-        "type": "mods",
-        "description": "Torch that speeds up tile entities.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 236794,
-        "curseForgeFileId": 4061024,
-        "curseForgeProject": {
-          "id": 236794,
-          "name": "Torcherino",
-          "authors": [
-            {
-              "id": 8281727,
-              "name": "sci4me",
-              "url": "https://www.curseforge.com/members/8281727-sci4me?username=sci4me"
-            },
-            {
-              "id": 10884641,
-              "name": "TheCompasses",
-              "url": "https://www.curseforge.com/members/10884641-messy3llie?username=messy3llie"
-            },
-            {
-              "id": 101273652,
-              "name": "lukegrahamlandry",
-              "url": "https://www.curseforge.com/members/101273652-lukegrahamlandry?username=lukegrahamlandry"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Torch that speeds up tile entities.",
-          "categories": [
-            {
-              "name": "Processing",
-              "slug": "technology-processing",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
-              "dateModified": "2014-05-08T17:38:41.96Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 413,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 412,
-          "classId": 6,
-          "slug": "torcherino",
-          "isFeatured": false,
-          "dateModified": "2023-05-18T23:45:09.833Z",
-          "dateCreated": "2015-10-07T05:01:42.68Z",
-          "dateReleased": "2023-05-18T23:34:18.707Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/torcherino",
-            "wikiUrl": "https://moddingtutorials.org/mods/torcherino",
-            "issuesUrl": "https://github.com/LukeGrahamLandry/Torcherino/issues",
-            "sourceUrl": "https://github.com/NinjaPhenix/Torcherino"
-          },
-          "logo": {
-            "id": 26783,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/26/783/256/256/635797729027107558.jpeg",
-            "title": "635797729027107558.jpeg",
-            "url": "https://media.forgecdn.net/avatars/26/783/635797729027107558.jpeg",
-            "modId": 236794
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4542924
-        },
-        "curseForgeFile": {
-          "id": 4061024,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[Forge 1.19.2] 17.0.4",
-          "fileName": "Torcherino-forge-1.19.2-17.0.4.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-11-01T06:36:13.813Z",
-          "fileLength": 118701,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4241406484,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2151759303,
-              "name": "torcherino"
-            },
-            {
-              "fingerprint": 283542560,
-              "name": "torcherino.png"
-            },
-            {
-              "fingerprint": 2269861045,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1454007100,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1062088247,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "55b1f9febcee15e4c4ce4a53779f65d6f3160215",
-              "algo": 1
-            },
-            {
-              "value": "8f36fae6e093aac3eced380bbdb85fca",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000001",
-              "gameVersion": "1.19.1",
-              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
-              "gameVersionName": "1.19.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
-              "gameVersionName": "1.19"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge",
-            "1.19.1",
-            "1.19"
-          ],
-          "fileFingerprint": 277000509,
-          "modId": 236794
-        },
-        "modrinthProject": {
-          "id": "BUIMWY7q",
-          "slug": "torcherino",
-          "project_type": "mod",
-          "team": "W1Jkp9Dd",
-          "title": "Torcherino",
-          "description": "various torches that increase the tick rates of tile entities",
-          "body": "This is a small, simple mod that adds various torches that can be used to increase the tick rates of tile entities. To put that into English, they make machines run faster.\n\n \n\nA few example uses:\n\n- Growing plants faster\n- Smelting ores faster\n- Increasing mob spawner speed\n\nThere is one main Torcherino, and then there are various upgrades that add onto them. Many of these things are configurable in the mod configuration file which is called Torcherino.cfg and is in the config/sci4me folder.\n\nAfter placing a Torcherino, it will default to being deactivated. You must right click it and use the gui to adjust its settings to the range and speed you prefer (max values are determined by the tier being used). \n\n### Past Maintainers \n\n- Moze_Intel\n- [sci4me](https://www.curseforge.com/members/sci4me/projects)\n- [3llemes](https://www.curseforge.com/members/3llemes/projects)\n",
-          "published": "2022-11-11T21:54:51.117685Z",
-          "updated": "2023-06-12T18:53:45.903252Z",
-          "status": "approved",
-          "license": {
-            "id": "LGPL-3.0-only",
-            "name": "GNU Lesser General Public License v3.0 only"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "technology",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/BUIMWY7q/fff65c014077eb47fa2e1c01f160f23388ac309e.jpeg",
-          "issues_url": "https://github.com/LukeGrahamLandry/Torcherino/issues",
-          "source_url": "https://github.com/LukeGrahamLandry/Torcherino",
-          "wiki_url": "https://moddingtutorials.org/mods/torcherino",
-          "discord_url": "https://moddingtutorials.org/discord",
-          "donation_urls": [
-            {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/LukeGrahamLandry"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "eAOwqYrS",
-          "project_id": "BUIMWY7q",
-          "author_id": "3ouQLKLQ",
-          "name": "17.0.4",
-          "version_number": "17.0.4",
-          "changelog": "Initial Modrinth Release",
-          "date_published": "2022-11-11T21:54:51.119515Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "55b1f9febcee15e4c4ce4a53779f65d6f3160215",
-                "sha512": "61cd1ffc40dd384b22b8c02b85933fa82194c2eb49c2cc0c2fe0f766f8b527eb97d1d20ed33aeb9ded192972ca5e6ffb08ebe54fb0337f61eba9bccfae0cc998"
-              },
-              "url": "https://cdn.modrinth.com/data/BUIMWY7q/versions/eAOwqYrS/Torcherino-forge-1.19.2-17.0.4.jar",
-              "filename": "Torcherino-forge-1.19.2-17.0.4.jar",
-              "primary": true,
-              "size": 118701
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.19.1",
-            "1.19.2"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Towers of the Wild: Additions",
         "version": "Unknown",
         "optional": true,
@@ -78614,6 +78377,147 @@
           ],
           "fileFingerprint": 3728754339,
           "modId": 307788
+        }
+      },
+      {
+        "name": "SebastrnLib",
+        "version": "Unknown",
+        "optional": true,
+        "file": "sebastrnlib-2.0.2.jar",
+        "type": "mods",
+        "description": "A common mod project for all Sebastrn's mods",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 709936,
+        "curseForgeFileId": 4431427,
+        "curseForgeProject": {
+          "id": 709936,
+          "name": "SebastrnLib",
+          "authors": [
+            {
+              "id": 102332081,
+              "name": "ItsSebastrn",
+              "url": "https://www.curseforge.com/members/102332081-itssebastrn?username=itssebastrn"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A common mod project for all Sebastrn's mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "sebastrnlib",
+          "isFeatured": false,
+          "dateModified": "2023-03-10T23:59:22.513Z",
+          "dateCreated": "2022-11-23T16:49:56.36Z",
+          "dateReleased": "2023-03-10T23:52:27.597Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sebastrnlib",
+            "issuesUrl": "https://github.com/Sebastrn/SebastrnLib/issues",
+            "sourceUrl": "https://github.com/Sebastrn/SebastrnLib"
+          },
+          "logo": {
+            "id": 646610,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/646/610/256/256/638048189963936128.png",
+            "title": "638048189963936128.png",
+            "url": "https://media.forgecdn.net/avatars/646/610/638048189963936128.png",
+            "modId": 709936
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4431476
+        },
+        "curseForgeFile": {
+          "id": 4431427,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "sebastrnlib-2.0.2.jar",
+          "fileName": "sebastrnlib-2.0.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-10T22:59:47.213Z",
+          "fileLength": 540263,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306770,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 603075932,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 434802997,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 681610086,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2802218337,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1072622785,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3757564457,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "32b013cca8be92b16c48704abbc7bf95ce0ac60c",
+              "algo": 1
+            },
+            {
+              "value": "d46411dc03af8bfc4badb08238c2110d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2360505580,
+          "modId": 709936
         }
       }
     ],
