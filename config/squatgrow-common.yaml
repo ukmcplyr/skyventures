@@ -11,4 +11,5 @@ ignoreList: ['minecraft:grass_block', 'minecraft:grass', 'minecraft:tall_grass',
   'botania:purple_mystical_flower', 'botania:blue_mystical_flower', 'botania:brown_mystical_flower',
   'botania:green_mystical_flower', 'botania:red_mystical_flower', 'botania:black_mystical_flower']
 range: 3
+requireHoe: false
 useWhitelist: false
