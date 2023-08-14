@@ -1,6 +1,3 @@
-/Advancedperipherals/general.toml
-/Advancedperipherals/metaphysics.toml
-/Advancedperipherals/peripherals.toml
 /advancementplaques-common.toml
 /ae2/client.json
 /aiimprovements-common.toml
@@ -58,7 +55,6 @@
 /collective.json5
 /comforts-server.toml
 /compactmachines-common.toml
-/computercraft-client.toml
 /configured-client.toml
 /connectiblechains-client.toml
 /connectiblechains-common.toml
