@@ -3573,216 +3573,6 @@
         }
       },
       {
-        "name": "Applied Cooking",
-        "version": "Unknown",
-        "optional": true,
-        "file": "appliedcooking-2.0.3.jar",
-        "type": "mods",
-        "description": "A mod that allows Applied Energistics 2 and Cooking for Blockheads to work together!",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 689579,
-        "curseForgeFileId": 4110311,
-        "curseForgeProject": {
-          "id": 689579,
-          "name": "Applied Cooking",
-          "authors": [
-            {
-              "id": 102332081,
-              "name": "ItsSebastrn",
-              "url": "https://www.curseforge.com/members/102332081-itssebastrn?username=itssebastrn"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A mod that allows Applied Energistics 2 and Cooking for Blockheads to work together!",
-          "categories": [
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Food",
-              "slug": "mc-food",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
-              "dateModified": "2014-05-08T17:45:26.55Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 436,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Applied Energistics 2",
-              "slug": "applied-energistics-2",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/applied-energistics-2",
-              "dateModified": "2015-09-14T14:18:48.563Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4545,
-              "iconUrl": "https://media.forgecdn.net/avatars/25/698/635778191285491081.png",
-              "parentCategoryId": 426,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 4545,
-          "classId": 6,
-          "slug": "applied-cooking",
-          "isFeatured": false,
-          "dateModified": "2023-03-11T00:13:56.1Z",
-          "dateCreated": "2022-10-18T01:11:41.307Z",
-          "dateReleased": "2023-03-11T00:06:19.263Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/applied-cooking",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/Sebastrn/AppliedCooking/issues",
-            "sourceUrl": "https://github.com/Sebastrn/AppliedCooking"
-          },
-          "logo": {
-            "id": 634662,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/634/662/256/256/638035430035027919.png",
-            "title": "638035430035027919.png",
-            "url": "https://media.forgecdn.net/avatars/634/662/638035430035027919.png",
-            "modId": 689579
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4431487
-        },
-        "curseForgeFile": {
-          "id": 4110311,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "appliedcooking-2.0.3.jar",
-          "fileName": "appliedcooking-2.0.3.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-11-24T17:22:45.043Z",
-          "fileLength": 162324,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 245211,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 709936,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 223794,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 324717,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 231484,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3904309800,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 4174468000,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 1997259258,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2317171024,
-              "name": "data"
-            },
-            {
-              "fingerprint": 438876448,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 357673641,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "42e1090fbfdbd467a23ffff9b8c9e35c674a3513",
-              "algo": 1
-            },
-            {
-              "value": "0ec5a243ec995b65f98e7cd68d6667fa",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 1376441084,
-          "modId": 689579
-        }
-      },
-      {
         "name": "Applied Energistics 2",
         "version": "Unknown",
         "optional": true,
@@ -22963,147 +22753,6 @@
           "loaders": [
             "forge"
           ]
-        }
-      },
-      {
-        "name": "SebastrnLib",
-        "version": "Unknown",
-        "optional": true,
-        "file": "sebastrnlib-2.0.2.jar",
-        "type": "mods",
-        "description": "A common mod project for all Sebastrn's mods",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 709936,
-        "curseForgeFileId": 4431427,
-        "curseForgeProject": {
-          "id": 709936,
-          "name": "SebastrnLib",
-          "authors": [
-            {
-              "id": 102332081,
-              "name": "ItsSebastrn",
-              "url": "https://www.curseforge.com/members/102332081-itssebastrn?username=itssebastrn"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A common mod project for all Sebastrn's mods",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "sebastrnlib",
-          "isFeatured": false,
-          "dateModified": "2023-03-10T23:59:22.513Z",
-          "dateCreated": "2022-11-23T16:49:56.36Z",
-          "dateReleased": "2023-03-10T23:52:27.597Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sebastrnlib",
-            "issuesUrl": "https://github.com/Sebastrn/SebastrnLib/issues",
-            "sourceUrl": "https://github.com/Sebastrn/SebastrnLib"
-          },
-          "logo": {
-            "id": 646610,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/646/610/256/256/638048189963936128.png",
-            "title": "638048189963936128.png",
-            "url": "https://media.forgecdn.net/avatars/646/610/638048189963936128.png",
-            "modId": 709936
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4431476
-        },
-        "curseForgeFile": {
-          "id": 4431427,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "sebastrnlib-2.0.2.jar",
-          "fileName": "sebastrnlib-2.0.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-03-10T22:59:47.213Z",
-          "fileLength": 540263,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 306770,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 603075932,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 434802997,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 681610086,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2802218337,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1072622785,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 3757564457,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "32b013cca8be92b16c48704abbc7bf95ce0ac60c",
-              "algo": 1
-            },
-            {
-              "value": "d46411dc03af8bfc4badb08238c2110d",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.19.2",
-            "Forge"
-          ],
-          "fileFingerprint": 2360505580,
-          "modId": 709936
         }
       },
       {
@@ -78094,13 +77743,885 @@
           "fileFingerprint": 3127054031,
           "modId": 463703
         }
+      },
+      {
+        "name": "Ex Machinis",
+        "version": "exmachinis-1.19.2-2.1.0.jar",
+        "optional": true,
+        "file": "exmachinis-1.19.2-2.1.0.jar",
+        "type": "mods",
+        "description": "Automation addon for Ex Nihilo Sequentia",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 631523,
+        "curseForgeFileId": 4332496,
+        "curseForgeProject": {
+          "id": 631523,
+          "name": "Ex Machinis",
+          "authors": [
+            {
+              "id": 17780582,
+              "name": "MutantGumdrop",
+              "url": "https://www.curseforge.com/members/17780582-mutantgumdrop?username=mutantgumdrop"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Automation addon for Ex Nihilo Sequentia",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "ex-machinis",
+          "isFeatured": false,
+          "dateModified": "2023-05-25T03:57:23.037Z",
+          "dateCreated": "2022-06-07T18:53:25.28Z",
+          "dateReleased": "2023-05-25T03:46:51.54Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ex-machinis",
+            "issuesUrl": "https://github.com/jeremiahwinsley/ExMachinis/issues",
+            "sourceUrl": "https://github.com/jeremiahwinsley/ExMachinis"
+          },
+          "logo": {
+            "id": 556713,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/556/713/256/256/637902248053060967.png",
+            "title": "637902248053060967.png",
+            "url": "https://media.forgecdn.net/avatars/556/713/637902248053060967.png",
+            "modId": 631523
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 477319,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/319/310/172/ex_machinis_sf.png",
+              "title": "Header",
+              "url": "https://media.forgecdn.net/attachments/477/319/ex_machinis_sf.png",
+              "modId": 631523
+            }
+          ],
+          "mainFileId": 4551559
+        },
+        "curseForgeFile": {
+          "id": 4332496,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "exmachinis-1.19.2-2.1.0.jar",
+          "fileName": "exmachinis-1.19.2-2.1.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-01-14T15:46:06.937Z",
+          "fileLength": 178152,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 400012,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 969718590,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1690424908,
+              "name": "net"
+            },
+            {
+              "fingerprint": 270164421,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3837356335,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2132234916,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3b68c4c239d25cedb313df3b4e20649b9a3eac69",
+              "algo": 1
+            },
+            {
+              "value": "898c2ca31744c63ecc5b5eeda5a2263f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.19.2",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1347452603,
+          "modId": 631523
+        }
+      },
+      {
+        "name": "Refined Storage",
+        "version": "v1.11.6",
+        "optional": true,
+        "file": "refinedstorage-1.11.6.jar",
+        "type": "mods",
+        "description": "An elegant solution to your hoarding problem.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 243076,
+        "curseForgeFileId": 4465872,
+        "curseForgeProject": {
+          "id": 243076,
+          "name": "Refined Storage",
+          "authors": [
+            {
+              "id": 24123658,
+              "name": "raoulvdberge",
+              "url": "https://www.curseforge.com/members/24123658-raoulvdberge?username=raoulvdberge"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An elegant solution to your hoarding problem.",
+          "categories": [
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 420,
+          "classId": 6,
+          "slug": "refined-storage",
+          "isFeatured": false,
+          "dateModified": "2023-07-07T19:38:23.85Z",
+          "dateCreated": "2016-03-20T09:25:29.727Z",
+          "dateReleased": "2023-07-07T19:29:47.697Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage",
+            "wikiUrl": "https://refinedmods.com/refined-storage",
+            "issuesUrl": "https://github.com/refinedmods/refinedstorage/issues",
+            "sourceUrl": "https://github.com/refinedmods/refinedstorage"
+          },
+          "logo": {
+            "id": 51695,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/51/695/256/256/636106666531773282.png",
+            "title": "636106666531773282.png",
+            "url": "https://media.forgecdn.net/avatars/51/695/636106666531773282.png",
+            "modId": 243076
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 689652,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/689/652/310/172/logo-subtitle.png",
+              "title": "Refined Storage logo",
+              "url": "https://media.forgecdn.net/attachments/689/652/logo-subtitle.png",
+              "modId": 243076
+            },
+            {
+              "id": 689650,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/689/650/310/172/carousel-2.png",
+              "title": "Refined Storage blocks (2)",
+              "url": "https://media.forgecdn.net/attachments/689/650/carousel-2.png",
+              "modId": 243076
+            },
+            {
+              "id": 689649,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/689/649/310/172/carousel-1.png",
+              "title": "Refined Storage blocks (1)",
+              "url": "https://media.forgecdn.net/attachments/689/649/carousel-1.png",
+              "modId": 243076
+            },
+            {
+              "id": 689651,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/689/651/310/172/carousel-3.png",
+              "title": "Refined Storage blocks (3)",
+              "url": "https://media.forgecdn.net/attachments/689/651/carousel-3.png",
+              "modId": 243076
+            }
+          ],
+          "mainFileId": 4630564
+        },
+        "curseForgeFile": {
+          "id": 4465872,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v1.11.6",
+          "fileName": "refinedstorage-1.11.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-30T15:36:46.093Z",
+          "fileLength": 3270375,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 789183531,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2577745252,
+              "name": "com"
+            },
+            {
+              "fingerprint": 98456792,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3020331149,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 4264083689,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1218016159,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 441503065,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0141533c14d78dbea972cb8f51ac93a739391682",
+              "algo": 1
+            },
+            {
+              "value": "dabbf4211f5e29e623bb4b9077cc8979",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 960851127,
+          "modId": 243076
+        }
+      },
+      {
+        "name": "RSInfinityBooster",
+        "version": "RSInfinityBooster v1.19.2-3.0+27",
+        "optional": true,
+        "file": "RSInfinityBooster-1.19.2-3.0+27.jar",
+        "type": "mods",
+        "description": "Added Infinity Range Card ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 446870,
+        "curseForgeFileId": 4299157,
+        "curseForgeProject": {
+          "id": 446870,
+          "name": "RSInfinityBooster",
+          "authors": [
+            {
+              "id": 12557677,
+              "name": "hexeptiondev",
+              "url": "https://www.curseforge.com/members/12557677-hexeptiondev?username=hexeptiondev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Added Infinity Range Card ",
+          "categories": [
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "rsinfinitybooster",
+          "isFeatured": false,
+          "dateModified": "2023-07-29T14:35:22.787Z",
+          "dateCreated": "2021-02-14T20:31:01.773Z",
+          "dateReleased": "2023-07-29T14:04:23.763Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Hexeption/RSInfinityBooster/issues",
+            "sourceUrl": "https://github.com/Hexeption/RSInfinityBooster"
+          },
+          "logo": {
+            "id": 343795,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/343/795/256/256/637489314617898850.png",
+            "title": "637489314617898850.png",
+            "url": "https://media.forgecdn.net/avatars/343/795/637489314617898850.png",
+            "modId": 446870
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4671036
+        },
+        "curseForgeFile": {
+          "id": 4299157,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "RSInfinityBooster v1.19.2-3.0+27",
+          "fileName": "RSInfinityBooster-1.19.2-3.0+27.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-01-04T18:41:23.837Z",
+          "fileLength": 25536,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 243076,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2108474409,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1889138635,
+              "name": "uk"
+            },
+            {
+              "fingerprint": 4150378568,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2562565424,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3190664344,
+              "name": "data"
+            },
+            {
+              "fingerprint": 571298745,
+              "name": "rsinfinitybooster.mixins.json"
+            },
+            {
+              "fingerprint": 783057700,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "rsinfinitybooster.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0de5694954282472a0b84c74c365aa367c882100",
+              "algo": 1
+            },
+            {
+              "value": "4151b2f9c1c21febc7e8c97e50a54aab",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19"
+          ],
+          "fileFingerprint": 1167460838,
+          "modId": 446870
+        }
+      },
+      {
+        "name": "Refined Storage Addons",
+        "version": "v0.9.0",
+        "optional": true,
+        "file": "refinedstorageaddons-0.9.0.jar",
+        "type": "mods",
+        "description": "An addon mod for Refined Storage.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 272302,
+        "curseForgeFileId": 4012659,
+        "curseForgeProject": {
+          "id": 272302,
+          "name": "Refined Storage Addons",
+          "authors": [
+            {
+              "id": 24123658,
+              "name": "raoulvdberge",
+              "url": "https://www.curseforge.com/members/24123658-raoulvdberge?username=raoulvdberge"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon mod for Refined Storage.",
+          "categories": [
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 420,
+          "classId": 6,
+          "slug": "refined-storage-addons",
+          "isFeatured": false,
+          "dateModified": "2023-07-05T11:13:24.503Z",
+          "dateCreated": "2017-07-17T11:21:46.497Z",
+          "dateReleased": "2023-07-05T11:08:13.323Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons",
+            "wikiUrl": "https://refinedmods.com/refined-storage-addons",
+            "issuesUrl": "https://github.com/refinedmods/refinedstorageaddons/issues",
+            "sourceUrl": "https://github.com/refinedmods/refinedstorageaddons"
+          },
+          "logo": {
+            "id": 106273,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/106/273/256/256/636358693065137736.png",
+            "title": "636358693065137736.png",
+            "url": "https://media.forgecdn.net/avatars/106/273/636358693065137736.png",
+            "modId": 272302
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4626171
+        },
+        "curseForgeFile": {
+          "id": 4012659,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v0.9.0",
+          "fileName": "refinedstorageaddons-0.9.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-09-30T12:19:18.467Z",
+          "fileLength": 32913,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1392834598,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2005664434,
+              "name": "com"
+            },
+            {
+              "fingerprint": 4281536443,
+              "name": "data"
+            },
+            {
+              "fingerprint": 175904817,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2013823684,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "fa7358350a2db978e0a06708e5de41933b477bfb",
+              "algo": 1
+            },
+            {
+              "value": "934dfe7bd5c6f73e66e064e31e6729c5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 8824057,
+          "modId": 272302
+        }
+      },
+      {
+        "name": "Refined Storage: Requestify",
+        "version": "rsrequestify-2.3.0.jar",
+        "optional": true,
+        "file": "rsrequestify-2.3.0.jar",
+        "type": "mods",
+        "description": "Keep you refined storage stocked with crafteable items",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 307788,
+        "curseForgeFileId": 4014076,
+        "curseForgeProject": {
+          "id": 307788,
+          "name": "Refined Storage: Requestify",
+          "authors": [
+            {
+              "id": 9564587,
+              "name": "Buuz135",
+              "url": "https://www.curseforge.com/members/9564587-buuz135?username=buuz135"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Keep you refined storage stocked with crafteable items",
+          "categories": [
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "rs-requestify",
+          "isFeatured": false,
+          "dateModified": "2023-07-07T12:50:26.977Z",
+          "dateCreated": "2018-11-27T10:32:46.26Z",
+          "dateReleased": "2023-07-07T12:46:07.44Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rs-requestify",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Buuz135/RS-Requestify/issues",
+            "sourceUrl": "https://github.com/Buuz135/RS-Requestify"
+          },
+          "logo": {
+            "id": 179817,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/179/817/256/256/636789115663061246.png",
+            "title": "636789115663061246.png",
+            "url": "https://media.forgecdn.net/avatars/179/817/636789115663061246.png",
+            "modId": 307788
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3597580
+        },
+        "curseForgeFile": {
+          "id": 4014076,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "rsrequestify-2.3.0.jar",
+          "fileName": "rsrequestify-2.3.0.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-10-01T15:32:45.9Z",
+          "fileLength": 62764,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 243076,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1185068133,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3280918277,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2072392136,
+              "name": "mcmod.info"
+            },
+            {
+              "fingerprint": 2303451245,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2707499699,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3799005545,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "113bae01cbc8a1fd9b3647955f8b955eba0382a1",
+              "algo": 1
+            },
+            {
+              "value": "12402eefa3aa55224a2ebfe469ab7223",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 3728754339,
+          "modId": 307788
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1691977304006,
-    "numPlays": 339
+    "lastPlayed": 1691979714193,
+    "numPlays": 342
   },
   "id": "1.19.2",
   "complianceLevel": 1,
@@ -78280,8 +78801,6 @@
   },
   "libraries": [
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:securejarhandler:2.1.4",
       "downloads": {
         "artifact": {
@@ -78293,8 +78812,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm:9.5",
       "downloads": {
         "artifact": {
@@ -78306,8 +78823,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-commons:9.5",
       "downloads": {
         "artifact": {
@@ -78319,8 +78834,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-tree:9.5",
       "downloads": {
         "artifact": {
@@ -78332,8 +78845,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-util:9.5",
       "downloads": {
         "artifact": {
@@ -78345,8 +78856,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-analysis:9.5",
       "downloads": {
         "artifact": {
@@ -78358,8 +78867,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:accesstransformers:8.0.4",
       "downloads": {
         "artifact": {
@@ -78371,8 +78878,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.antlr:antlr4-runtime:4.9.1",
       "downloads": {
         "artifact": {
@@ -78384,8 +78889,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:eventbus:6.0.3",
       "downloads": {
         "artifact": {
@@ -78397,8 +78900,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forgespi:6.0.0",
       "downloads": {
         "artifact": {
@@ -78410,8 +78911,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:coremods:5.0.1",
       "downloads": {
         "artifact": {
@@ -78423,8 +78922,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:modlauncher:10.0.8",
       "downloads": {
         "artifact": {
@@ -78436,8 +78933,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:unsafe:0.2.0",
       "downloads": {
         "artifact": {
@@ -78449,8 +78944,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:core:3.6.4",
       "downloads": {
         "artifact": {
@@ -78462,8 +78955,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:toml:3.6.4",
       "downloads": {
         "artifact": {
@@ -78475,8 +78966,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.maven:maven-artifact:3.8.5",
       "downloads": {
         "artifact": {
@@ -78488,8 +78977,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.jodah:typetools:0.8.3",
       "downloads": {
         "artifact": {
@@ -78501,8 +78988,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecrell:terminalconsoleappender:1.2.0",
       "downloads": {
         "artifact": {
@@ -78514,8 +78999,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-reader:3.12.1",
       "downloads": {
         "artifact": {
@@ -78527,8 +79010,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-terminal:3.12.1",
       "downloads": {
         "artifact": {
@@ -78540,8 +79021,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.spongepowered:mixin:0.8.5",
       "downloads": {
         "artifact": {
@@ -78553,8 +79032,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.openjdk.nashorn:nashorn-core:15.3",
       "downloads": {
         "artifact": {
@@ -78566,8 +79043,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarSelector:0.3.16",
       "downloads": {
         "artifact": {
@@ -78579,8 +79054,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarMetadata:0.3.16",
       "downloads": {
         "artifact": {
@@ -78592,8 +79065,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:bootstraplauncher:1.1.2",
       "downloads": {
         "artifact": {
@@ -78605,8 +79076,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarFileSystems:0.3.16",
       "downloads": {
         "artifact": {
@@ -78618,8 +79087,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlloader:1.19.2-43.2.21",
       "downloads": {
         "artifact": {
