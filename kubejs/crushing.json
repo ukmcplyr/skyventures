@@ -1,0 +1,29 @@
+{
+  "simple":
+  [
+    {
+      "input": "minecraft:cobblestone",
+      "output": "minecraft:gravel"
+    },
+    {
+      "input": "minecraft:gravel",
+      "output": "minecraft:sand"
+    },
+    {
+      "input": "minecraft:sand",
+      "output": "exnihilosequentia:dust"
+    },
+    {
+      "input": "minecraft:cobbled_deepslate",
+      "output": "exnihilosequentia:crushed_deepslate"
+    },
+    {
+      "input": "minecraft:netherrack",
+      "output": "exnihilosequentia:crushed_netherrack"
+    },
+    {
+      "input": "minecraft:end_stone",
+      "output": "exnihilosequentia:crushed_end_stone"
+    }
+  ]
+}
