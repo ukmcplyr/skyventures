@@ -77764,13 +77764,164 @@
           "fileFingerprint": 2360505580,
           "modId": 709936
         }
+      },
+      {
+        "name": "Time Control",
+        "version": "timecontrol-1.19.2-1.1.3.1.jar",
+        "optional": true,
+        "file": "timecontrol-1.19.2-1.1.3.1.jar",
+        "type": "mods",
+        "description": "Want longer or shorter in-game days/nights? So did I.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 303570,
+        "curseForgeFileId": 4559411,
+        "curseForgeProject": {
+          "id": 303570,
+          "name": "Time Control",
+          "authors": [
+            {
+              "id": 24552387,
+              "name": "Unixkitty",
+              "url": "https://www.curseforge.com/members/24552387-unixkitty?username=unixkitty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Want longer or shorter in-game days/nights? So did I.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "time-control",
+          "isFeatured": false,
+          "dateModified": "2023-07-03T14:02:49.737Z",
+          "dateCreated": "2018-09-24T10:02:06.25Z",
+          "dateReleased": "2023-07-03T14:02:06.203Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/time-control",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Unixkitty/timecontrol/issues",
+            "sourceUrl": "https://github.com/Unixkitty/timecontrol"
+          },
+          "logo": {
+            "id": 420958,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/420/958/256/256/637647969792525987.png",
+            "title": "637647969792525987.png",
+            "url": "https://media.forgecdn.net/avatars/420/958/637647969792525987.png",
+            "modId": 303570
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4622914
+        },
+        "curseForgeFile": {
+          "id": 4559411,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "timecontrol-1.19.2-1.1.3.1.jar",
+          "fileName": "timecontrol-1.19.2-1.1.3.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-30T17:35:36.87Z",
+          "fileLength": 133740,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3201683198,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1328546005,
+              "name": "com"
+            },
+            {
+              "fingerprint": 928732976,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3676200786,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 129842567,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "da7fdc1066a3ae330225ddbb35d52d1d3fe5631f",
+              "algo": 1
+            },
+            {
+              "value": "b536afac2fa7ee46c1bbce2ffdf0dfc6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.4",
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 880349211,
+          "modId": 303570
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1691987233641,
-    "numPlays": 347
+    "lastPlayed": 1692159260642,
+    "numPlays": 357
   },
   "id": "1.19.2",
   "complianceLevel": 1,
