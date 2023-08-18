@@ -24,6 +24,10 @@ ServerEvents.recipes(event =>
     PedestalsMaterialGeneratorRecipe('farmersdelight:rich_soil', 'minecraft:dirt')
   )
 
+  event.custom(
+    PedestalsMaterialGeneratorRecipe('minecraft:end_stone_bricks', 'minecraft:end_stone')
+  )
+
 })
 
 //
